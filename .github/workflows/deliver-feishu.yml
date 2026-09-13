@@ -33,25 +33,27 @@ jobs:
         id: report
         shell: bash
         env:
-          EVENT_NAME: ${{ github.event_name }}
-          INPUT_REPORT_PATH: ${{ inputs.report_path }}
-          SHA: ${{ github.sha }}
+          EVENT_NAME: \${{ github.event_name }}
+          INPUT_REPORT_PATH: \${{ inputs.report_path }}
+          SHA: \${{ github.sha }}
         run: |
           set -euo pipefail
           if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
             path="$INPUT_REPORT_PATH"
           else
-            path="$(git diff-tree --no-commit-id --name-only -r "$SHA" | grep -E '^reports/.*.md$' | head -n 1 || true)"
+            path="$(git diff-tree --no-commit-id --name-only -r "$SHA" | grep -E '^reports/.*\.md$' | head -n 1 || true)"
           fi
           if [ -z "$path" ]; then
-            echo "No Markdown report changed in this event." >&2
-            exit 1
+            echo "No Markdown report changed; skipping delivery."
+            echo "path=" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
           test -f "$path"
           echo "path=$path" >> "$GITHUB_OUTPUT"
 
       - name: Send report to Feishu
+        if: steps.report.outputs.path != ''
         env:
-          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_WEBHOOK_URL: \${{ secrets.FEISHU_WEBHOOK_URL }}
         run: |
-          python gpt-scheduled-task/send_feishu.py "${{ steps.report.outputs.path }}"
+          python gpt-scheduled-task/send_feishu.py "\${{ steps.report.outputs.path }}"
