@@ -1,92 +1,57 @@
 name: Deliver daily report to Feishu
 
 on:
-  p
-ush:
+  push:
     branches: [main]
     paths:
-      
-- "reports/**"
+      - "reports/**"
   workflow_dispatch:
-    input
-s:
+    inputs:
       report_path:
-        description: "P
-ath to the Markdown report"
-        required:
- true
-        default: gpt-scheduled-task/con
-nection-test.md
+        description: "Path to the Markdown report"
+        required: true
+        default: gpt-scheduled-task/connection-test.md
         type: string
 
-permiss
-ions:
+permissions:
   contents: read
 
 jobs:
   deliver:
-    
-runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: Check out report
-  
-      uses: actions/checkout@v4
+        uses: actions/checkout@v4
 
-      - name
-: Set up Python
-        uses: actions/setup-p
-ython@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-versi
-on: "3.x"
+          python-version: "3.x"
 
       - name: Find report path
-   
-     id: report
+        id: report
         shell: bash
-        e
-nv:
-          EVENT_NAME: ${{ github.event_na
-me }}
-          INPUT_REPORT_PATH: ${{ inputs
-.report_path }}
-          SHA: ${{ github.sha
- }}
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_REPORT_PATH: ${{ inputs.report_path }}
+          SHA: ${{ github.sha }}
         run: |
-          set -euo pipefai
-l
-          if [ "$EVENT_NAME" = "workflow_di
-spatch" ]; then
-            path="$INPUT_REPO
-RT_PATH"
+          set -euo pipefail
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            path="$INPUT_REPORT_PATH"
           else
-            path="$(g
-it diff-tree --no-commit-id --name-only -r "$
-SHA" | grep -E '^reports/.*.md$' | head -n 1 
-|| true)"
+            path="$(git diff-tree --no-commit-id --name-only -r "$SHA" | grep -E '^reports/.*.md$' | head -n 1 || true)"
           fi
-          if [ -z "$pa
-th" ]; then
-            echo "No Markdown rep
-ort changed in this event." >&2
-            e
-xit 1
+          if [ -z "$path" ]; then
+            echo "No Markdown report changed in this event." >&2
+            exit 1
           fi
           test -f "$path"
-
-          echo "path=$path" >> "$GITHUB_OUTPU
-T"
+          echo "path=$path" >> "$GITHUB_OUTPUT"
 
       - name: Send report to Feishu
-     
-   env:
-          FEISHU_WEBHOOK_URL: ${{ sec
-rets.FEISHU_WEBHOOK_URL }}
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
         run: |
-   
-       python gpt-scheduled-task/send_feishu.
-py "${{ steps.report.outputs.path }}"
-
-
+          python gpt-scheduled-task/send_feishu.py "${{ steps.report.outputs.path }}"
