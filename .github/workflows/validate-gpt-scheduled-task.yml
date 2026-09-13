@@ -1,0 +1,60 @@
+name: Validate GPT scheduled task configurati
+on
+
+on:
+  push:
+    paths:
+      - "gpt-sched
+uled-task/**"
+      - ".github/workflows/vali
+date-gpt-scheduled-task.yml"
+  pull_request:
+
+    paths:
+      - "gpt-scheduled-task/**"
+  
+    - ".github/workflows/validate-gpt-schedul
+ed-task.yml"
+  workflow_dispatch:
+
+jobs:
+  va
+lidate:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout
+        uses: actions
+/checkout@v4
+      - name: Set up Python
+    
+    uses: actions/setup-python@v5
+        wit
+h:
+          python-version: "3.x"
+      - na
+me: Validate configuration
+        run: pytho
+n gpt-scheduled-task/validate_config.py
+     
+ - name: Compile delivery script
+        run:
+ python -m py_compile gpt-scheduled-task/send
+_feishu.py
+      - name: Dry-run delivery scr
+ipt
+        run: |
+          python - <<'PY'
+
+          from pathlib import Path
+          
+Path("/tmp/sample-report.md").write_text("# T
+est report\n财经日报连接测试，发送
+时间：现在。\n", encoding="utf-8")
+    
+      PY
+          python gpt-scheduled-task/
+send_feishu.py --dry-run /tmp/sample-report.m
+d
+
+
