@@ -1,0 +1,135 @@
+{
+  "timezone": "Asia/Shanghai",
+  "schedule"
+: {
+    "local_time": "20:30",
+    "cron_utc"
+: "30 12 * * *"
+  },
+  "newsnow": {
+    "base
+_url": "https://newsnow.busiyi.world/api/s",
+
+    "source_ids": [
+      "wallstreetcn-hot",
+
+      "wallstreetcn-quick",
+      "wallstree
+tcn-news",
+      "cls-hot",
+      "cls-telegr
+aph",
+      "cls-depth",
+      "gelonghui",
+ 
+     "xueqiu",
+      "jin10",
+      "fastbull
+",
+      "tencent-hot",
+      "thepaper",
+   
+   "cankaoxiaoxi",
+      "zaobao",
+      "fas
+tbull-express",
+      "fastbull-news"
+    ],
+
+    "endpoints": [
+      {"name": "wallstreet
+cn-hot", "url": "https://newsnow.busiyi.world
+/api/s?id=wallstreetcn-hot"},
+      {"name": 
+"wallstreetcn-quick", "url": "https://newsnow
+.busiyi.world/api/s?id=wallstreetcn-quick"},
+
+      {"name": "wallstreetcn-news", "url": "h
+ttps://newsnow.busiyi.world/api/s?id=wallstre
+etcn-news"},
+      {"name": "cls-hot", "url":
+ "https://newsnow.busiyi.world/api/s?id=cls-h
+ot"},
+      {"name": "cls-telegraph", "url": 
+"https://newsnow.busiyi.world/api/s?id=cls-te
+legraph"},
+      {"name": "cls-depth", "url":
+ "https://newsnow.busiyi.world/api/s?id=cls-d
+epth"},
+      {"name": "gelonghui", "url": "h
+ttps://newsnow.busiyi.world/api/s?id=gelonghu
+i"},
+      {"name": "xueqiu", "url": "https:/
+/newsnow.busiyi.world/api/s?id=xueqiu"},
+    
+  {"name": "jin10", "url": "https://newsnow.b
+usiyi.world/api/s?id=jin10"},
+      {"name": 
+"fastbull", "url": "https://newsnow.busiyi.wo
+rld/api/s?id=fastbull"},
+      {"name": "tenc
+ent-hot", "url": "https://newsnow.busiyi.worl
+d/api/s?id=tencent-hot"},
+      {"name": "the
+paper", "url": "https://newsnow.busiyi.world/
+api/s?id=thepaper"},
+      {"name": "cankaoxi
+aoxi", "url": "https://newsnow.busiyi.world/a
+pi/s?id=cankaoxiaoxi"},
+      {"name": "zaoba
+o", "url": "https://newsnow.busiyi.world/api/
+s?id=zaobao"},
+      {"name": "fastbull-expre
+ss", "url": "https://newsnow.busiyi.world/api
+/s?id=fastbull-express"},
+      {"name": "fas
+tbull-news", "url": "https://newsnow.busiyi.w
+orld/api/s?id=fastbull-news"}
+    ],
+    "max
+_items": 20,
+    "min_china_items": 14,
+    "
+max_age_hours": 24
+  },
+  "delivery": {
+    "
+primary": "github-actions-feishu",
+    "githu
+b": {
+      "enabled": true,
+      "repositor
+y": "emilyyyho/gpt-finance-daily-briefing",
+     
+ "branch": "main",
+      "report_path_templ
+ate": "reports/{date}.md",
+      "commit_requ
+ired": true
+    },
+    "feishu": {
+      "ena
+bled": true,
+      "mode": "github_actions_we
+bhook",
+      "secret_name": "FEISHU_WEBHOOK_
+URL"
+    },
+    "wecom": {
+      "enabled": f
+alse,
+      "mode": "feishu-http-bridge",
+   
+   "destination": "configure-in-feishu-automa
+tion"
+    }
+  },
+  "ai": {
+    "provider": "c
+hatgpt-scheduled-task",
+    "external_api": f
+alse
+  }
+}
+
+
