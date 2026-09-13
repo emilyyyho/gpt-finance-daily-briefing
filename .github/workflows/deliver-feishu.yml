@@ -23,6 +23,8 @@ jobs:
     steps:
       - name: Check out report
         uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
 
       - name: Set up Python
         uses: actions/setup-python@v7
