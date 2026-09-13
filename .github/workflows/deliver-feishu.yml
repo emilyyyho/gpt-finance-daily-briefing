@@ -9,7 +9,7 @@ on:
     inputs:
       report_path:
         description: "Path to the Markdown report"
-        required: true
+        required: false
         default: gpt-scheduled-task/connection-test.md
         type: string
 
@@ -22,10 +22,10 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Check out report
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.x"
 
@@ -39,7 +39,7 @@ jobs:
         run: |
           set -euo pipefail
           if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
-            path="$INPUT_REPORT_PATH"
+            path="\${INPUT_REPORT_PATH:-gpt-scheduled-task/connection-test.md}"
           else
             path="$(git diff-tree --no-commit-id --name-only -r "$SHA" | grep -E '^reports/.*\.md$' | head -n 1 || true)"
           fi
