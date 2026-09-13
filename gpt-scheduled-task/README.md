@@ -28,7 +28,7 @@ ChatGPT 定时任务
 - `newsnow_task.json`：无密钥的运行参数和分析要求。
 - `knowledge-framework.md`：从用户本地 Obsidian 金融课提炼的公开方法摘要，不上传原笔记全文。
 - `validate_config.py`：本地和 GitHub Actions 使用的配置校验。
-- `send_feishu.py`：将 Markdown 标题、加粗字段、列表和链接转换成飞书富文本 post。
+- `send_feishu.py`：将 Markdown 标题、加粗字段、列表和链接转换成飞书 Markdown 卡片。
 - `wecom.md`：企业微信 CLI 和飞书自动化桥接路径。
 
 ## 一次性配置
