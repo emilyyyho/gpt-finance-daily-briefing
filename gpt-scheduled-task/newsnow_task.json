@@ -46,6 +46,12 @@
     "min_china_items": 14,
     "max_age_hours": 24
   },
+  "analysis": {
+    "knowledge_framework_url": "https://raw.githubusercontent.com/emilyyyho/gpt-finance-daily-briefing/main/gpt-scheduled-task/knowledge-framework.md",
+    "require_evidence_labels": true,
+    "require_market_summary": true,
+    "market_summary_labels": ["宏观环境", "流动性与政策", "大盘状态", "全球联动", "基准结论"]
+  },
   "delivery": {
     "primary": "github-actions-feishu",
     "github": {
