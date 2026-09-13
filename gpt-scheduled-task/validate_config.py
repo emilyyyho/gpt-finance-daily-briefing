@@ -24,6 +24,20 @@ def main() -> None:
     assert newsnow["max_age_hours"] == 24
     assert 1 <= newsnow["min_china_items"] <= newsnow["max_items"]
 
+    analysis = config["analysis"]
+    framework_url = analysis["knowledge_framework_url"]
+    assert framework_url.startswith("https://raw.githubusercontent.com/emilyyyho/")
+    assert framework_url.endswith("/gpt-scheduled-task/knowledge-framework.md")
+    assert analysis["require_evidence_labels"] is True
+    assert analysis["require_market_summary"] is True
+    assert analysis["market_summary_labels"] == [
+        "宏观环境",
+        "流动性与政策",
+        "大盘状态",
+        "全球联动",
+        "基准结论",
+    ]
+
     delivery = config["delivery"]
     assert delivery["primary"] == "github-actions-feishu"
 
