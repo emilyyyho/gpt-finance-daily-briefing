@@ -1,0 +1,92 @@
+name: Deliver daily report to Feishu
+
+on:
+  p
+ush:
+    branches: [main]
+    paths:
+      
+- "reports/**"
+  workflow_dispatch:
+    input
+s:
+      report_path:
+        description: "P
+ath to the Markdown report"
+        required:
+ true
+        default: gpt-scheduled-task/con
+nection-test.md
+        type: string
+
+permiss
+ions:
+  contents: read
+
+jobs:
+  deliver:
+    
+runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out report
+  
+      uses: actions/checkout@v4
+
+      - name
+: Set up Python
+        uses: actions/setup-p
+ython@v5
+        with:
+          python-versi
+on: "3.x"
+
+      - name: Find report path
+   
+     id: report
+        shell: bash
+        e
+nv:
+          EVENT_NAME: ${{ github.event_na
+me }}
+          INPUT_REPORT_PATH: ${{ inputs
+.report_path }}
+          SHA: ${{ github.sha
+ }}
+        run: |
+          set -euo pipefai
+l
+          if [ "$EVENT_NAME" = "workflow_di
+spatch" ]; then
+            path="$INPUT_REPO
+RT_PATH"
+          else
+            path="$(g
+it diff-tree --no-commit-id --name-only -r "$
+SHA" | grep -E '^reports/.*.md$' | head -n 1 
+|| true)"
+          fi
+          if [ -z "$pa
+th" ]; then
+            echo "No Markdown rep
+ort changed in this event." >&2
+            e
+xit 1
+          fi
+          test -f "$path"
+
+          echo "path=$path" >> "$GITHUB_OUTPU
+T"
+
+      - name: Send report to Feishu
+     
+   env:
+          FEISHU_WEBHOOK_URL: ${{ sec
+rets.FEISHU_WEBHOOK_URL }}
+        run: |
+   
+       python gpt-scheduled-task/send_feishu.
+py "${{ steps.report.outputs.path }}"
+
+
