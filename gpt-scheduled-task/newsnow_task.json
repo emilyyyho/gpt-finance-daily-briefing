@@ -1,9 +1,10 @@
 {
   "timezone": "Asia/Shanghai",
   "schedule": {
-    "local_times": ["08:00", "20:00"],
-    "cron_utc": "0 0,12 * * *",
-    "refresh_cron_utc": "17,47 * * * *"
+    "local_times": ["08:07", "20:07"],
+    "timezone": "Asia/Shanghai",
+    "cron": "7 8,20 * * *",
+    "fallback_cron": "37 * * * *"
   },
   "newsnow": {
     "base_url": "https://newsnow.busiyi.world/api/s",
