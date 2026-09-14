@@ -1,8 +1,13 @@
 name: Refresh dashboard and deliver daily editions
 on:
   schedule:
-    - cron: '0 0,12 * * *'
-    - cron: '17,47 * * * *'
+    # Avoid the start-of-hour Actions load peak; these are Beijing time.
+    - cron: '7 8,20 * * *'
+      timezone: 'Asia/Shanghai'
+    # Fallback sweep: if the primary scheduled run is delayed or dropped,
+    # this still delivers any due edition. The ledger prevents duplicates.
+    - cron: '37 * * * *'
+      timezone: 'Asia/Shanghai'
   push:
     branches: [main]
     paths:
