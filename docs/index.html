@@ -3,21 +3,60 @@
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="中国财经、全球要闻与主要市场行情，每日早晚报与来源状态。">
-<title>财经观察 · 每日财经看板</title><link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
-</head><body>
-<header class="topbar"><div class="brand"><h1>财经观察<span class="brand-dot">.</span></h1><span class="tagline">看财经 · 观世界 · 更理性</span></div><div class="top-actions"><time id="today"></time><button id="refresh">↻ 刷新</button></div></header>
-<main>
-<div class="data-line"><span id="freshness" role="status">正在读取最新数据…</span><span>云端约每 30 分钟更新 · 页面每分钟检查</span></div>
-<section aria-label="全球市场概览" id="markets" class="markets"></section>
-<div class="workspace"><section class="news-panel panel">
-<div class="section-heading"><div><h2>财经与世界</h2><p>从今日变化，观察长期方向。</p></div><label class="search"><span class="sr-only">搜索新闻标题或来源</span><input id="search" type="search" placeholder="搜索新闻、关键词或来源"></label></div>
-<nav class="tabs" aria-label="新闻分类"><button data-category="全部" aria-pressed="true">全部</button><button data-category="中国财经" aria-pressed="false">中国财经</button><button data-category="世界要闻" aria-pressed="false">世界要闻</button><span id="count"></span></nav>
-<p class="sort-note">最近 24 小时 · 按时间排序 · ◎ 宏观焦点　⚡ 市场异动　⚠ 风险事件<br>标记根据标题规则识别，影响方向待核实，不代表 AI 研判。</p>
-<div id="news" aria-live="polite"></div><button id="more" class="more" hidden>查看更多新闻 ↓</button></section>
-<aside><section class="panel rail"><div class="rail-heading"><h2>今日投递</h2><span>北京时间</span></div><div id="delivery"></div><p class="small-note">每天 08:00 / 20:00 · 延迟或失败会记录状态。已确认分片不重复发送。</p></section>
-<section class="panel rail"><div class="rail-heading"><h2>数据来源</h2><span id="source-count"></span></div><div id="sources"></div></section>
-<section class="panel rail"><div class="rail-heading"><h2>AI 观察</h2><span>稳健 · 长线</span></div><div class="analysis"><span class="analysis-mark">◎</span><strong id="ai-title">基础新闻版</strong><p id="ai-description">本期 AI 分析未生成。新闻与市场数据照常更新。</p></div><p class="framework">增长与通胀 → 政策与流动性 → 估值与盈利。<br>证据不足时，保留判断。</p></section>
-<section class="panel rail"><div class="rail-heading"><h2>历史早晚报</h2><span>最近 30 天</span></div><div id="history"></div></section></aside></div>
-</main><footer><span><strong>财经观察</strong>　让信息有来源，让判断有依据。</span><span>免费数据可能延迟，以来源时间为准。<a href="https://github.com/emilyyyho/gpt-finance-daily-briefing" target="_blank" rel="noopener noreferrer">项目与运行记录 ↗</a></span></footer>
-<dialog id="report-dialog"><div class="dialog-heading"><h2>财经日报</h2><button id="close-report" aria-label="关闭日报">关闭 ×</button></div><pre id="report-content"></pre></dialog>
-</body></html>
+<title>财经观察 · 每日财经看板</title>
+<link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+<div class="app-frame">
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="./" aria-label="财经观察首页">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span class="brand-copy"><span class="brand-kicker">DAILY FINANCE / SIGNAL DESK</span><h1>财经观察<span class="brand-dot">.</span></h1><span class="brand-tagline">看财经 · 观世界 · 更理性</span></span>
+      </a>
+      <div class="topbar-right">
+        <div class="session-status"><span class="status-led" aria-hidden="true"></span><span>实时观察台</span><span class="topbar-divider" aria-hidden="true"></span><time id="today"></time></div>
+        <button id="refresh" class="refresh-btn" type="button"><span aria-hidden="true">↻</span><span>刷新数据</span></button>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <div class="meta-row">
+      <div class="meta-left"><span class="meta-label">MARKET PULSE</span><span class="meta-separator" aria-hidden="true"></span><span id="freshness" role="status">正在读取最新数据…</span></div>
+      <span class="meta-note">云端约每 30 分钟更新 · 页面每分钟检查</span>
+    </div>
+
+    <section class="market-section" aria-label="全球市场概览">
+      <div class="section-intro">
+        <div><div class="eyebrow">01 / GLOBAL MARKETS</div><h2>市场脉搏</h2><p>指数、贵金属与能源，按前收盘观察今日变化。</p></div>
+        <div class="market-legend" aria-label="行情颜色说明"><span><i class="legend-swatch legend-up"></i>上涨</span><span><i class="legend-swatch legend-down"></i>下跌</span><span><i class="legend-swatch legend-neutral"></i>暂无</span></div>
+      </div>
+      <div id="markets" class="markets"></div>
+    </section>
+
+    <div class="workspace">
+      <section class="news-panel panel">
+        <div class="section-heading">
+          <div><div class="eyebrow">02 / NEWS FLOW</div><h2>财经与世界</h2><p>从今日变化，观察长期方向。</p></div>
+          <label class="search"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">搜索新闻标题或来源</span><input id="search" type="search" placeholder="搜索新闻、关键词或来源"></label>
+        </div>
+        <nav class="tabs" aria-label="新闻分类"><button data-category="全部" aria-pressed="true" type="button">全部</button><button data-category="中国财经" aria-pressed="false" type="button">中国财经</button><button data-category="世界要闻" aria-pressed="false" type="button">世界要闻</button><span id="count"></span></nav>
+        <div class="sort-note"><span class="note-dot" aria-hidden="true"></span><span>最近 24 小时 · 按时间排序</span><span>◎ 宏观焦点</span><span>⚡ 市场异动</span><span>⚠ 风险事件</span><small>标记根据标题规则识别，影响方向待核实，不代表 AI 研判。</small></div>
+        <div id="news" aria-live="polite"></div><button id="more" class="more" type="button" hidden>查看更多新闻 <span aria-hidden="true">↓</span></button>
+      </section>
+
+      <aside class="side-stack">
+        <section class="panel rail"><div class="rail-heading"><div><div class="eyebrow">03 / DELIVERY</div><h2>今日投递</h2></div><span>北京时间</span></div><div id="delivery"></div><p class="small-note">每天 08:00 / 20:00 · 延迟或失败会记录状态。已确认分片不重复发送。</p></section>
+        <section class="panel rail"><div class="rail-heading"><div><div class="eyebrow">04 / SOURCES</div><h2>数据来源</h2></div><span id="source-count"></span></div><div id="sources"></div></section>
+        <section class="panel rail"><div class="rail-heading"><div><div class="eyebrow">05 / LONG VIEW</div><h2>AI 观察</h2></div><span>稳健 · 长线</span></div><div class="analysis"><span class="analysis-mark" aria-hidden="true">◎</span><strong id="ai-title">基础新闻版</strong><p id="ai-description">本期 AI 分析未生成。新闻与市场数据照常更新。</p></div><p class="framework">增长与通胀 <span>→</span> 政策与流动性 <span>→</span> 估值与盈利。<br>证据不足时，保留判断。</p></section>
+        <section class="panel rail"><div class="rail-heading"><div><div class="eyebrow">06 / ARCHIVE</div><h2>历史早晚报</h2></div><span>最近 30 天</span></div><div id="history"></div></section>
+      </aside>
+    </div>
+  </main>
+
+  <footer><span><strong>财经观察</strong><span class="footer-divider">/</span>让信息有来源，让判断有依据。</span><span>免费数据可能延迟，以来源时间为准。<a href="https://github.com/emilyyyho/gpt-finance-daily-briefing" target="_blank" rel="noopener noreferrer">项目与运行记录 ↗</a></span></footer>
+</div>
+<dialog id="report-dialog"><div class="dialog-heading"><div><div class="eyebrow">ARCHIVED EDITION</div><h2>财经日报</h2></div><button id="close-report" type="button" aria-label="关闭日报">关闭 ×</button></div><pre id="report-content"></pre></dialog>
+</body>
+</html>
