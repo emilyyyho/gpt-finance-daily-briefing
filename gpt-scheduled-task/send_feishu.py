@@ -16,7 +16,14 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-MAX_CHARS = 16000
+# Keep the complete UTF-8 JSON payload below the bot's message size limit.
+# Chinese characters and JSON escapes make character counts insufficient.
+MAX_CHARS = 4000
+MAX_PAYLOAD_BYTES = 19000
+
+
+class DeliveryRejected(RuntimeError):
+    """The server explicitly rejected the request; a later retry is safe."""
 
 
 def split_text(text: str, limit: int = MAX_CHARS) -> list[str]:
@@ -85,9 +92,12 @@ def send_chunk(webhook: str, text: str, index: int, total: int) -> None:
     if total > 1:
         title = payload["card"]["header"]["title"]["content"]
         payload["card"]["header"]["title"]["content"] = f"{title}（{index}/{total}）"[:80]
+    encoded = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    if len(encoded) > MAX_PAYLOAD_BYTES:
+        raise RuntimeError("Feishu card exceeds the safe payload size")
     request = urllib.request.Request(
         webhook,
-        data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+        data=encoded,
         headers={"Content-Type": "application/json"},
         method="POST",
     )
@@ -96,20 +106,27 @@ def send_chunk(webhook: str, text: str, index: int, total: int) -> None:
             status = response.status
             body = response.read().decode("utf-8", errors="replace")
     except urllib.error.HTTPError as exc:
-        raise RuntimeError(f"Feishu webhook HTTP {exc.code}") from exc
-    except urllib.error.URLError as exc:
-        raise RuntimeError(f"Feishu webhook network error: {exc.reason}") from exc
+        if 400 <= exc.code < 500:
+            raise DeliveryRejected(f"Feishu webhook HTTP {exc.code}") from exc
+        raise RuntimeError(f"Feishu delivery unconfirmed: HTTP {exc.code}") from exc
+    except (urllib.error.URLError, TimeoutError) as exc:
+        # Do not log URLs or credentials from transport errors. A timeout may
+        # occur after delivery, so do not blindly retry and duplicate messages.
+        raise RuntimeError("Feishu delivery unconfirmed: network error or timeout") from exc
 
     if status >= 300:
         raise RuntimeError(f"Feishu webhook HTTP {status}")
     try:
         result = json.loads(body)
-    except json.JSONDecodeError:
-        result = {}
+    except json.JSONDecodeError as exc:
+        raise RuntimeError("Feishu delivery unconfirmed: invalid JSON response") from exc
+    if not isinstance(result, dict):
+        raise RuntimeError("Feishu delivery unconfirmed: invalid response object")
     code = result.get("code", result.get("StatusCode"))
-    if code not in (None, 0, "0"):
-        message = result.get("msg", result.get("StatusMessage", "unknown error"))
-        raise RuntimeError(f"Feishu webhook rejected the message: {message}")
+    if type(code) not in (int, str):
+        raise RuntimeError("Feishu did not explicitly acknowledge successful delivery")
+    if code not in (0, "0"):
+        raise DeliveryRejected("Feishu explicitly rejected the message")
 
 
 def main() -> int:
@@ -132,6 +149,10 @@ def main() -> int:
 
     chunks = split_text(report)
     cards = [markdown_to_card(chunk, "每日财经日报") for chunk in chunks]
+    # Include the part-number suffix in the size budget before sending any part.
+    if any(len(json.dumps(card, ensure_ascii=False).encode("utf-8")) + 100 > MAX_PAYLOAD_BYTES for card in cards):
+        print("Report contains an oversized card payload", file=sys.stderr)
+        return 2
     if args.dry_run:
         body_chars = sum(len(card["card"]["elements"][0]["text"]["content"]) for card in cards)
         print(f"Feishu Markdown-card dry-run OK: {len(chunks)} chunk(s), {len(report)} characters, {body_chars} body characters")

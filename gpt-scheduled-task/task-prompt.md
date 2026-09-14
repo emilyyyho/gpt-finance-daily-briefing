@@ -1,6 +1,6 @@
 # ChatGPT Scheduled Task 提示词
 
-每天北京时间 20:30 执行一次。这个任务使用 ChatGPT 本身完成整理，不调用 Gemini API、OpenAI API 或其他外部 AI API。
+可选 AI 增强任务：每天北京时间 07:40 和 19:40 各执行一次。基础新闻的 08:00/20:00 投递已由 GitHub Actions 独立完成，本任务失败不阻塞投递。这个任务使用 ChatGPT 本身完成整理，不调用 Gemini API、OpenAI API 或其他外部 AI API。
 
 任务配置文件（公开、无密钥）：
 https://raw.githubusercontent.com/emilyyyho/gpt-finance-daily-briefing/main/gpt-scheduled-task/newsnow_task.json
@@ -88,13 +88,11 @@ https://raw.githubusercontent.com/emilyyyho/gpt-finance-daily-briefing/main/gpt-
 
 如果当天没有足够的指数、成交或宏观数据，明确写“数据不足，暂不判断”，不能用一条新闻代替大盘分析。
 
-## 送达方式
+## 分析归档方式
 
-当前任务默认使用云端桥接，不依赖本地电脑，也不要求当前聊天暴露飞书工具：
-
-1. 使用当前已连接的 GitHub 工具，在仓库 emilyyyho/gpt-finance-daily-briefing 的 main 分支创建或更新文件 reports/YYYY-MM-DD.md，其中日期使用北京时间当天日期。
-2. 文件内容必须是完整日报，使用 UTF-8 Markdown；保留一级、二级、三级标题、双星号重点字段和 Markdown 链接。
-3. 提交信息使用 daily brief YYYY-MM-DD。
-4. 不要把飞书 Webhook、Cookie、Token 或其他秘密写入文件或提交信息。
-5. GitHub Actions 会监听 reports/** 的提交，把 Markdown 转成飞书富文本消息：一级标题作为消息标题，二级和三级标题及双星号字段显示为加粗，链接显示为可点击文本。
-6. 只有 GitHub 写入成功后，才报告“已提交，等待 GitHub Actions 投递”；不要声称飞书已经收到。若 GitHub 工具不可用，保留完整日报并明确报告“GitHub 写入失败”，不要伪造发送成功。
+1. 早间分析写入 `analysis/YYYY-MM-DD-am.md`，晚间写入 `analysis/YYYY-MM-DD-pm.md`，日期用北京时间。
+2. 只提交分析内容及证据链接，不写入 `reports/`，也不调用飞书机器人。投递由单一云端流程负责。
+3. 优先读取仓库 `docs/data/latest.json` 的已抓取数据，并检查 generated_at 和逐条 published_at；快照过期或证据不足时明确说明。
+4. 连接器 403 或不可用时报告分析归档失败，不声称发送成功，也不要暴露任何凭据。
+5. 当期首次生成日报时会纳入已存在的分析文件；迟到分析不会自动重复发送当期。
+6. 这里的文件更新不会自动修改 ChatGPT 已存在任务的设置，需在其任务管理中替换原提示词。原任务即使继续写 reports/YYYY-MM-DD.md，也不会触发新投递。

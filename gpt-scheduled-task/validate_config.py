@@ -14,8 +14,12 @@ def main() -> None:
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
     assert config["timezone"] == "Asia/Shanghai"
-    assert config["schedule"]["local_time"] == "20:30"
-    assert config["schedule"]["cron_utc"] == "30 12 * * *"
+    assert config["schedule"]["local_times"] == ["08:00", "20:00"]
+    assert config["schedule"]["cron_utc"] == "0 0,12 * * *"
+    assert config["schedule"]["refresh_cron_utc"] == "17,47 * * * *"
+    workflow = (ROOT.parent / ".github/workflows/deliver-feishu.yml").read_text(encoding="utf-8")
+    assert "cron: '0 0,12 * * *'" in workflow
+    assert "cron: '17,47 * * * *'" in workflow
 
     newsnow = config["newsnow"]
     assert newsnow["base_url"] == "https://newsnow.busiyi.world/api/s"
@@ -45,7 +49,7 @@ def main() -> None:
     assert github["enabled"] is True
     assert github["repository"] == "emilyyyho/gpt-finance-daily-briefing"
     assert github["branch"] == "main"
-    assert github["report_path_template"] == "reports/{date}.md"
+    assert github["report_path_template"] == "reports/{date}-{slot}.md"
     assert github["commit_required"] is True
 
     feishu = delivery["feishu"]

@@ -1,8 +1,9 @@
 {
   "timezone": "Asia/Shanghai",
   "schedule": {
-    "local_time": "20:30",
-    "cron_utc": "30 12 * * *"
+    "local_times": ["08:00", "20:00"],
+    "cron_utc": "0 0,12 * * *",
+    "refresh_cron_utc": "17,47 * * * *"
   },
   "newsnow": {
     "base_url": "https://newsnow.busiyi.world/api/s",
@@ -58,7 +59,7 @@
       "enabled": true,
       "repository": "emilyyyho/gpt-finance-daily-briefing",
       "branch": "main",
-      "report_path_template": "reports/{date}.md",
+      "report_path_template": "reports/{date}-{slot}.md",
       "commit_required": true
     },
     "feishu": {
@@ -73,7 +74,7 @@
     }
   },
   "ai": {
-    "provider": "chatgpt-scheduled-task",
+    "provider": "optional-chatgpt-analysis",
     "external_api": false
   }
 }

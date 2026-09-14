@@ -1,61 +1,76 @@
-name: Deliver daily report to Feishu
-
+name: Refresh dashboard and deliver daily editions
 on:
+  schedule:
+    - cron: '0 0,12 * * *'
+    - cron: '17,47 * * * *'
   push:
     branches: [main]
     paths:
-      - "reports/**"
+      - 'gpt-scheduled-task/**'
+      - 'docs/index.html'
+      - 'docs/app.js'
+      - 'docs/style.css'
+      - 'analysis/**'
+      - '.github/workflows/deliver-feishu.yml'
   workflow_dispatch:
     inputs:
-      report_path:
-        description: "Path to the Markdown report"
-        required: false
-        default: gpt-scheduled-task/connection-test.md
-        type: string
-
+      send:
+        description: 'Deliver due editions (false only refreshes the dashboard)'
+        type: boolean
+        default: true
 permissions:
-  contents: read
-
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: finance-pipeline
+  cancel-in-progress: false
 jobs:
-  deliver:
+  refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 12
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Check out report
-        uses: actions/checkout@v7
+      - uses: actions/checkout@v7
         with:
-          fetch-depth: 2
-
-      - name: Set up Python
-        uses: actions/setup-python@v7
+          ref: main
+      - uses: actions/setup-python@v7
         with:
-          python-version: "3.x"
-
-      - name: Find report path
-        id: report
-        shell: bash
-        env:
-          EVENT_NAME: ${{ github.event_name }}
-          INPUT_REPORT_PATH: ${{ inputs.report_path }}
-          SHA: ${{ github.sha }}
+          python-version: '3.13'
+      - name: Test before running
         run: |
-          set -euo pipefail
-          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
-            path="${INPUT_REPORT_PATH:-gpt-scheduled-task/connection-test.md}"
-          else
-            path="$(git diff-tree --no-commit-id --name-only -r "$SHA" | grep -E '^reports/.*\.md$' | head -n 1 || true)"
-          fi
-          if [ -z "$path" ]; then
-            echo "No Markdown report changed; skipping delivery."
-            echo "path=" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          test -f "$path"
-          echo "path=$path" >> "$GITHUB_OUTPUT"
-
-      - name: Send report to Feishu
-        if: steps.report.outputs.path != ''
+          python gpt-scheduled-task/validate_config.py
+          python -m unittest discover -s gpt-scheduled-task -p 'test_*.py'
+      - name: Configure state commits
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Collect and deliver
+        id: briefing
+        continue-on-error: true
         env:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          SEND: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send) }}
         run: |
-          python gpt-scheduled-task/send_feishu.py "${{ steps.report.outputs.path }}"
+          if [ "$SEND" = "true" ]; then
+            python gpt-scheduled-task/run_briefing.py --persist --send
+          else
+            python gpt-scheduled-task/run_briefing.py --persist
+          fi
+      - name: Prepare Pages
+        uses: actions/configure-pages@v5
+      - name: Upload dashboard
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+          retention-days: 1
+      - name: Publish dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Report delivery failure
+        if: steps.briefing.outcome == 'failure'
+        run: |
+          echo 'Delivery or collection needs attention. Inspect docs/data/status.json and the Feishu group before retrying an uncertain send.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1

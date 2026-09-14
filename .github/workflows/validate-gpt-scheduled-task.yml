@@ -25,6 +25,8 @@ jobs:
         run: python gpt-scheduled-task/validate_config.py
       - name: Compile delivery script
         run: python -m py_compile gpt-scheduled-task/send_feishu.py
+      - name: Test delivery acknowledgements and message size
+        run: python -m unittest discover -s gpt-scheduled-task -p 'test_*.py'
       - name: Dry-run delivery script
         run: |
           python - <<'PY'
