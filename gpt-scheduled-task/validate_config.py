@@ -1,4 +1,4 @@
-"""Validate the no-secret configuration used by the ChatGPT task."""
+"""Validate the no-secret configuration used by the cloud briefing workflow."""
 
 from __future__ import annotations
 
@@ -14,12 +14,15 @@ def main() -> None:
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
     assert config["timezone"] == "Asia/Shanghai"
-    assert config["schedule"]["local_times"] == ["08:00", "20:00"]
-    assert config["schedule"]["cron_utc"] == "0 0,12 * * *"
-    assert config["schedule"]["refresh_cron_utc"] == "17,47 * * * *"
+    schedule = config["schedule"]
+    assert schedule["local_times"] == ["08:07", "20:07"]
+    assert schedule["timezone"] == "Asia/Shanghai"
+    assert schedule["cron"] == "7 8,20 * * *"
+    assert schedule["fallback_cron"] == "37 * * * *"
     workflow = (ROOT.parent / ".github/workflows/deliver-feishu.yml").read_text(encoding="utf-8")
-    assert "cron: '0 0,12 * * *'" in workflow
-    assert "cron: '17,47 * * * *'" in workflow
+    assert "cron: '7 8,20 * * *'" in workflow
+    assert "cron: '37 * * * *'" in workflow
+    assert "timezone: 'Asia/Shanghai'" in workflow
 
     newsnow = config["newsnow"]
     assert newsnow["base_url"] == "https://newsnow.busiyi.world/api/s"
