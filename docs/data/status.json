@@ -22,13 +22,14 @@
     "sent_at": "2026-09-14T20:59:06+08:00"
   },
   "2026-09-15-am": {
-    "status": "sending",
+    "status": "sent",
     "label": "早报",
     "planned_at": "2026-09-15T08:00:00+08:00",
     "generated_at": "2026-09-15T09:53:15+08:00",
     "news_count": 20,
     "kind": "news",
     "report": "reports/2026-09-15-am.md",
-    "ai": false
+    "ai": false,
+    "sent_at": "2026-09-15T09:53:25+08:00"
   }
 }
