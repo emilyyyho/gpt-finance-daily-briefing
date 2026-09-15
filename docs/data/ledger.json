@@ -86,8 +86,9 @@
       },
       {
         "text": "\n本期 20 条；数量不足如实展示，不以旧闻补足。\n",
-        "status": "sending",
-        "attempts": 1
+        "status": "sent",
+        "attempts": 1,
+        "acknowledged_at": "2026-09-15T21:51:19+08:00"
       }
     ]
   }
