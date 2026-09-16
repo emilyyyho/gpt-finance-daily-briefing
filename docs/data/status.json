@@ -42,5 +42,15 @@
     "report": "reports/2026-09-15-pm.md",
     "ai": false,
     "sent_at": "2026-09-15T21:51:21+08:00"
+  },
+  "2026-09-16-am": {
+    "status": "sending",
+    "label": "早报",
+    "planned_at": "2026-09-16T08:00:00+08:00",
+    "generated_at": "2026-09-16T08:46:19+08:00",
+    "news_count": 20,
+    "kind": "news",
+    "report": "reports/2026-09-16-am.md",
+    "ai": false
   }
 }
