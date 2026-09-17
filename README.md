@@ -131,6 +131,14 @@ GitHub Actions 使用 `actions/upload-pages-artifact` 和 `actions/deploy-pages`
 
 工作流中的 `SEND` 只控制当前运行是否允许发送；脚本仍会根据 `ledger.json` 判断期次是否到点，以及成功分片是否已经存在。
 
+### ChatGPT Scheduled Task 配置
+
+1. 使用仓库中的 [`gpt-scheduled-task/task-prompt.md`](gpt-scheduled-task/task-prompt.md) 替换现有 ChatGPT Scheduled Task 的提示词，不要同时保留旧任务和新任务两条发送链路。
+2. 将任务安排在北京时间 07:40 和 19:40，分别生成当天早报和晚报的 AI 分析。
+3. 确认任务可以使用 GitHub 连接器，并且只向本仓库的 `analysis/YYYY-MM-DD-am.md` 或 `analysis/YYYY-MM-DD-pm.md` 写入脱敏后的分析文件。
+4. 不要让 ChatGPT 任务写入 `reports/`、`docs/data/` 或调用飞书 Webhook；新闻采集、报告合并和发送由 GitHub Actions 负责。
+5. 首次运行后，在仓库中确认对应的 `analysis/` 文件已经提交。若文件没有生成，看板会继续提供基础新闻版，并明确标记 AI 分析缺失。
+
 ### 本地检查
 
 以下命令只做本地检查或本地采集，不会自动向飞书发送消息：
