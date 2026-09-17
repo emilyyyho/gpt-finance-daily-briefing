@@ -4,11 +4,37 @@ import unittest
 from unittest.mock import patch
 
 import collect_news as news
-from run_briefing import deliver_edition, due_editions
+from run_briefing import deliver_edition, due_editions, render_analysis_addendum, render_report
 from send_feishu import DeliveryRejected
 
 
 class PipelineTests(unittest.TestCase):
+    def snapshot(self):
+        return {
+            "generated_at": "2026-09-14T08:00:00+08:00",
+            "news": [{
+                "title": "公开新闻",
+                "source": "测试来源",
+                "category": "中国财经",
+                "published_at": "2026-09-14T07:30:00+08:00",
+                "url": "https://example.com/news",
+            }],
+            "markets": [],
+            "sources": [],
+        }
+
+    def test_ai_analysis_is_merged_into_report(self):
+        with patch("run_briefing.analysis_text", return_value="## 长期观察\n保持证据边界。"):
+            report = render_report(self.snapshot(), "2026-09-14-am", "早报")
+        self.assertIn("AI 与长期配置观察", report)
+        self.assertIn("保持证据边界", report)
+
+    def test_late_ai_analysis_uses_addendum(self):
+        with patch("run_briefing.analysis_text", return_value="## 长期观察\n保持证据边界。"):
+            addendum = render_analysis_addendum(self.snapshot(), "2026-09-14-am", "早报")
+        self.assertIn("AI 与长期配置观察", addendum)
+        self.assertIn("这是对已经发送的基础新闻日报的补充", addendum)
+
     def test_china_time_boundaries(self):
         for hour, expected in ((0,0),(7,0),(8,1),(19,1),(20,2),(23,2)):
             self.assertEqual(len(due_editions(datetime(2026,9,14,hour,tzinfo=news.CST))),expected)
