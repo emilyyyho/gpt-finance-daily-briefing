@@ -15,11 +15,13 @@ def main() -> None:
 
     assert config["timezone"] == "Asia/Shanghai"
     assert config["schedule"]["local_times"] == ["08:00", "20:00"]
-    assert config["schedule"]["cron_utc"] == "0 0,12 * * *"
-    assert config["schedule"]["refresh_cron_utc"] == "17,47 * * * *"
+    assert config["schedule"]["cron_utc"] == "7 0,12 * * *"
+    assert config["schedule"]["refresh_cron_utc"] == "37 * * * *"
+    assert config["schedule"]["workflow_timezone"] == "Asia/Shanghai"
     workflow = (ROOT.parent / ".github/workflows/deliver-feishu.yml").read_text(encoding="utf-8")
-    assert "cron: '0 0,12 * * *'" in workflow
-    assert "cron: '17,47 * * * *'" in workflow
+    assert "cron: '7 8,20 * * *'" in workflow
+    assert "cron: '37 * * * *'" in workflow
+    assert "timezone: 'Asia/Shanghai'" in workflow
 
     newsnow = config["newsnow"]
     assert newsnow["base_url"] == "https://newsnow.busiyi.world/api/s"
