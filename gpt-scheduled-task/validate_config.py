@@ -1,4 +1,4 @@
-"""Validate the no-secret configuration used by the cloud briefing workflow."""
+"""Validate the no-secret configuration used by the ChatGPT task."""
 
 from __future__ import annotations
 
@@ -14,15 +14,12 @@ def main() -> None:
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
     assert config["timezone"] == "Asia/Shanghai"
-    schedule = config["schedule"]
-    assert schedule["local_times"] == ["08:07", "20:07"]
-    assert schedule["timezone"] == "Asia/Shanghai"
-    assert schedule["cron"] == "7 8,20 * * *"
-    assert schedule["fallback_cron"] == "37 * * * *"
+    assert config["schedule"]["local_times"] == ["08:00", "20:00"]
+    assert config["schedule"]["cron_utc"] == "0 0,12 * * *"
+    assert config["schedule"]["refresh_cron_utc"] == "17,47 * * * *"
     workflow = (ROOT.parent / ".github/workflows/deliver-feishu.yml").read_text(encoding="utf-8")
-    assert "cron: '7 8,20 * * *'" in workflow
-    assert "cron: '37 * * * *'" in workflow
-    assert "timezone: 'Asia/Shanghai'" in workflow
+    assert "cron: '0 0,12 * * *'" in workflow
+    assert "cron: '17,47 * * * *'" in workflow
 
     newsnow = config["newsnow"]
     assert newsnow["base_url"] == "https://newsnow.busiyi.world/api/s"
@@ -32,11 +29,16 @@ def main() -> None:
     assert 1 <= newsnow["min_china_items"] <= newsnow["max_items"]
 
     analysis = config["analysis"]
+    assert analysis["enabled"] is True
+    assert analysis["local_times"] == ["07:40", "19:40"]
+    assert analysis["path_template"] == "analysis/{date}-{slot}.md"
+    assert analysis["task_prompt_path"] == "gpt-scheduled-task/task-prompt.md"
     framework_url = analysis["knowledge_framework_url"]
     assert framework_url.startswith("https://raw.githubusercontent.com/emilyyyho/")
     assert framework_url.endswith("/gpt-scheduled-task/knowledge-framework.md")
     assert analysis["require_evidence_labels"] is True
     assert analysis["require_market_summary"] is True
+    assert analysis["require_long_term_observation"] is True
     assert analysis["market_summary_labels"] == [
         "宏观环境",
         "流动性与政策",
@@ -60,6 +62,8 @@ def main() -> None:
     assert feishu["mode"] == "github_actions_webhook"
     assert feishu["secret_name"] == "FEISHU_WEBHOOK_URL"
 
+    assert config["ai"]["provider"] == "chatgpt-scheduled-task"
+    assert config["ai"]["mode"] == "repository-analysis-file"
     assert config["ai"]["external_api"] is False
 
     for endpoint in newsnow["endpoints"]:
