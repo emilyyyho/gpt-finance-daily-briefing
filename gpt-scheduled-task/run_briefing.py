@@ -1,4 +1,4 @@
-"""Collect, publish and deliver two daily editions without a ChatGPT write bridge."""
+"""Collect, publish and deliver two daily editions with optional ChatGPT analysis."""
 from datetime import datetime
 import argparse
 import hashlib
@@ -50,6 +50,17 @@ def edition_news(snapshot):
     return selected
 
 
+def analysis_path(key):
+    return ROOT / "analysis" / f"{key}.md"
+
+
+def analysis_text(key):
+    path = analysis_path(key)
+    if not path.is_file():
+        return ""
+    return path.read_text(encoding="utf-8").strip()[:16000]
+
+
 def render_report(snapshot, key, label):
     selected = edition_news(snapshot)
     lines = [f"# 财经日报｜{key[:10]} {label}", "", f"**实际数据截止：**{snapshot['generated_at']}",
@@ -69,9 +80,9 @@ def render_report(snapshot, key, label):
         change_text = f"{change:+.2f}%" if change is not None else "涨跌幅暂不可得"
         lines.append(f"- {market['name']}：{market['price']:,.2f} {market['unit']}，{change_text}；报价时间 {market['quoted_at']}。[来源]({market['url']})")
     lines += ["", "行情可能延迟；期货为供应商近月连续口径，不等于现货价格。", "", "## AI 与长期配置观察"]
-    analysis_path = ROOT / "analysis" / f"{key}.md"
-    if analysis_path.is_file():
-        lines += ["以下为当期独立提交的 AI 分析，事实仍应核对原文。", analysis_path.read_text(encoding="utf-8")[:16000]]
+    analysis = analysis_text(key)
+    if analysis:
+        lines += ["以下为当期独立提交的 AI 分析，事实仍应核对原文。", analysis]
     else:
         lines += ["本期为基础新闻版，AI 分析未生成。", "观察框架：增长与通胀 → 政策与流动性 → 资产估值与盈利。缺少足够宏观证据时不判断周期，也不生成买卖或仓位建议。"]
     bad = [s["name"] for s in snapshot["sources"] if s["status"] != "ok"]
@@ -79,6 +90,23 @@ def render_report(snapshot, key, label):
         lines += ["", "**本期无可用新数据的来源：**" + "、".join(bad)]
     lines += ["", f"本期 {len(selected)} 条；数量不足如实展示，不以旧闻补足。"]
     return "\n".join(lines) + "\n"
+
+
+def render_analysis_addendum(snapshot, key, label):
+    analysis = analysis_text(key)
+    if not analysis:
+        return ""
+    return "\n".join([
+        f"# AI 与长期配置观察｜{key[:10]} {label}",
+        "",
+        f"**基于数据截止：**{snapshot['generated_at']}",
+        "**说明：**这是对已经发送的基础新闻日报的补充，不构成买卖或仓位建议。",
+        "",
+        analysis,
+        "",
+        f"[打开财经看板]({SITE_URL})",
+        "",
+    ])
 
 
 def deliver_edition(entry, webhook, save, sender=send_chunk):
@@ -149,7 +177,9 @@ def main():
         write_json(DATA / "status.json", public_status(state))
         checkpoint(args.persist)
 
+    delivery_keys = []
     for key, hour, label in due_editions(now):
+        delivery_keys.append(key)
         recovering = key in state and state[key]["kind"] == "outage" and state[key]["status"] == "sent" and edition_news(snapshot)
         untouched = key in state and all(p['status'] == 'pending' and not p.get('attempts') for p in state[key]['parts'])
         if key not in state or recovering or untouched:
@@ -160,16 +190,51 @@ def main():
             state[key] = {"status": "pending", "label": label, "planned_at": f"{key[:10]}T{hour:02d}:00:00+08:00",
                           "generated_at": snapshot["generated_at"], "news_count": len(edition_news(snapshot)),
                           "kind": "news" if edition_news(snapshot) else "outage", "report": f"reports/{key}.md",
-                          "ai": (ROOT / "analysis" / f"{key}.md").is_file(),
+                          "ai": bool(analysis_text(key)),
                           "parts": [{"text": chunk, "status": "pending"} for chunk in split_text(report)]}
+        elif state[key].get("status") == "sent" and analysis_text(key) and not state[key].get("ai"):
+            # If the ChatGPT task commits analysis after the base edition was
+            # already delivered, refresh the archived report and send only a
+            # separate addendum instead of duplicating the whole briefing.
+            report = render_report(snapshot, key, label)
+            (ROOT / "reports" / f"{key}.md").write_text(report, encoding="utf-8")
+            (ROOT / "docs/reports" / f"{key}.md").write_text(report, encoding="utf-8")
+            state[key]["ai"] = True
+            analysis_key = f"{key}-analysis"
+            addendum = render_analysis_addendum(snapshot, key, label)
+            if addendum and analysis_key not in state:
+                (ROOT / "reports" / f"{analysis_key}.md").write_text(addendum, encoding="utf-8")
+                (ROOT / "docs/reports" / f"{analysis_key}.md").write_text(addendum, encoding="utf-8")
+                state[analysis_key] = {
+                    "status": "pending",
+                    "label": "AI 与长期配置观察",
+                    "planned_at": f"{key[:10]}T{hour:02d}:00:00+08:00",
+                    "generated_at": snapshot["generated_at"],
+                    "news_count": state[key]["news_count"],
+                    "kind": "analysis",
+                    "report": f"reports/{analysis_key}.md",
+                    "ai": True,
+                    "parts": [{"text": chunk, "status": "pending"} for chunk in split_text(addendum)],
+                }
+            if analysis_key in state:
+                delivery_keys.append(analysis_key)
         if args.send and state[key]["status"] != "sent":
             webhook = os.environ.get("FEISHU_WEBHOOK_URL", "")
             if not webhook.startswith("https://"):
                 state[key].update(status="failed", error="FEISHU_WEBHOOK_URL 未配置")
             else:
                 deliver_edition(state[key], webhook, save)
+        analysis_key = f"{key}-analysis"
+        if analysis_key in state and analysis_key not in delivery_keys:
+            delivery_keys.append(analysis_key)
+        if args.send and analysis_key in state and state[analysis_key]["status"] != "sent":
+            webhook = os.environ.get("FEISHU_WEBHOOK_URL", "")
+            if not webhook.startswith("https://"):
+                state[analysis_key].update(status="failed", error="FEISHU_WEBHOOK_URL 未配置")
+            else:
+                deliver_edition(state[analysis_key], webhook, save)
     save()
-    problems = [key for key, _, _ in due_editions(now) if state[key]["status"] != "sent" or state[key]["kind"] != "news"]
+    problems = [key for key in delivery_keys if state[key]["status"] != "sent" or state[key]["kind"] == "outage"]
     print(json.dumps({"news": len(snapshot["news"]), "sources_ok": sum(s["status"] == "ok" for s in snapshot["sources"]), "unfulfilled_editions": problems}, ensure_ascii=False))
     # workflow still deploys the dashboard when delivery fails, so the failure
     # is visible without treating a successful static deployment as delivery.
