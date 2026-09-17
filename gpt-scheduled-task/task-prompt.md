@@ -1,6 +1,6 @@
 # ChatGPT Scheduled Task 提示词
 
-可选 AI 增强任务：每天北京时间 07:40 和 19:40 各执行一次。基础新闻的 08:00/20:00 投递已由 GitHub Actions 独立完成，本任务失败不阻塞投递。这个任务使用 ChatGPT 本身完成整理，不调用 Gemini API、OpenAI API 或其他外部 AI API。
+必需的 AI 分析任务：每天北京时间 07:40 和 19:40 各执行一次。基础新闻的 08:00/20:00 投递由 GitHub Actions 独立完成；本任务负责在日报前生成 AI 分析，失败时保留有来源的基础新闻版，不阻塞基础投递。这个任务使用 ChatGPT 本身完成整理，不调用 Gemini API、OpenAI API 或其他外部 AI API。
 
 任务配置文件（公开、无密钥）：
 https://raw.githubusercontent.com/emilyyyho/gpt-finance-daily-briefing/main/gpt-scheduled-task/newsnow_task.json
@@ -9,6 +9,17 @@ https://raw.githubusercontent.com/emilyyyho/gpt-finance-daily-briefing/main/gpt-
 https://raw.githubusercontent.com/emilyyyho/gpt-finance-daily-briefing/main/gpt-scheduled-task/knowledge-framework.md
 
 开始分析前先读取上面的 JSON 和分析框架。分析框架只是一套判断方法摘要，不是要照抄的结论；每一天都必须以当天抓到的新闻和可核对的数据为证据。
+
+## 每次执行的本地工作流
+
+1. 先读取仓库 `docs/data/latest.json`，确认 `generated_at` 使用北京时间且不超过 90 分钟；如果快照缺失或过期，再按 JSON 中的 NewsNow 地址重新获取数据。不得用旧日报冒充当日数据。
+2. 根据北京时间确定期次：07:40 写早报分析，19:40 写晚报分析。日期和期次必须与 `analysis/YYYY-MM-DD-am.md` 或 `analysis/YYYY-MM-DD-pm.md` 一致。
+3. 读取 `knowledge-framework.md`，完成新闻事实核验、宏观与政策传导、市场状态、全球联动和长期观察；分析必须引用当天新闻或公开数据链接。
+4. 只通过 GitHub 连接器在当前仓库新增或更新对应的 `analysis/*.md` 文件。不要修改 `reports/`、`docs/data/`、工作流文件或其他期次，也不要调用飞书机器人。
+5. 提交后重新读取目标文件，确认文件存在、日期期次正确、包含证据链接和“明日观察 / 长期观察”部分。连接器无法写入时必须明确报告失败，不得声称已经归档。
+6. 分析文件提交后，GitHub Actions 会在下一次刷新或到点运行时把它合并到日报；如果基础日报已经先发送，系统会单独补发一条 AI 分析附加消息，不重复发送整篇新闻。
+
+安全边界：不要读取、输出或提交 `FEISHU_WEBHOOK_URL`、Cookie、Token、个人账号标识、私聊内容或任何本地私密笔记原文。只提交脱敏后的公开新闻事实、证据链接和通用分析结论。
 
 ## 获取和筛选
 
@@ -92,7 +103,7 @@ https://raw.githubusercontent.com/emilyyyho/gpt-finance-daily-briefing/main/gpt-
 
 1. 早间分析写入 `analysis/YYYY-MM-DD-am.md`，晚间写入 `analysis/YYYY-MM-DD-pm.md`，日期用北京时间。
 2. 只提交分析内容及证据链接，不写入 `reports/`，也不调用飞书机器人。投递由单一云端流程负责。
-3. 优先读取仓库 `docs/data/latest.json` 的已抓取数据，并检查 generated_at 和逐条 published_at；快照过期或证据不足时明确说明。
+3. 优先读取仓库 `docs/data/latest.json` 的已抓取数据，并检查 `generated_at` 和逐条 `published_at`；快照过期或证据不足时明确说明。
 4. 连接器 403 或不可用时报告分析归档失败，不声称发送成功，也不要暴露任何凭据。
-5. 当期首次生成日报时会纳入已存在的分析文件；迟到分析不会自动重复发送当期。
-6. 这里的文件更新不会自动修改 ChatGPT 已存在任务的设置，需在其任务管理中替换原提示词。原任务即使继续写 reports/YYYY-MM-DD.md，也不会触发新投递。
+5. 当期首次生成日报时会纳入已存在的分析文件；如果基础日报已经发送，流水线会把迟到分析作为单独附加消息发送。
+6. 这里的文件更新不会自动修改 ChatGPT 已存在任务的设置，需在其任务管理中替换原提示词。原任务即使继续写 `reports/YYYY-MM-DD.md`，也不会触发新的 AI 分析投递。
