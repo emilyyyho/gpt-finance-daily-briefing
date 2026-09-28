@@ -297,13 +297,14 @@
     "sent_at": "2026-09-28T13:16:23+08:00"
   },
   "2026-09-28-pm": {
-    "status": "sending",
+    "status": "sent",
     "label": "晚报",
     "planned_at": "2026-09-28T20:00:00+08:00",
     "generated_at": "2026-09-28T22:26:19+08:00",
     "news_count": 20,
     "kind": "news",
     "report": "reports/2026-09-28-pm.md",
-    "ai": false
+    "ai": false,
+    "sent_at": "2026-09-28T22:26:28+08:00"
   }
 }
