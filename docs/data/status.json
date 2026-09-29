@@ -317,5 +317,15 @@
     "report": "reports/2026-09-29-am.md",
     "ai": false,
     "sent_at": "2026-09-29T09:14:43+08:00"
+  },
+  "2026-09-29-pm": {
+    "status": "sending",
+    "label": "晚报",
+    "planned_at": "2026-09-29T20:00:00+08:00",
+    "generated_at": "2026-09-29T22:19:54+08:00",
+    "news_count": 20,
+    "kind": "news",
+    "report": "reports/2026-09-29-pm.md",
+    "ai": false
   }
 }
