@@ -1,96 +1,826 @@
 {
-  "generated_at": "2026-10-06T04:32:27+08:00",
+  "generated_at": "2026-10-06T07:21:09+08:00",
   "window_hours": 24,
   "refresh_minutes": 30,
   "news": [
+    {
+      "id": "3cd0e2456c0e0650",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T07:19:14+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+    },
+    {
+      "id": "c2ad8545d297f4bf",
+      "title": "诺基亚CEO：若无供应限制，数据中心建设速度将“翻倍”",
+      "url": "https://wallstreetcn.com/livenews/3174287",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-06T07:00:50+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c32ae4f7d02ab22b",
+      "title": "财联社10月6日电，东京电子CFO称，本财年营业利润有望达到1万亿日元。",
+      "url": "https://www.cls.cn/detail/2498084",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:51:30+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1d5d36e71a864fdf",
+      "title": "法国“戴高乐”号航母发生火灾 无人员受伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708305.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:50:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": "当地时间10月5日，法国海军发布公告称，停泊在法国土伦海军基地的“戴高乐”号核动力航空母舰当天发生火灾。目前火势已被扑灭，事故没有造成人员受伤，航母核动力设施也未受影响。"
+    },
+    {
+      "id": "1ca021c493a63657",
+      "title": "俄外交部：日方对俄制裁进一步恶化双边关系",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708302.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:49:09+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": "中新社莫斯科10月5日电 俄罗斯外交部发言人扎哈罗娃5日就日本最新对俄制裁发表评论称，日本政府继续采取轻率行动，导致本已“所剩无几”的俄日关系进一步恶化。"
+    },
+    {
+      "id": "707bb1c4b52be5fa",
+      "title": "据澳大利亚广播公司：澳大利亚北部一次训练演习中，一名澳大利亚陆军士兵死亡，另有五人受伤。",
+      "url": "https://flash.jin10.com/detail/20261006064650615800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:46:50+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "402522548f2448e5",
+      "title": "战火升级 也门政府宣布夺回战略要地 沙土巴紧急启动集体防御",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708303.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:44:42+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": "近日，在也门政府宣布启动大规模军事行动后，相关地区的局势骤然升温。也门政府军不仅与胡塞武装在曼德海峡打响争夺战，也对红海港口城市等地展开攻势，并于5日宣布收复战略要地穆哈。此外，沙特主导联军在宣布参与“也门黎明”军事行动后，也持续对胡塞武装相关军事目标进行打击。胡塞武装5日对沙特实施三轮军事行动进行回击。与此同时，沙特、巴基斯坦和土耳其5日在利雅得举行“麦加防务联盟”战略政治与防务委员会紧急会议，宣布启动集体防御机制，同意在沙特部署军事力量。"
+    },
+    {
+      "id": "e47dac3d29ca4f7e",
+      "title": "罗马尼亚总统今年第四次委任总理",
+      "url": "https://www.cls.cn/detail/2498082",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:41:49+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c58adba56524078a",
+      "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.57吨，当前持仓量为1056.266吨。",
+      "url": "https://flash.jin10.com/detail/20261006063554077800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:35:54+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "73ff8dd41118572e",
+      "title": "财联社10月6日电，穆迪确认高通A2评级。",
+      "url": "https://www.cls.cn/detail/2498081",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:33:02+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "be1b3350e13d43ef",
+      "title": "沙特首都利雅得接连传出爆炸声",
+      "url": "https://flash.jin10.com/detail/20261006063149837800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:31:49+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "11d45da6a72c0aaf",
+      "title": "美国总统特朗普：激进左派对我刊登广告一事感到不满——我认为这些广告是对我们伟大的美国的一种积极宣传，而且我是用美国的钱支付的。这本是再平常不过的做法，但既然他们无论怎样都不会满意，我决定除了其他广告外，还将专门制作爱国广告，并用我个人及为政治行动委员会MAGA Inc.筹集的资金自行支付费用。",
+      "url": "https://flash.jin10.com/detail/20261006063129889800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:31:29+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "22bb9f6c381c1e26",
+      "title": "金十数据整理：昨日今晨重要新闻汇总（2026-10-06）",
+      "url": "https://flash.jin10.com/detail/20261006063035961800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:30:35+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8c5f5a3f20db0bb1",
+      "title": "美国总统特朗普：已决定自行投放广告并自掏腰包，同时使用我为Maga Inc.筹集的资金。",
+      "url": "https://wallstreetcn.com/livenews/3174286",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:28:47+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "428dbe1e97b6a92d",
+      "title": "沙特主导的联盟：摧毁了Sanna导弹发射架。（沙特官方媒体SPA）",
+      "url": "https://wallstreetcn.com/livenews/3174284",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:19:34+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e16ea549f07f6c4e",
+      "title": "提醒：日内请重点关注（以下均为北京时间）",
+      "url": "https://wallstreetcn.com/livenews/3174283",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:17:48+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cf9edffdc9d4a250",
+      "title": "据美国媒体报道，一位熟悉迪拜航空调查情况的消息人士表示，迪拜航空客机上袭击机长的副驾驶的备选计划是，如果飞机未能在本·古里安机场坠毁，其将瞄准约旦的一处美国军事基地。",
+      "url": "https://flash.jin10.com/detail/20261006061648548800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:16:48+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "04eb03a8d4cfb137",
+      "title": "穆迪确认高通A2评级。",
+      "url": "https://wallstreetcn.com/livenews/3174282",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:12:48+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8cc4abe8490fb1ce",
+      "title": "周二你需要知道的隔夜全球要闻：纳指创下历史新高 SpaceX股价大涨超7%；也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+      "url": "https://www.cls.cn/detail/2498079",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:12:05+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ee3c9fe0f5d6d211",
+      "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（10月6日）",
+      "url": "https://flash.jin10.com/detail/20261006060914136800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:09:14+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "aea3c1d61decbc3a",
+      "title": "也门胡塞武装称发射导弹和无人机袭击沙特多个目标",
+      "url": "https://wallstreetcn.com/livenews/3174281",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:08:04+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8621cdbfa9cb2501",
+      "title": "美联储10月维持利率不变的概率为77.3%",
+      "url": "https://www.cls.cn/detail/2498078",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:06:41+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7f5011d86190ae3c",
+      "title": "美国总统特朗普：如果共和党在2026年中期选举中赢得众议院和参议院的控制权，我将向美国的所有成年公民发放5,000美元，我期待着签署这些支票。",
+      "url": "https://flash.jin10.com/detail/20261006060536017800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T06:05:36+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8b7ae853da23ad77",
+      "title": "金十图示：2026年10月06日（周二）各大货币对表现",
+      "url": "https://flash.jin10.com/detail/20261006060033881800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:00:33+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "32dbe344dc80b3d9",
+      "title": "英伟达股价多月来首创新高 分析师：仍有继续上涨的理由",
+      "url": "https://flash.jin10.com/detail/20261006060004622800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T06:00:04+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e6ffcc3f4e5d0ec3",
+      "title": "财联社10月6日电，惠誉维持凯雷集团“A-”评级，展望稳定。",
+      "url": "https://www.cls.cn/detail/2498076",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-06T05:54:41+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "400c42a292376274",
+      "title": "美国科技股七巨头指数涨约1.1%，与英伟达创收盘历史新高",
+      "url": "https://wallstreetcn.com/livenews/3174279",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:51:58+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
     {
       "id": "0d245c72f21c683b",
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "世界要闻",
-      "published_at": "2026-10-06T04:24:57+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "published_at": "2026-10-06T05:46:22+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
     },
     {
-      "id": "23aa4490b7c0c3fe",
-      "title": "古巴高级外交官：古巴与美国保持“沟通渠道”，但未进行正式谈判。",
-      "url": "https://flash.jin10.com/detail/20261006040452762800",
+      "id": "60f71aa945ed1e69",
+      "title": "美军称遭伊朗袭击后靠谷歌找医院",
+      "url": "https://flash.jin10.com/detail/20261006053407848800",
       "source": "金十数据",
       "category": "世界要闻",
-      "published_at": "2026-10-06T04:04:52+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "published_at": "2026-10-06T05:34:07+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
-      "id": "e3547d17b3e42513",
-      "title": "通用汽车称混合动力车型即将推出：“我们并非对客户需求充耳不闻”",
-      "url": "https://wallstreetcn.com/livenews/3174249",
+      "id": "e14684b03c01f162",
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:33:49+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia."
+    },
+    {
+      "id": "d98409cb393f6c4a",
+      "title": "金十数据整理：中东局势跟踪（10月6日）",
+      "url": "https://flash.jin10.com/detail/20261006052844566800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T05:28:44+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1dd63a8ac8139b54",
+      "title": "世界最大商务舱将登陆英国航空A380",
+      "url": "https://wallstreetcn.com/livenews/3174278",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:23:13+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "543893e82fa069a0",
+      "title": "财联社10月6日电，富时A50期指连续夜盘收涨0.42%，报13874点。",
+      "url": "https://www.cls.cn/detail/2498074",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-06T05:18:11+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "275c27e2ad6557e6",
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:18:10+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education."
+    },
+    {
+      "id": "4cdab6dbf1c2547e",
+      "title": "富时A50期指连续夜盘收涨0.42%，报13874点。",
+      "url": "https://wallstreetcn.com/livenews/3174276",
       "source": "华尔街见闻",
       "category": "中国财经",
-      "published_at": "2026-10-06T04:04:16+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "published_at": "2026-10-06T05:15:14+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
-      "id": "981707c88050824a",
-      "title": "沙特主导的联军：海军部队在也门荷台达省实施了一次军事行动。",
-      "url": "https://flash.jin10.com/detail/20261006040356150800",
+      "id": "5e6707bebad33c7b",
+      "title": "特朗普角逐诺贝尔和平奖，专家称胜算甚低",
+      "url": "https://flash.jin10.com/detail/20261006051508944800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T05:15:08+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "89a1b3cfd7e2537a",
+      "title": "华尔街银团启动创纪录的600亿美元AI融资交易",
+      "url": "https://flash.jin10.com/detail/20261006051305337800",
       "source": "金十数据",
       "category": "世界要闻",
-      "published_at": "2026-10-06T04:03:56+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "published_at": "2026-10-06T05:13:05+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
-      "id": "dd0da476f193b0a7",
-      "title": "住宅建筑公司Lennar Corp.（LEN）跌6.7%，创2024年3月份以来最差单日表现。",
-      "url": "https://wallstreetcn.com/livenews/3174248",
+      "id": "eb0b8cc0c2c0dd32",
+      "title": "也门胡塞武装警告国际航司停止运营经沙特领空航线",
+      "url": "https://www.cls.cn/detail/2498073",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:11:46+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2543f7d26af83840",
+      "title": "巴拿马型船闸将试行长期通航预约",
+      "url": "https://www.cls.cn/detail/2498072",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-06T05:11:06+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "bf9975703fbe434f",
+      "title": "报道：华尔街银行启动创纪录的600亿美元芯片交易，为博通与Anthropic提供融资",
+      "url": "https://wallstreetcn.com/livenews/3174274",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:10:11+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4e9dde262d10f167",
+      "title": "周一（10月5日）纽约尾盘，标普500股指期货最终涨0.72%，道指期货涨0.25%，纳斯达克100股指期货涨0.91%。 罗素2000股指期货涨0.63%。",
+      "url": "https://wallstreetcn.com/livenews/3174272",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:08:26+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f9cbec0b9554aba8",
+      "title": "财联社10月6日电，沙特阿拉伯首都利雅得5日晚传出爆炸声。",
+      "url": "https://www.cls.cn/detail/2498071",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:05:47+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3e0c638e84397dfe",
+      "title": "据外媒报道，沙特阿拉伯首都利雅得5日晚传出爆炸声。",
+      "url": "https://flash.jin10.com/detail/20261006050523094800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:05:23+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8bf9bf7f0df4d756",
+      "title": "周一（10月5日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7037元，较上周五纽约尾盘涨21点，日内整体交投于6.7148-6.7035元区间。",
+      "url": "https://wallstreetcn.com/livenews/3174271",
       "source": "华尔街见闻",
       "category": "中国财经",
-      "published_at": "2026-10-06T04:02:50+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "published_at": "2026-10-06T05:04:16+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
-      "id": "1e51862619eff753",
-      "title": "美股收盘：纳指创新高，诺瓦瓦克斯涨20%",
-      "url": "https://flash.jin10.com/detail/20261006040147068800",
+      "id": "bee88f7daf396927",
+      "title": "财联社10月6日电，国际贵金属期货收涨，COMEX黄金期货涨0.13%，报4167.6美元/盎司；COMEX白银期货涨1.63%，报61.4美元/盎司。",
+      "url": "https://www.cls.cn/detail/2498070",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:02:56+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "185fe72c771284e9",
+      "title": "据英国金融时报：华尔街银行推出创纪录的600亿美元芯片交易，涉及博通和Anthropic。",
+      "url": "https://flash.jin10.com/detail/20261006050210319800",
       "source": "金十数据",
       "category": "世界要闻",
-      "published_at": "2026-10-06T04:01:47+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "published_at": "2026-10-06T05:02:10+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c7c57b1ab3087479",
+      "title": "美媒：私人信贷担忧推动美联储对大型银行进行审查",
+      "url": "https://flash.jin10.com/detail/20261006050159607800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:01:59+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "687ccef1a18ad1dd",
+      "title": "财联社10月6日电，韩国9月外汇储备报4405.6亿美元，前值4422.8亿美元。",
+      "url": "https://www.cls.cn/detail/2498069",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:00:45+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3557a99318ab7684",
+      "title": "新西兰经济研究所（NZIER）：企业信心指数在第三季度改善。 净43%的受访公司预计经济形势将改善。 净43%的受访公司预计将在四季度涨价。 净23%的受访公司预计将在四季度招聘工人。 净15%的受访公司预计贸易（条件）将在四季度改善。 净1%的受访公司通报称，三季度贸易变得更加糟糕。",
+      "url": "https://wallstreetcn.com/livenews/3174270",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-06T05:00:21+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0269a12b62488a0a",
+      "title": "韩国9月外汇储备 4405.6亿美元，前值4422.8亿美元。",
+      "url": "https://flash.jin10.com/detail/20261006050002101800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T05:00:02+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a4ea78779ca18f30",
+      "title": "美国纽约州宣布针对麻疹疫情进入灾难紧急状态",
+      "url": "https://wallstreetcn.com/livenews/3174269",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:58:36+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "827654be5ddaf7b9",
+      "title": "沙特主导的联军称在也门荷台达省实施军事行动",
+      "url": "https://www.cls.cn/detail/2498067",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:57:02+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "308b792fd0eb4888",
+      "title": "周一（10月5日）纽约尾盘，现货黄金涨0.03%，报4142.46美元/盎司，日内呈现出M形走势，北京时间16:16刷新日高至4170.41美元、23:22跌至4123.44美元刷新日低。 现货白银涨1.18%，报61.0753美元/盎司。 COMEX铜期货涨1.36%，报6.6380美元/磅。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.32%，报2505.24点，美股开盘之前维持微幅下跌状态、持稳于2510点一线，随后短线跳水、北京时间21:46刷新日低至2",
+      "url": "https://wallstreetcn.com/livenews/3174267",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:56:29+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7afcb807dce3ab1a",
+      "title": "也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+      "url": "https://www.cls.cn/detail/2498066",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:54:44+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "98054404ae9d2854",
+      "title": "据美国财经媒体Semafor：纽约联储正在拜访大型银行，审查它们对私人信贷公司的贷款情况。美联储官员对摩根大通(JPM.N)、富国银行、巴克莱(BCS.N)和摩根士丹利(MS.N)进行了询问，关注其风险敞口、风险管理及抵押品质量。",
+      "url": "https://flash.jin10.com/detail/20261006045326061800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:53:26+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "9a8e4a0c1f44697d",
+      "title": "财联社10月6日电，OpenAI已与Thrive、Andreessen Horowitz进行融资谈判，同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
+      "url": "https://www.cls.cn/detail/2498065",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:51:30+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a4f59a99e27c27a5",
+      "title": "报道：OpenAI正与阿联酋基金、贝莱德洽谈300亿美元融资轮",
+      "url": "https://wallstreetcn.com/livenews/3174266",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:49:53+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "01e7eabb113df2b3",
+      "title": "市场消息：OpenAI已与Thrive、Andreessen Horowitz进行融资谈判；同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
+      "url": "https://flash.jin10.com/detail/20261006044845596800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:48:45+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "6b1562cc88286029",
+      "title": "美国总统特朗普抨击纽约时报“篡改”照片丑化特朗普家族旗下的酒店。",
+      "url": "https://flash.jin10.com/detail/20261006043721615800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:37:21+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "759b335bb082279d",
+      "title": "胡塞武装称对沙特实施三轮打击",
+      "url": "https://wallstreetcn.com/livenews/3174264",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:35:20+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3e547f5320b57f8c",
+      "title": "古巴官员：与美国维持“沟通渠道”，但尚未展开正式谈判",
+      "url": "https://flash.jin10.com/detail/20261006042822410800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:28:22+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e85da9b5514be5db",
+      "title": "沙特联军：在荷台达省开展军事行动 摧毁胡塞武器设施",
+      "url": "https://flash.jin10.com/detail/20261006042800751800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:28:00+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "869327d3d0368c90",
+      "title": "报道：Etched按400亿-500亿美元估值评估竞购意向",
+      "url": "https://wallstreetcn.com/livenews/3174262",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:26:46+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "addc45f7b1718255",
+      "title": "默茨：德国将加强北约东翼防务",
+      "url": "https://flash.jin10.com/detail/20261006042618443800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T04:26:18+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2be3b77d6c929af2",
+      "title": "财联社10月6日电，巴西IBOVESPA股指涨7.85%，巴西股市创2020年以来最佳单日表现。",
+      "url": "https://www.cls.cn/detail/2498064",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-06T04:26:00+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "62904e0a9a21c72d",
+      "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF",
+      "url": "https://wallstreetcn.com/livenews/3174260",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:25:51+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a1d7cd9684f0ca8c",
+      "title": "惠誉评级：北美石油对冲已出现浮亏，天然气生产商将锁定2028年有利价格。",
+      "url": "https://wallstreetcn.com/livenews/3174259",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-06T04:24:32+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "24f7b5f3c121f368",
+      "title": "财联社10月6日电，Lucid Group第三财季交付3,806辆；第三财季汽车产量为2954辆，此前市场普遍预估产量为3709辆。",
+      "url": "https://www.cls.cn/detail/2498063",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-06T04:24:19+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cd9b657fcc0d2fbb",
+      "title": "巴西股指涨近8%",
+      "url": "https://flash.jin10.com/detail/20261006042155300800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T04:21:55+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5860c6ee1e3de195",
+      "title": "财联社10月6日电，美国劳工部长表示，劳工统计局数据将改善；美国劳工统计局正在研究如何衡量就业增长。",
+      "url": "https://www.cls.cn/detail/2498062",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:21:28+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a1f8089da2c4c6d2",
+      "title": "胡塞武装：在沙特进行了三项军事行动",
+      "url": "https://flash.jin10.com/detail/20261006042026821800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:20:26+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3ebffbfa94f48556",
+      "title": "特朗普称因威胁将轰炸机撤出英国",
+      "url": "https://www.cls.cn/detail/2498061",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:20:20+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "12aa3f0d0e3cd979",
+      "title": "俄罗斯计划到2030年将生物经济产品的产量增加96％",
+      "url": "https://www.cls.cn/detail/2498060",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:19:09+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d7b6a0dd3aaef2f7",
+      "title": "风险资产再次遭到抛售，迫使投资者撤出新兴市场股票",
+      "url": "https://wallstreetcn.com/livenews/3174257",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-06T04:17:38+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0e0a0a05f28dc5de",
+      "title": "财联社10月6日电，美国纽约联邦储备银行走访大型银行，将就总体风险敞口质询各大银行。",
+      "url": "https://www.cls.cn/detail/2498059",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:16:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "af97ceca76482c6e",
+      "title": "明晟公司MSCI新兴市场股票指数涨1.8%，发展中国家外汇指数涨0.4%。 巴西股市创2020年以来最佳单日表现，投资者关注总统候选人博索纳罗在第一轮选举中领先总统卢拉。 巴西圣保罗证交所指数收涨7.70%，报20.7万点，里约热内卢盘初迅猛拉涨、绝大部分时间高位企稳。 巴西雷亚尔兑美元涨4.21%，报4.9931雷亚尔，盘中整体高位企稳、持续交投于4.99雷亚尔附近。",
+      "url": "https://wallstreetcn.com/livenews/3174256",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-06T04:15:02+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2303356e6af02a3e",
+      "title": "美国纽约联储同时走访摩根士丹利、巴克莱银行，就总体风险敞口质询（各大）银行。",
+      "url": "https://wallstreetcn.com/livenews/3174255",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:14:21+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4355e43573e1c393",
+      "title": "美国劳工部长Keith Sonderling：将借助新技术改进劳工统计局（BLS）数据采集。 劳工统计局数据将改善。 透明度是“我对美国公众的承诺”。（福克斯商业频道）",
+      "url": "https://wallstreetcn.com/livenews/3174254",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:13:57+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2d2292aa49998e03",
+      "title": "周一（10月5日），美股行业ETF多数收涨，生物科技指数ETF涨1.3%，能源业ETF涨1%，网络股指数ETF、全球科技股指数ETF、科技行业ETF、半导体ETF至少涨0.52%，银行业ETF则收跌0.33%，区域银行ETF跌0.55%，全球航空业ETF跌0.89%。",
+      "url": "https://wallstreetcn.com/livenews/3174253",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:13:21+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "87455af83c920c77",
+      "title": "也门胡塞武装：在沙特阿拉伯进行了三次军事行动。",
+      "url": "https://flash.jin10.com/detail/20261006041233060800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-06T04:12:33+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
+      "summary": ""
+    },
+    {
+      "id": "27c4d88c57684f9e",
+      "title": "金十图示：2026年10月05日（周一）全球股市指数-美洲市场（收盘）",
+      "url": "https://flash.jin10.com/detail/20261006040629583800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-06T04:06:29+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
       "id": "2c61c9efc3736bb2",
-      "title": "财联社10月6日电，利弗莫尔中概股龙头指数收涨1.93%，热门中概股普涨。",
+      "title": "利弗莫尔中概股龙头指数收涨1.93% 热门中概股普涨",
       "url": "https://www.cls.cn/detail/2498058",
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-10-06T04:01:41+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d9e46ca3a9e59356",
-      "title": "Spacex收涨7.6%，创6月份以来收盘新高。",
-      "url": "https://wallstreetcn.com/livenews/3174247",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T04:01:33+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e6c232cd2efa44b4",
-      "title": "周一（10月5日），彭博电动汽车价格回报指数涨0.24%，报3154.87点，亚欧时段主要维持下跌状态，美股开盘后快速转涨并平缓地持续扩大涨幅。",
-      "url": "https://wallstreetcn.com/livenews/3174246",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T04:01:12+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
@@ -100,27 +830,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-10-06T04:00:45+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7b8c56b38e81d9ba",
-      "title": "标普500指数初步收涨0.6%，原材料、电信板块涨超1%，科技板块涨0.6%，房地产板块跌0.3%。 纳斯达克100指数初步收涨0.8%，成分股中，南美电商巨头MELI初步收涨9.9%，Spacex涨7.3%，西部数据涨6.1%，希捷科技涨4.4%，核电股CEG涨4%，拼多多涨3.3%，美光、泰瑞达、再生元制药、Arm控股至少跌约1%，高通、CoreWeave、英特尔跌超2%，FER跌3.2%，NBIS跌3.9%。",
-      "url": "https://wallstreetcn.com/livenews/3174245",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T04:00:03+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1ce7ac0210e745f9",
-      "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，万国数据初步收涨6.3%，世纪互联涨5.8%，阿里涨4.6%，禾赛涨3.6%，金山云涨3.3%，百度涨3.1%，腾讯涨3.1%，新东方、网易涨1.5%。 ETF中，KWEB涨3%，CQQQ涨2.5%。",
-      "url": "https://wallstreetcn.com/livenews/3174244",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T04:00:01+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
@@ -130,157 +840,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-10-06T03:57:49+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f4e1a1f98716e578",
-      "title": "美泰涨幅扩大至3.9%，华尔街日报报道称，该公司面临股东“要求其考虑出售”的压力。",
-      "url": "https://wallstreetcn.com/livenews/3174243",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T03:57:34+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3385887aac48c78d",
-      "title": "【特朗普：因“具体威胁” 美军轰炸机撤离英国基地】10月5日，美国总统特朗普表示，美军此前从英国皇家空军费尔福德基地撤走轰炸机，是因为基地面临“具体威胁”。特朗普当天在白宫外接受记者采访时表示，美方“知道是谁发出了威胁”，这些轰炸机并非“无缘无故”撤离。他称，美方在发现威胁后决定调整部署。（央视）",
-      "url": "https://wallstreetcn.com/livenews/3174242",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:56:19+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e14684b03c01f162",
-      "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:55:00+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": "The US says it is monitoring the case of a lab technician who died at a plague research centre in Siberia."
-    },
-    {
-      "id": "713700e9562f45dc",
-      "title": "特朗普：因“具体威胁” 美军轰炸机撤离英国基地",
-      "url": "https://flash.jin10.com/detail/20261006035353286800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:53:53+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1768448924e9cd77",
-      "title": "世界卫生组织：根据俄罗斯鼠疫研究所死亡事件后的非官方信息，“对普通民众的公共卫生风险似乎较低”。",
-      "url": "https://flash.jin10.com/detail/20261006035213148800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:52:13+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ed5af4b21a883989",
-      "title": "土耳其一客机发现爆炸物威胁纸条，143人安全撤离",
-      "url": "https://wallstreetcn.com/livenews/3174240",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T03:51:39+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "177a4256fed9cf8d",
-      "title": "中长期美债收益率涨4个基点，10/30年期美债收益率一度创2002年以来新高",
-      "url": "https://wallstreetcn.com/livenews/3174239",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:46:43+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "949292a1c5bff0f0",
-      "title": "以色列：印制大选选票",
-      "url": "https://wallstreetcn.com/livenews/3174238",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:45:13+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e628e5f690fc62e7",
-      "title": "美国财政部：与伊朗进行业务往来的银行可能会受到制裁。",
-      "url": "https://flash.jin10.com/detail/20261006034109121800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:41:09+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "be36689e240bc1bc",
-      "title": "美国财政部向与伊朗有业务往来的外资银行发出通知。",
-      "url": "https://flash.jin10.com/detail/20261006033939951800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:39:39+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a79eb7a59d8e7b26",
-      "title": "也门胡塞武装发言人叶海亚·萨雷亚将发表声明，宣布在沙特纵深地区实施了多项具有“重要意义”的军事行动。",
-      "url": "https://flash.jin10.com/detail/20261006033831146800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:38:31+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "4442801579a68ce4",
-      "title": "国际油价5日下跌",
-      "url": "https://flash.jin10.com/detail/20261006033201307800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:32:01+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3a24a7f1e98a6977",
-      "title": "美国总统特朗普：（关于迪拜航空事件）认为伊朗应对此负责。",
-      "url": "https://flash.jin10.com/detail/20261006033131154800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:31:31+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "98cdbe90f0bf00c6",
-      "title": "美国总统特朗普就迪拜航空飞机事故表态：我认为伊朗应对此事负责。",
-      "url": "https://wallstreetcn.com/livenews/3174236",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:31:24+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1bb304fa30d890f0",
-      "title": "美国总统特朗普谈及英国境内美军安全：“我认为是安全的”。",
-      "url": "https://flash.jin10.com/detail/20261006033103045800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:31:03+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
@@ -290,38 +850,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-06T03:30:50+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
-    },
-    {
-      "id": "ead0ce7fd4cc85dc",
-      "title": "美国总统特朗普：柴油的问题在于俄罗斯的炼油厂受到冲击。",
-      "url": "https://flash.jin10.com/detail/20261006033003532800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:30:03+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "076a57ce9c6ecb30",
-      "title": "美国总统特朗普：将考虑在立陶宛建立基地。",
-      "url": "https://flash.jin10.com/detail/20261006032936508800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:29:36+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7fb471000e1550d3",
-      "title": "周一（10月5日）纽约尾盘，美元兑日元涨0.07%，报157.97日元，日内交投区间为157.44-158.30日元。 欧元兑日元跌0.22%，英镑兑日元跌0.07%，日元兑离岸人民币跌0.1%。",
-      "url": "https://wallstreetcn.com/livenews/3174235",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T03:28:50+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
     },
     {
       "id": "b45f630c3a14e190",
@@ -330,107 +860,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-10-06T03:28:25+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a213f0d7e6e01a50",
-      "title": "美国总统特朗普：我们会帮助他们。",
-      "url": "https://flash.jin10.com/detail/20261006032820327800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:28:20+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "04a55a63f5c00534",
-      "title": "美国总统特朗普：（关于俄罗斯瘟疫研究所工作人员死亡）我们正在密切关注此事。",
-      "url": "https://flash.jin10.com/detail/20261006032811738800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:28:11+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ed278214076fdbd7",
-      "title": "美国总统特朗普：如果伊朗在英国部署了作战无人机，他们将付出惨重代价。",
-      "url": "https://flash.jin10.com/detail/20261006032733044800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:27:33+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "25a274d793e10787",
-      "title": "美国总统特朗普：（关于从英国转移飞机）我们面临威胁。",
-      "url": "https://flash.jin10.com/detail/20261006032717144800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:27:17+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "def69bbc50540bb1",
-      "title": "美国总统特朗普：（关于从英国转移飞机）我们知道发出威胁的人。",
-      "url": "https://flash.jin10.com/detail/20261006032716511800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:27:16+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1603528b3a63e668",
-      "title": "美国总统特朗普：曾经认为英国境内（对美军）存在威胁。 知道是谁构成威胁。 若伊朗在英国部署作战无人机，将付出惨重代价。",
-      "url": "https://wallstreetcn.com/livenews/3174234",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:26:22+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "64e68d32880be4ea",
-      "title": "美国总统特朗普：（关于巴西选举）预计将非常胶着。",
-      "url": "https://flash.jin10.com/detail/20261006032554207800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:25:54+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "03cb26de91db85c2",
-      "title": "美元指数涨超0.2%",
-      "url": "https://wallstreetcn.com/livenews/3174233",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:25:31+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cd285beb333d92e9",
-      "title": "美国总统特朗普谈沙特和胡塞武装冲突：一切都会好起来的。",
-      "url": "https://wallstreetcn.com/livenews/3174232",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:24:43+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "67ea97bdac976c47",
-      "title": "美国总统特朗普：（关于沙特与胡塞）一切都会好起来的。",
-      "url": "https://flash.jin10.com/detail/20261006032409645800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:24:09+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
@@ -440,137 +870,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-10-06T03:24:07+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "523478acb955496f",
-      "title": "美国总统特朗普：将协助农民解决柴油问题。",
-      "url": "https://flash.jin10.com/detail/20261006032308803800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:23:08+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e3dc3302c5d3d972",
-      "title": "美国总统特朗普被问及是否对与伊朗直接对话持开放态度，声称：是的。",
-      "url": "https://wallstreetcn.com/livenews/3174231",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:22:57+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7964722188468f5d",
-      "title": "美国总统特朗普：很快将前往爱荷华州。",
-      "url": "https://flash.jin10.com/detail/20261006032228488800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:22:28+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b170c4e233f6a95c",
-      "title": "美国总统特朗普：（关于伊朗）始终欢迎直接对话。",
-      "url": "https://flash.jin10.com/detail/20261006032210652800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:22:10+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "4e879314de85fbd4",
-      "title": "美国总统特朗普：炼油厂不足才是问题（汽油价格）所在。 将帮助农民解决柴油问题。",
-      "url": "https://wallstreetcn.com/livenews/3174230",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:21:38+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "562fc5e7379f3b88",
-      "title": "美国总统特朗普：与塞尔维亚保持着非常好的关系。",
-      "url": "https://wallstreetcn.com/livenews/3174229",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:21:35+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3caa755fa5c7e17e",
-      "title": "美国总统特朗普：我们与塞尔维亚的关系非常好。",
-      "url": "https://flash.jin10.com/detail/20261006032132652800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:21:32+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a90fdfed7e82851f",
-      "title": "美国总统特朗普：不急于启动与加拿大的贸易谈判。",
-      "url": "https://wallstreetcn.com/livenews/3174228",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:21:28+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "dd2710b3b5ee90e2",
-      "title": "纳斯达克100指数涨幅扩大至1%，刷新日高。",
-      "url": "https://wallstreetcn.com/livenews/3174226",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:20:44+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3503bc17fffe1904",
-      "title": "芝加哥小麦期货涨超1.5%，产糖国货币雷亚尔汇率上涨带动糖加大幅上涨",
-      "url": "https://wallstreetcn.com/livenews/3174225",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T03:20:15+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "95d217508508e477",
-      "title": "SpaceX涨幅扩大至超过6%，刷新日高至169.50美元。",
-      "url": "https://wallstreetcn.com/livenews/3174224",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:13:26+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "356d558931171606",
-      "title": "“麦加防务联盟”决定启动集体防御机制：土巴两国将向沙特部署军事力量",
-      "url": "https://wallstreetcn.com/livenews/3174223",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T03:12:12+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "33f19dd5a2b38e48",
-      "title": "特朗普此前曾考虑实施柴油出口禁令，现已放弃该方案",
-      "url": "https://wallstreetcn.com/livenews/3174222",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T03:09:04+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
@@ -580,17 +880,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-10-06T03:03:15+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9c41e0d569516439",
-      "title": "恒生指数主连夜盘收涨0.97%，报24266点。 恒生科技指数主连夜盘收涨1.36%，报4245点。",
-      "url": "https://wallstreetcn.com/livenews/3174220",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T03:01:42+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
@@ -600,17 +890,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-10-06T03:01:27+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cfa7751a46b4bd2a",
-      "title": "嘉吉：牛只成本高企与可可亏损致利润下滑",
-      "url": "https://wallstreetcn.com/livenews/3174218",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T03:00:58+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
@@ -620,127 +900,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-10-06T02:59:40+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "6981730dec15dbf8",
-      "title": "“麦加防务联盟”决定启动集体防御机制",
-      "url": "https://www.cls.cn/detail/2498049",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T02:56:01+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "4dfe21a25317d856",
-      "title": "利弗莫尔中概股龙头指数涨幅扩大至2%",
-      "url": "https://www.cls.cn/detail/2498048",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T02:54:12+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b8bb5680a1035e02",
-      "title": "财联社10月6日电，WTI原油期货结算价为每桶89.43美元，下跌1.68美元，跌幅1.84%。",
-      "url": "https://www.cls.cn/detail/2498047",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T02:43:19+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f654b4f2c3bfc3ae",
-      "title": "WTI 11月原油期货收跌2.45美元，跌幅超过2.66%，报89.43美元/桶。 布伦特12月原油期货收跌1.93美元，跌幅将近1.89%，报100.32美元/桶。 中东Abu Dhabi Murban原油期货跌1.05%，报109.66美元/桶。 NYMEX 11月天然气期货收报3.0660美元/百万英热单位。 NYMEX 11月汽油期货收报3.2462美元/加仑，NYMEX 11月取暖油期货收报4.5452美元/加仑。",
-      "url": "https://wallstreetcn.com/livenews/3174217",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T02:31:29+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9c2ef558bca42b55",
-      "title": "维基百科运营方：OpenAI 的失控智能体可能与5月发生的数据服务中断存在关联。",
-      "url": "https://wallstreetcn.com/livenews/3174216",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-06T02:30:37+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2653eb0f550ba097",
-      "title": "必和必拓就全球最大铜矿薪资谈判请求调解",
-      "url": "https://www.cls.cn/detail/2498046",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T02:28:31+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "379bbcd109878f72",
-      "title": "美国财长贝森特声称：伊朗9月对油轮的装货量为零。",
-      "url": "https://wallstreetcn.com/livenews/3174215",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T02:27:31+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "8cae90d462101b80",
-      "title": "财联社10月6日电，SpaceX 拟在佛罗里达州建设天然气管道。",
-      "url": "https://www.cls.cn/detail/2498045",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T02:20:58+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "6e7584675b0fdb88",
-      "title": "财联社10月6日电，Meta Platforms和微软据称正努力让员工摆脱对Anthropic Claude的依赖 。",
-      "url": "https://www.cls.cn/detail/2498044",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T02:20:41+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a8178410af414d86",
-      "title": "财联社10月6日电，美国10年期国债收益率最新上涨6.59个基点，报5.343%，此前一度触及5.3493%，刷新24年高点。",
-      "url": "https://www.cls.cn/detail/2498043",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T02:19:21+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b13c2c60dc8d3fc8",
-      "title": "尼日利亚总统：军用飞机坠毁事故致32人遇难",
-      "url": "https://www.cls.cn/detail/2498042",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T02:06:26+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3bd1edf68dbb22a5",
-      "title": "波音公司获得一份为期七年的合同 以加快PAC-3 MSE拦截器导引头的生产交付速度‌",
-      "url": "https://www.cls.cn/detail/2498041",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T02:02:15+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": ""
     },
     {
@@ -750,108 +910,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-06T01:49:59+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis."
-    },
-    {
-      "id": "db4905ec74842709",
-      "title": "财联社10月6日电，纳斯达克综合指数涨超1%。",
-      "url": "https://www.cls.cn/detail/2498040",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T01:46:00+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e0d758973367d73d",
-      "title": "财联社10月6日电，摩根大通上调巴西股票至“增持”评级。",
-      "url": "https://www.cls.cn/detail/2498039",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T01:33:46+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a476d52a62449a7b",
-      "title": "俄外交部：将对日本新的反俄措施采取对等反制",
-      "url": "https://www.cls.cn/detail/2498038",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T01:23:30+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a0fb5f00fc2a58e0",
-      "title": "财联社10月6日电，美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元，上个交易日报15.01亿美元。",
-      "url": "https://www.cls.cn/detail/2498037",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T01:19:21+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e3347afb10edb0b8",
-      "title": "财联社10月6日电，美国10年期国债收益率升至5.34%，创2002年以来新高。",
-      "url": "https://www.cls.cn/detail/2498035",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T01:03:19+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "c86c1cebdb4ed522",
-      "title": "英航一客机7分钟急坠8230米",
-      "url": "https://www.cls.cn/detail/2498034",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T00:50:26+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "83e7d74bacd10cfe",
-      "title": "美称轰炸机撤出英国系常规轮换 并非出于安全考量",
-      "url": "https://www.cls.cn/detail/2498033",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T00:45:31+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e25b642c8acffc89",
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T00:32:18+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident."
-    },
-    {
-      "id": "22708a362f6a6ca0",
-      "title": "法国“戴高乐”号航母发生火灾 无人员受伤",
-      "url": "https://www.cls.cn/detail/2498032",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-06T00:28:59+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ed4451649ffffab2",
-      "title": "财联社10月6日电，美国联邦贸易委员会（FTC）主席弗格森向全美24家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。",
-      "url": "https://www.cls.cn/detail/2498031",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T00:20:33+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
     },
     {
       "id": "143400a2145b294b",
@@ -860,18 +920,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-06T00:13:21+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools."
-    },
-    {
-      "id": "4e934cce64203914",
-      "title": "英国海上贸易行动办公室：3艘船在霍尔木兹海峡遭袭",
-      "url": "https://www.cls.cn/detail/2498030",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T00:06:46+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
     },
     {
       "id": "0c6dec3d8898e6d8",
@@ -880,38 +930,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-06T00:05:58+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "9月30日，迪拜航空FZ1073航班空中突发险情，客机曾在短短30秒内骤降近4300米。危急关头，机上乘客与其他机组人员合力制伏刺伤机长的副驾驶，夺回飞机操控权，客机最终在沙特紧急降落。这趟航班经历了怎样惊心动魄的时刻？"
-    },
-    {
-      "id": "c063cab37fc68b99",
-      "title": "财联社10月6日电，美国30年期国债收益率涨至5.69%，创2002年以来新高。",
-      "url": "https://www.cls.cn/detail/2498029",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T00:03:44+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "687ae33e34c1ff57",
-      "title": "财联社10月6日电，阿斯利康在马萨诸塞州的业务投资超过10亿美元。",
-      "url": "https://www.cls.cn/detail/2498028",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-06T00:03:27+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2555e1accdf99525",
-      "title": "欧股主要指数多数收涨",
-      "url": "https://www.cls.cn/detail/2498027",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-05T23:49:05+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": ""
     },
     {
       "id": "dd74da3d0d1fc993",
@@ -920,7 +940,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-05T23:33:55+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "新华社北京10月5日电 题：出行热 体验丰 门市旺——国庆假期消费市场观察"
     },
     {
@@ -930,7 +950,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-05T23:17:23+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says."
     },
     {
@@ -940,7 +960,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T22:42:30+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新社伦敦10月5日电 (记者 欧阳开宇)英国警方5日通报称，英格兰南部戈斯波特4日爆发反移民抗议活动，警方现场处置并逮捕12人，多名警员轻微受伤。"
     },
     {
@@ -950,7 +970,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T22:21:41+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新社曼谷10月5日电 (王茜 李映民)泰国洪灾持续。泰国内政部5日公布的数据显示，自9月16日以来，泰国多地洪灾已造成31人遇难。内政部表示，泰国部分地区水情开始趋缓，但未来数日仍有较强降雨，相关部门正加强防汛和排水工作。"
     },
     {
@@ -960,7 +980,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T22:20:59+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "据罗马尼亚方面5日消息，一艘载有谷物的船只当日在黑海发生火灾并沉没，导致2人死亡，11名船员获救。"
     },
     {
@@ -970,7 +990,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T21:59:51+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "当地时间10月5日，俄罗斯财政部发布消息，将于10月7日至11月6日将该国外汇和黄金购买量提高至9月的五倍，为此拨款2794.2亿卢布，日均购买量约127亿卢布。此次购买依据预算规则进行，旨在将额外油气收入纳入国家福利基金。(总台记者 王新俊)"
     },
     {
@@ -980,7 +1000,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T21:59:09+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "当地时间10月5日10时30分左右，英国首都伦敦的中部、东部和金融城大片区域停电，据悉原因是地下电缆发生故障。伦敦30多个邮政编码区的数千户家庭、办公楼以及关键的交通基础设施受到影响。"
     },
     {
@@ -990,7 +1010,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T21:58:03+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "据胡塞武装消息，当地时间5日午后，沙特空袭了也门首都萨那市所在的萨那省多地，造成两名女性身亡，另有两名女性受伤。"
     },
     {
@@ -1000,7 +1020,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T21:06:46+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新社曼谷10月5日电 (梁峻祥 李映民)泰国旅游与体育部5日最新数据显示，9月27日至10月3日，泰国接待外国游客522532人次，较前一周增加8.24%。其中，中国游客入境量达133946人次，较前一周增长41.98%，成为同期增长较快的主要客源市场之一。"
     },
     {
@@ -1010,7 +1030,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-05T20:59:56+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry."
     },
     {
@@ -1020,7 +1040,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T20:26:24+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新社北京10月5日电 斯德哥尔摩消息：瑞典卡罗琳医学院5日宣布，将2026年诺贝尔生理学或医学奖授予三名科学家卡尔·戴塞罗思、彼得·黑格曼和格奥尔格·内格尔，以表彰他们发现光门控离子通道并创立光遗传学。"
     },
     {
@@ -1030,7 +1050,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-05T20:24:01+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "超话车｜超越美国、德国，中国汽车供应链企业改写全球产业格局"
     },
     {
@@ -1040,7 +1060,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-05T20:08:21+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd."
     },
     {
@@ -1050,7 +1070,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-05T19:40:36+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新网杭州10月5日电(奚金燕 梅青 许旺)金秋十月，浙江大地交通建设一线热度不减。国庆假期，浙江交通集团多个重大项目按计划推进，建设者抢抓秋季施工有利时机。从东海之滨的跨海工程到浙西南山区的高速公路、铁路项目，现场机器轰鸣、焊花飞溅，省域路网加快畅通。"
     },
     {
@@ -1060,7 +1080,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-05T19:34:59+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports."
     },
     {
@@ -1070,7 +1090,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-05T19:10:28+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes."
     },
     {
@@ -1080,7 +1100,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-05T19:04:37+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work."
     },
     {
@@ -1090,7 +1110,7 @@
       "source": "中新网财经",
       "category": "世界要闻",
       "published_at": "2026-10-05T18:48:27+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新网云南丽江10月5日电 (江天 赵艳梅)昆明海关5日消息，当日凌晨1时45分，搭载123名入境旅客的JD466次航班从韩国清州国际机场顺利抵达云南丽江三义国际机场，标志着丽江—韩国清州国际直飞航线正式开通。这是丽江机场口岸今年内开通的第2条中韩直飞航线，为当地跨境游再添新动能。"
     },
     {
@@ -1100,7 +1120,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T17:56:06+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新网悉尼10月5日电 据澳大利亚媒体报道，悉尼内西区新镇(Newtown)一家电影院外5日发生持刀伤人事件，造成一名男子手部受伤。一名27岁女子被警方逮捕。"
     },
     {
@@ -1110,7 +1130,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T17:44:37+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新网10月5日电(魏晨曦) 当地时间10月5日，瑞典卡罗琳医学院宣布，将2026年诺贝尔生理学或医学奖授予卡尔·戴塞洛斯(Karl Deisseroth)、彼得·黑格曼(Peter Hegemann)、格奥尔格·纳格尔(Georg Nagel)三位科学家，以表彰他们在光门控离子通道和光遗传学方面的发现。"
     },
     {
@@ -1120,7 +1140,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T17:28:46+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新网巴黎10月5日电 以“经纬之间·非遗与科技的时尚共生”为主题的中法时尚艺术静态展当地时间1日在巴黎中国文化中心举办，第四届中法时装周由此拉开帷幕。在持续多天的活动中，时装周将通过艺术静态展、时尚论坛、时装秀等形式，展现中法时尚领域的交流与创新。"
     },
     {
@@ -1130,7 +1150,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-05T17:08:49+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新网10月5日电 据交通运输部微信公众号消息，2026年10月4日(国庆假期第4日)，全社会跨区域人员流动量30539万人次，环比增长0.6%，比2025年同期(10月4日，中秋国庆假期第4日，下同)增长1.3%。其中："
     },
     {
@@ -1140,7 +1160,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-05T17:03:30+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday"
     },
     {
@@ -1150,7 +1170,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T16:40:55+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "英国汽车制造商与贸易商协会(SMMT)近日公布的数据显示，2026年9月，英国新车注册量同比增长12%，达到2017年以来同期最高水平。其中，中国汽车品牌表现亮眼，一中国车型成为英国9月最畅销车型。"
     },
     {
@@ -1160,7 +1180,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-05T16:29:20+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新社上海10月5日电 (记者 陈静)“进博会为拜耳提供了重要的交流与合作平台，帮助我们将创新更快转化为惠及患者、消费者和种植者的切实成果。”拜耳大中华及东北亚区传播副总裁张蕾5日对记者表示，“面对行业和市场的持续变化，企业需要不断加速创新，并重新思考如何更好地服务社会。”"
     },
     {
@@ -1170,7 +1190,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-05T16:28:28+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "中新网10月5日电(魏晨曦)一起发生在酒店里的命案，短短一天之内，迅速演变为牵动日本政府与冲绳社会的事件。"
     },
     {
@@ -1180,28 +1200,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-05T16:24:14+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
+      "fetched_at": "2026-10-06T07:21:09+08:00",
       "summary": "“新”中有你丨从选品到出海，鄂尔多斯把跨境生意做成“一站式”"
-    },
-    {
-      "id": "d44483100029ca22",
-      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-10-05T16:22:41+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore."
-    },
-    {
-      "id": "11497e9b6c01407e",
-      "title": "何以中国·青绿人间丨一椒尝出中国味 “绿电”托举产业兴",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708164.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-05T16:19:58+08:00",
-      "fetched_at": "2026-10-06T04:32:27+08:00",
-      "summary": "编者按：山为骨、水为脉、绿为魂。满目青绿，书写着中国式现代化的生态答卷。各地以实干践行“绿水青山就是金山银山”理念，让生态红利惠及千家万户。央广网特别策划《何以中国·青绿人间》主题报道，行走山水阡陌、深入基层一线，记录各地扩绿、兴绿、护绿的鲜活故事，勾勒美丽中国建设壮美画卷，共赴青绿之约，全景展现人与自然和谐共生的生动实践。"
     }
   ],
   "sources": [
@@ -1209,7 +1209,7 @@
       "name": "财联社",
       "url": "https://newsnow.busiyi.world/api/s?id=cls-telegraph",
       "via": "NewsNow",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1218,7 +1218,7 @@
       "name": "华尔街见闻",
       "url": "https://newsnow.busiyi.world/api/s?id=wallstreetcn-quick",
       "via": "NewsNow",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1227,16 +1227,16 @@
       "name": "金十数据",
       "url": "https://newsnow.busiyi.world/api/s?id=jin10",
       "via": "NewsNow",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
-      "count": 26,
+      "count": 30,
       "excluded_unknown_time": 0
     },
     {
       "name": "中新网财经",
       "url": "https://www.chinanews.com.cn/rss/finance.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
       "count": 22,
       "excluded_unknown_time": 0
@@ -1245,7 +1245,7 @@
       "name": "中新网国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1254,7 +1254,7 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
       "count": 19,
       "excluded_unknown_time": 0
@@ -1267,7 +1267,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/000001.SS/",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
       "price": 3842.195,
       "change_pct": 0.30659764312843674,
@@ -1372,7 +1372,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EHSI/",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
       "price": 24040.34,
       "change_pct": 0.28387333943196147,
@@ -1465,12 +1465,12 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
       "price": 27477.31,
       "change_pct": 1.0534813227101258,
       "currency": "USD",
-      "quoted_at": "2026-10-06T04:32:25+08:00",
+      "quoted_at": "2026-10-06T05:15:59+08:00",
       "history": [
         {
           "time": "2026-09-08T21:30:00+08:00",
@@ -1562,12 +1562,12 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/GC%3DF/",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
-      "price": 4168.5,
-      "change_pct": 0.14896080540660606,
+      "price": 4166.0,
+      "change_pct": 0.08889785662082872,
       "currency": "USD",
-      "quoted_at": "2026-10-06T04:22:24+08:00",
+      "quoted_at": "2026-10-06T07:10:58+08:00",
       "history": [
         {
           "time": "2026-09-08T12:00:00+08:00",
@@ -1647,10 +1647,10 @@
         },
         {
           "time": "2026-10-05T12:00:00+08:00",
-          "close": 4168.5
+          "close": 4166.0
         }
       ],
-      "five_day_pct": 0.0024013448468362952,
+      "five_day_pct": -0.05757370693729724,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     },
     {
@@ -1659,12 +1659,12 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/SI%3DF/",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
-      "price": 61.425,
-      "change_pct": 2.414256766894507,
+      "price": 61.345,
+      "change_pct": 2.2808723054968505,
       "currency": "USD",
-      "quoted_at": "2026-10-06T04:21:53+08:00",
+      "quoted_at": "2026-10-06T07:10:58+08:00",
       "history": [
         {
           "time": "2026-09-08T12:00:00+08:00",
@@ -1744,10 +1744,10 @@
         },
         {
           "time": "2026-10-05T12:00:00+08:00",
-          "close": 61.42499923706055
+          "close": 61.345001220703125
         }
       ],
-      "five_day_pct": 0.334855888940333,
+      "five_day_pct": 0.20417964195433846,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     },
     {
@@ -1756,12 +1756,12 @@
       "unit": "美元/桶",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CL%3DF/",
-      "checked_at": "2026-10-06T04:32:27+08:00",
+      "checked_at": "2026-10-06T07:21:09+08:00",
       "status": "ok",
-      "price": 89.24,
-      "change_pct": -2.0524647105963356,
+      "price": 89.25,
+      "change_pct": -2.041488967063221,
       "currency": "USD",
-      "quoted_at": "2026-10-06T04:22:20+08:00",
+      "quoted_at": "2026-10-06T07:10:42+08:00",
       "history": [
         {
           "time": "2026-09-08T12:00:00+08:00",
@@ -1841,10 +1841,10 @@
         },
         {
           "time": "2026-10-05T12:00:00+08:00",
-          "close": 89.23999786376953
+          "close": 89.25
         }
       ],
-      "five_day_pct": -3.628508131196262,
+      "five_day_pct": -3.617708994949187,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     }
   ],
