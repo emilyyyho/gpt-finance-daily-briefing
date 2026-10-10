@@ -1,8 +1,648 @@
 {
-  "generated_at": "2026-10-10T13:44:06+08:00",
+  "generated_at": "2026-10-10T15:43:23+08:00",
   "window_hours": 24,
   "refresh_minutes": 30,
   "news": [
+    {
+      "id": "32cf4ddc2cae7651",
+      "title": "澳门大学预计未来5年学生规模逾2.2万人",
+      "url": "https://www.cls.cn/detail/2501192",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:32:54+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ad4045a27dc1ef6d",
+      "title": "财联社10月10日电，商务部发布关于《对外承包工程管理条例（修订草案）》公开征求意见的通知。",
+      "url": "https://www.cls.cn/detail/2501191",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:31:31+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "26a8f537b6ab12eb",
+      "title": "小鹏集团当选联合国欧洲经济委员会自动驾驶新设工作组秘书长",
+      "url": "https://flash.jin10.com/detail/20261010153039660800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T15:30:39+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "6f0f2f2f36672967",
+      "title": "贵州茅台回应“经销商联谊会解散”“停止品鉴会经费”",
+      "url": "https://flash.jin10.com/detail/20261010152833107800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:28:33+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "80ebdd1d041e3b07",
+      "title": "上海国际航运研究中心：预计四季度航运市场发展趋势将保持稳定",
+      "url": "https://www.cls.cn/detail/2501189",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:27:59+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f18063ac42cd4c67",
+      "title": "美国国家飓风中心：“伊萨亚斯”在佛罗里达登陆后减弱为后热带气旋。",
+      "url": "https://flash.jin10.com/detail/20261010152506588800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T15:25:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "39e647fd4a57b9d6",
+      "title": "沙特重要峰会举行在即，胡塞武装袭击给安全问题蒙上阴影",
+      "url": "https://flash.jin10.com/detail/20261010152302151800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T15:23:02+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "712b456a5e6bd83a",
+      "title": "德国央行官员：欧洲债务危机风险急剧上升",
+      "url": "https://flash.jin10.com/detail/20261010152149300800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:21:49+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c4c5bbe667acf41b",
+      "title": "印度对涉华氰化钠启动反倾销期中复审调查",
+      "url": "https://www.cls.cn/detail/2501187",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:21:08+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d7ab6a9cc0efb94d",
+      "title": "德国央行官员称欧洲债务危机风险急剧上升",
+      "url": "https://www.cls.cn/detail/2501186",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:20:26+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "40e2c95e1ce0972b",
+      "title": "厄尔尼诺现象致雨季提前 坦桑尼亚水稻收割受影响",
+      "url": "https://www.cls.cn/detail/2501185",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:19:17+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c29364fa0ffc327f",
+      "title": "印度对原产于或进口自中国的二环己基碳二亚胺启动第一次反倾销日落复审调查",
+      "url": "https://www.cls.cn/detail/2501184",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:18:00+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1a5d2bc4388ad877",
+      "title": "印度对涉华甲苯二异氰酸酯启动第二次反倾销日落复审调查",
+      "url": "https://www.cls.cn/detail/2501182",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:17:07+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3918b17f9abf9083",
+      "title": "规范竞争与产业升级并举：分众新潮整合释放梯媒行业发展新信号",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710467.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:16:42+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "10月10日，市场监管总局发布公告，经依法审查，附加限制性条件批准分众传媒收购新潮传媒股权案。此次获批，标志着备受市场关注的梯媒行业整合取得重要进展。"
+    },
+    {
+      "id": "0b3d8935f2d5ef6d",
+      "title": "国防部：中方愿同美方一道落实好两国元首重要共识",
+      "url": "https://www.cls.cn/detail/2501179",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:12:39+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3f0fc069408e04f2",
+      "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
+      "url": "https://wallstreetcn.com/livenews/3176522",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T15:12:07+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "29ee5e285e4424bc",
+      "title": "国防部：中方愿同美方一道落实好两国元首重要共识。 （央视新闻）",
+      "url": "https://wallstreetcn.com/livenews/3176521",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:10:54+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c93072b8c4077a94",
+      "title": "国防部：愿同美方一道落实好两国元首重要共识",
+      "url": "https://flash.jin10.com/detail/20261010150817663800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:08:17+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cfbfb77309fd16ad",
+      "title": "3小时获赔6500元！国寿“骑手保”跑出理赔加速度",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710474.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:06:51+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "清晨天刚蒙蒙亮，高速公路上货车的大灯划破夜色，货运司机已踏上跨城运输的征途；早高峰的城市道路上，网约车司机穿梭于楼宇街巷，承接一拨又一拨出行订单；饭点来临，外卖骑手头戴头盔、骑着电动车在车流中穿行，把外卖餐食送到千家万户；社区门口、小区驿站，快递员大包小包搬运包裹，打通物资流通的“最后一百米”。"
+    },
+    {
+      "id": "57e37e2628e8a2e4",
+      "title": "中国和巴基斯坦将首次举行陆军联合训练",
+      "url": "https://flash.jin10.com/detail/20261010150628967800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T15:06:28+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "923fa96ed2bff828",
+      "title": "澳大利亚一架轻型飞机坠毁 致2人受重伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710481.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T15:03:27+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "中新网10月10日电 据澳大利亚媒体报道，当地时间10日，一架轻型飞机在西澳大利亚州坠毁，机上2名男子接受紧急医疗救治。"
+    },
+    {
+      "id": "9159c8cbab73ca3e",
+      "title": "英国拟未来四年投入10亿英镑扶持创新集群",
+      "url": "https://www.cls.cn/detail/2501174",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T15:02:37+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f9bc1021a9863d1b",
+      "title": "新疆兵团团场啤酒花迎丰收年 产量效益双提升",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710477.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:59:17+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "中新网乌鲁木齐10月10日电 (史玉江 钱臻年)当前，正是新疆啤酒花集中采收及加工的关键时期。9日，在新疆生产建设兵团第二师二十七团天湖镇啤酒花种植基地里，种植户忙着割藤、采花、分拣、转运。"
+    },
+    {
+      "id": "db171543aea11b39",
+      "title": "第五届亚残运会中国体育代表团成立",
+      "url": "https://www.cls.cn/detail/2501173",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:59:10+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "711f986bd2038321",
+      "title": "第二十届全国半导体与集成技术会议在青岛开幕",
+      "url": "https://www.cls.cn/detail/2501170",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:56:16+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3ce4f981ec61b525",
+      "title": "四川出台促进中小企业发展五年工作方案 力争专精特新中小企业增加近千户",
+      "url": "https://www.cls.cn/detail/2501169",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:55:30+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "474410318e8e0481",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T14:54:16+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone."
+    },
+    {
+      "id": "ed924c0d6f6ef688",
+      "title": "深港“全天候通道”升级 新皇岗口岸5分钟便捷通关",
+      "url": "https://www.cls.cn/detail/2501168",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:52:41+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "73e7eb3215c7b0e0",
+      "title": "徐州鼓楼国庆假日消费新态势：把流量留住，让爆红长红",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710473.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:52:26+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "国庆长假，消费热潮涌动徐州鼓楼：重点监测的中心商圈5家商业综合体及街区营业额超2.1亿元、同比增长17.1%；客流量459万人次、同比增长10.7%。全区共接待外地游客总量同比增加14.4%；龟山汉墓单日客流连续3天突破3万人。"
+    },
+    {
+      "id": "58a423fa2f664e65",
+      "title": "美国佐治亚州道格拉斯警察局：10月9日一处住宅内五人遭枪击身亡。",
+      "url": "https://flash.jin10.com/detail/20261010145221058800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T14:52:21+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e061622d44f0f61c",
+      "title": "伊朗革命卫队讽刺特朗普对诺贝尔和平奖的执念",
+      "url": "https://flash.jin10.com/detail/20261010144737550800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T14:47:37+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ad568592659fa918",
+      "title": "建行国庆期间快速落地房贷贴息政策，服务居民及时享受贴息实惠",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710468.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:45:00+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "10月1日起，居民购房贷款贴息政策在全国正式实施。建设银行积极响应、迅速行动，第一时间明确服务流程、制定贴息确认书、完善系统功能，让“免申即享”落到实处。建设银行各地分行国庆期间走进楼盘、房产中介机构，讲政策、算细账，确保首批贴息贷款及时发放，把财政贴息的政策红利送到购房者身边，助力符合条件的购房家庭尽早享受贴息实惠。"
+    },
+    {
+      "id": "a5bf3bd67596062b",
+      "title": "俄罗斯当局称，击落了15架飞向莫斯科的乌克兰无人机。",
+      "url": "https://flash.jin10.com/detail/20261010144044093800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T14:40:44+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "97ba04ce354bbf25",
+      "title": "乌克兰、美国和欧洲国家提前结束迈阿密会谈",
+      "url": "https://wallstreetcn.com/livenews/3176520",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T14:38:58+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "fe026264c687e3cb",
+      "title": "澳大利亚一架轻型飞机坠毁 2人受重伤",
+      "url": "https://flash.jin10.com/detail/20261010143650540800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:36:50+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "6a385245e94cdd92",
+      "title": "冷空气来袭 北京下周二起最低气温降至个位数",
+      "url": "https://www.cls.cn/detail/2501163",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:33:44+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5420426179dd9b57",
+      "title": "宜家家居抖音官方旗舰店即将上线",
+      "url": "https://www.cls.cn/detail/2501161",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:30:47+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "83a40c6edbd31ee4",
+      "title": "乌克兰扎波罗热州州长表示，俄罗斯的袭击造成七人遇难。",
+      "url": "https://flash.jin10.com/detail/20261010142925710800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T14:29:25+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c9e2d516a72b38f7",
+      "title": "村田制作所子公司拟投90亿日元扩产MLCC陶瓷原料",
+      "url": "https://www.cls.cn/detail/2501151",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:28:49+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1bca47f2b96ea3d7",
+      "title": "中国七部门发文推动电商领域高水平开放",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710464.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:25:35+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "中新社北京10月10日电 (记者 尹倩芸)中国商务部等7部门制定的《关于实施品质电商“五优”行动的通知》(下称“通知”)10日对外发布。其中提出，引导丝路电商“品质争优”，推动电商领域高水平开放。"
+    },
+    {
+      "id": "ef10d254f591001b",
+      "title": "葛洲坝航运扩能主体工程开工",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710466.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:23:59+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "中新社湖北宜昌10月10日电 (郭晓莹 董晓斌 卢西奥)葛洲坝航运扩能上下游围堰10日正式启动施工。这标志着作为三峡水运新通道工程重要组成部分的葛洲坝航运扩能全面进入主体施工阶段。"
+    },
+    {
+      "id": "aec485c75423e45b",
+      "title": "中国铁路今起实行新的货物列车运行图",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710465.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:23:05+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "中新社北京10月10日电 (记者 刘文文)记者从中国国家铁路集团有限公司(下称“国铁集团”)获悉，全国铁路10月10日18时起实行新的货物列车运行图。"
+    },
+    {
+      "id": "4c0cf26376e30d54",
+      "title": "苹果iPhone Duo加单30% iPhone 18 Pro系列总订单量未变",
+      "url": "https://www.cls.cn/detail/2501159",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:18:04+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4a8f7b52e08657a0",
+      "title": "北京：增加人工智能手机和电脑、智能穿戴、智能机器人等新一代智能终端产品有效供给",
+      "url": "https://wallstreetcn.com/livenews/3176519",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:16:43+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "295a7491713193a9",
+      "title": "全国首个百万千瓦级光伏光热项目并网发电",
+      "url": "https://wallstreetcn.com/livenews/3176518",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:15:08+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "40cfa999b818525c",
+      "title": "北京：深入推进“人工智能+消费” 增加人工智能手机和电脑、智能穿戴、智能机器人等新一代智能终端产品有效供给",
+      "url": "https://www.cls.cn/detail/2501157",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:13:34+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "91c1a6e8b70ad6b1",
+      "title": "北京：加大新能源汽车推广力度 培育汽车消费新增长点",
+      "url": "https://flash.jin10.com/detail/20261010141118847800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:11:18+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a1487ad676aee1ec",
+      "title": "江苏如东洋口港迎来第900艘LNG船",
+      "url": "https://www.cls.cn/detail/2501156",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:10:30+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a3fee97a6dc8c06b",
+      "title": "北京：引导发展装配式装修与全屋智能物联 带动家电家居全链条消费",
+      "url": "https://flash.jin10.com/detail/20261010140912618800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:09:12+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cb10661c8f907b06",
+      "title": "北京：增加人工智能手机和电脑、智能机器人等新一代智能终端产品有效供给",
+      "url": "https://flash.jin10.com/detail/20261010140847242800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:08:47+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "854c43a31e553161",
+      "title": "AI前沿日报-10月10日",
+      "url": "https://flash.jin10.com/detail/20261010140556301800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:05:56+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "9fd3a0f5336188bd",
+      "title": "北京：打造开放多元的国际化餐饮消费生态，吸引全球优质品牌集聚",
+      "url": "https://flash.jin10.com/detail/20261010140548229800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:05:48+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "74ef75b5a7ddc70c",
+      "title": "北京市“十五五”时期深化国际消费中心城市建设规划发布",
+      "url": "https://www.cls.cn/detail/2501150",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T14:04:43+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f62ac42d83fdfc39",
+      "title": "How the trial of murdered Australian brothers and US friend unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T14:04:35+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\"."
+    },
+    {
+      "id": "a10a80f32a6a308d",
+      "title": "美国国家飓风中心：预计“伊萨亚斯”风力将继续减弱，但在今天晚些时候减弱至烈风强度以下之前，仍将在内陆深处持续产生阵风。",
+      "url": "https://flash.jin10.com/detail/20261010135830453800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T13:58:30+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "121fefb3c5276264",
+      "title": "美国国家飓风中心：“伊萨亚斯”正移动至阿拉巴马州南部，山洪和强风威胁正向内陆更深处蔓延。",
+      "url": "https://flash.jin10.com/detail/20261010135754561800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T13:57:54+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e427a970683fbc25",
+      "title": "美国国家飓风中心：“西蒙”已成为4级飓风。",
+      "url": "https://flash.jin10.com/detail/20261010135111005800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T13:51:11+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "530e08e401a38814",
+      "title": "商务部：继续就欧盟对逆变器项目融资指导文件等问题保持沟通",
+      "url": "https://flash.jin10.com/detail/20261010135035937800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T13:50:35+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "167d0cdc76e90966",
+      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T13:48:54+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
+    },
+    {
+      "id": "1e9b7bb6c173a438",
+      "title": "特斯拉获知名分析师力挺：实体人工智能最好投资标的",
+      "url": "https://www.cls.cn/detail/2501148",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-10T13:47:01+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e96793366b4924ac",
+      "title": "今年白云机场口岸出入境客货航班超10万架次 创历史同期新高",
+      "url": "https://wallstreetcn.com/livenews/3176515",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-10T13:46:13+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8f2ceb1a2e46df0c",
+      "title": "商务部：中欧在新能源、人工智能等领域合作潜力巨大",
+      "url": "https://flash.jin10.com/detail/20261010133931551800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T13:39:31+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "75ef87a28f2f140c",
+      "title": "财联社10月10日电，纽约原油暗盘突破90美元/桶，日内涨超1%。",
+      "url": "https://www.cls.cn/detail/2501145",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-10T13:38:48+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a7ed36cbb0a04f2e",
+      "title": "商务部：中欧将于2027年3月召开机制第三次例会",
+      "url": "https://flash.jin10.com/detail/20261010133752707800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-10T13:37:52+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
+      "summary": ""
+    },
     {
       "id": "9e488a22fe8591af",
       "title": "日本执政党丑闻风波持续 高市内阁深陷信任危机",
@@ -10,7 +650,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T13:37:04+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网10月10日电 近期，日本政坛风波再起。日本农林水产大臣梁和生的不当言论持续引发争议，朝野批评声不断，也让高市早苗新内阁面临严峻的执政考验。"
     },
     {
@@ -20,7 +660,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T13:36:24+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "近日，商务部会同中央网信办、国家发展改革委、工业和信息化部、农业农村部、市场监管总局、国家邮政局等6部门印发《关于实施品质电商“五优”行动的通知》(以下简称《通知》)，商务部电子商务司负责人就《通知》进行解读。"
     },
     {
@@ -30,7 +670,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-10-10T13:35:02+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -40,7 +680,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-10-10T13:32:51+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -50,77 +690,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T13:29:24+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "be182aa4db2ca25a",
-      "title": "10月9日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-      "url": "https://flash.jin10.com/detail/20261010132542767800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T13:25:42+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a4dc109c4a14dbc1",
-      "title": "10月9日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-      "url": "https://flash.jin10.com/detail/20261010132538605800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T13:25:38+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "95b94d63fc4952ce",
-      "title": "10月9日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-      "url": "https://flash.jin10.com/detail/20261010132536429800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T13:25:36+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "64d832158a4691c9",
-      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T13:25:12+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
-    },
-    {
-      "id": "32de0dadd45e2547",
-      "title": "印度“蟑螂人民党”：印度警方拘留了“蟑螂”青年运动创始人阿比杰特·迪普克。",
-      "url": "https://flash.jin10.com/detail/20261010132243663800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T13:22:43+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b464185b7d3b3194",
-      "title": "据伊朗塔斯尼姆通讯社：沙特阿拉伯的战机对也门荷台达省巴吉尔地区的石油公司站点进行了攻击。",
-      "url": "https://flash.jin10.com/detail/20261010131521415800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T13:15:21+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5aa34e37aa67dd88",
-      "title": "苹果第二期中国清洁能源基金的承诺投资总额已增至2.12亿美元",
-      "url": "https://flash.jin10.com/detail/20261010130434950800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T13:04:34+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -130,58 +700,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-10T12:51:57+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines."
-    },
-    {
-      "id": "31fb504fc37e0a95",
-      "title": "巴拿马发生6.0级地震 震源深度10千米",
-      "url": "https://www.cls.cn/detail/2501132",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:45:55+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9f170597feaa6c18",
-      "title": "全国性涉外法律服务平台“法通”网正式上线",
-      "url": "https://www.cls.cn/detail/2501131",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:45:18+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "4468228b5c972435",
-      "title": "美国阿拉巴马州应急管理局：休斯顿县所有道路关闭，直至另行通知。在认定情况安全之前，关闭措施将持续有效。",
-      "url": "https://flash.jin10.com/detail/20261010124412325800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T12:44:12+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cfe2b5d618d6d51d",
-      "title": "节后机票价格“跳水” 多条航线低于高铁票价",
-      "url": "https://flash.jin10.com/detail/20261010124351535800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:43:51+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7bb61bcace370998",
-      "title": "美国阿拉巴马州应急管理局：飓风“伊萨亚斯”已引发强风并导致电线杆倒塌，造成了诸多出行困难。",
-      "url": "https://flash.jin10.com/detail/20261010124142533800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T12:41:42+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
     },
     {
       "id": "26642edca61eefe9",
@@ -190,18 +710,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-10T12:38:20+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
-    },
-    {
-      "id": "1e974fd1eafedc93",
-      "title": "巴拿马地震已致27人受伤 暂无人员死亡报告",
-      "url": "https://www.cls.cn/detail/2501130",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:36:07+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
     },
     {
       "id": "94620d57f3a0057f",
@@ -210,27 +720,17 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-10T12:34:55+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport."
     },
     {
-      "id": "eb38bafe51a10cf3",
-      "title": "中国地震台网自动测定：10月10日12时14分在巴拿马附近（北纬7.53度，西经80.77度）发生6.0级左右地震，最终结果以正式速报为准。",
-      "url": "https://flash.jin10.com/detail/20261010122808365800",
-      "source": "金十数据",
+      "id": "242fb7e54af48727",
+      "title": "节后机票价格“跳水” 多条航线低于高铁票价",
+      "url": "https://wallstreetcn.com/livenews/3176512",
+      "source": "华尔街见闻",
       "category": "中国财经",
-      "published_at": "2026-10-10T12:28:08+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2ce95e9e067e547f",
-      "title": "财联社10月10日电，中国地震台网自动测定：10月10日12时14分在巴拿马附近（北纬7.53度，西经80.77度）发生6.0级左右地震，最终结果以正式速报为准。",
-      "url": "https://www.cls.cn/detail/2501127",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:26:36+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "published_at": "2026-10-10T12:31:04+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -240,7 +740,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T12:21:24+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新社北京10月10日电 阿布扎比消息：阿联酋总检察长沙姆西当地时间9日表示，对迪拜航空公司FZ1073航班事件的调查显示，涉事阿曼籍副驾驶企图驾驶飞机撞击以色列特拉维夫本-古里安国际机场航站楼，实施自杀式袭击，以造成尽可能多的人员伤亡。"
     },
     {
@@ -250,48 +750,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T12:20:52+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新社华盛顿10月9日电(记者 陈孟统)俄罗斯总统普京9日与美国总统特朗普举行通话。双方就俄向美国及全球市场提供柴油达成一致。"
-    },
-    {
-      "id": "222cd5ecfdeb93e7",
-      "title": "温州瓯飞滩以东水域开展军事训练 禁止驶入",
-      "url": "https://www.cls.cn/detail/2501124",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:20:39+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5a436c594c54ebeb",
-      "title": "集邦咨询：预估2031年VCSEL市场需求量将有望达到6.5亿颗",
-      "url": "https://flash.jin10.com/detail/20261010122012884800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:20:12+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d3b647f262695dbe",
-      "title": "人社部：力争到2030年技能人才占就业人员比例升至35%",
-      "url": "https://www.cls.cn/detail/2501123",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:19:29+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5dc0c67856c585b9",
-      "title": "航行警告 温州瓯飞滩以东水域军事活动",
-      "url": "https://flash.jin10.com/detail/20261010121837029800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:18:37+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
     },
     {
       "id": "f9591edb81bc6252",
@@ -300,7 +760,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T12:18:08+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新社北京10月10日电 综合消息：也门胡塞武装9日再次向飞越沙特阿拉伯领空的航班发出警告，利雅得航班连续两天受扰。沙特主导的联军9日开展大规模军事行动，摧毁胡塞武装控制区内上百处军事目标。"
     },
     {
@@ -310,7 +770,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T12:17:21+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -320,7 +780,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T12:16:04+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "本报记者 杨笑寒"
     },
     {
@@ -330,7 +790,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T12:12:13+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -340,7 +800,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-10-10T12:10:51+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -350,58 +810,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-10T12:07:11+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
-    },
-    {
-      "id": "c8e517da472e627e",
-      "title": "印度央行设立专用外汇窗口 向国有石油公司供应美元",
-      "url": "https://www.cls.cn/detail/2501116",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:05:23+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7bb0fe2e48b66761",
-      "title": "油回来了沙特也降价，布油为何跌破100又秒回？",
-      "url": "https://flash.jin10.com/detail/20261010120517871800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T12:05:17+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7ef7afa96e7499ab",
-      "title": "印度央行推出特别石油窗口及支撑卢比的监管措施",
-      "url": "https://flash.jin10.com/detail/20261010120426635800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:04:26+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e49035219b911e09",
-      "title": "中方强调俄乌和睦相处是现实选择",
-      "url": "https://www.cls.cn/detail/2501115",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T12:04:01+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "6d2a54e478601399",
-      "title": "美国总统特朗普：（被问及飓风准备工作时）一切尽在掌控之中。",
-      "url": "https://flash.jin10.com/detail/20261010115540453800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T11:55:40+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
     },
     {
       "id": "8666b618c4e47203",
@@ -410,7 +820,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T11:54:17+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网安阳10月10日电 (记者 王宇)河南安阳红旗渠机场10日消息，自10月25日起，安阳红旗渠机场将新开乌鲁木齐—安阳—厦门客运往返航线。"
     },
     {
@@ -420,18 +830,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T11:53:53+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网拉萨10月10日电(白玛玉珍)10月8日，由中国建筑第二工程局有限公司承建的西藏华电琼结风电基地二期项目完成全部风机吊装，这座全球罕见的超高海拔山地风电项目正式转入电气安装调试阶段，向着按期全容量并网发电迈出关键一步。"
-    },
-    {
-      "id": "989322c89961906b",
-      "title": "人社部：将构建技能导向的薪酬分配制度 完善治理欠薪长效机制",
-      "url": "https://flash.jin10.com/detail/20261010115320771800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:53:20+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
     },
     {
       "id": "58affedc980c3829",
@@ -440,58 +840,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T11:52:31+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网上海10月10日电 (记者 姜煜)据上海海关10日发布的数据，1月至9月，上海海关所属上海外高桥港区海关(以下简称外港海关)、洋山海关等口岸一线部门，累计查发涉嫌侵权光伏产品案16起，价值合计500余万元。"
-    },
-    {
-      "id": "6b7d2af3727d2fd5",
-      "title": "印度选民名单核查引发众怒，莫迪第三任期面临政治挑战",
-      "url": "https://flash.jin10.com/detail/20261010115203056800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:52:03+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2bc756a435d3f537",
-      "title": "AI数据中心用电狂飙 美国密西西比州发出电力预警",
-      "url": "https://www.cls.cn/detail/2501112",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T11:51:10+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5be1e010c59e6ea9",
-      "title": "美国总统特朗普：（关于飓风“萨伊亚斯”）我们正在密切关注这场飓风。",
-      "url": "https://flash.jin10.com/detail/20261010114949559800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T11:49:49+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "49cfb8cde3707369",
-      "title": "财联社C50风向指数调查：9月新增信贷、社融或同比少增，M1、M2增速环比回落",
-      "url": "https://www.cls.cn/detail/2501109",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:48:13+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d055b27f6ea73183",
-      "title": "立中集团：光博会期间与多家行业客户开展了业务交流与技术洽谈",
-      "url": "https://www.cls.cn/detail/2501110",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:47:57+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
     },
     {
       "id": "ed0517d2dfcdd943",
@@ -500,7 +850,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T11:43:12+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网北京10月10日电(张尼 陈子健)近日，尊界V800刹车踏板支架断裂风波持续发酵。一款刚刚上市两个多月、瞄准百万级市场的豪华MPV遭遇“信任危机”。"
     },
     {
@@ -510,47 +860,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T11:39:13+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f89841cb46042312",
-      "title": "央行行长潘功胜会见法国总统外事顾问博纳",
-      "url": "https://www.cls.cn/detail/2501104",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:37:21+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "16e21016c76ebe73",
-      "title": "10月9日，中国人民银行行长潘功胜会见法国总统外事顾问博纳。双方就当前经济金融形势、中法经济金融合作等议题交换了意见。",
-      "url": "https://flash.jin10.com/detail/20261010113639881800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:36:39+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "6277018f80aa1a2e",
-      "title": "泰国证交所修订卖空和高频交易规则",
-      "url": "https://www.cls.cn/detail/2501103",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:34:59+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "05040da168bc746f",
-      "title": "泰国证券交易所修订卖空和高频交易规则",
-      "url": "https://flash.jin10.com/detail/20261010113340169800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:33:40+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -560,38 +870,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T11:32:56+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网晋中10月10日电 题：山西和顺：大棚科技提质效 特色果蔬促农增收"
-    },
-    {
-      "id": "73baeffcabd235a5",
-      "title": "阿斯麦将上调在韩零部件报价 涨幅10%",
-      "url": "https://flash.jin10.com/detail/20261010113036158800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:30:36+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1f5d1d6384f33f35",
-      "title": "长三角铁路明日起实施新列车运行图",
-      "url": "https://www.cls.cn/detail/2501100",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:30:22+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "67c13ac25d75ff88",
-      "title": "中国政府太平洋岛国事务特使钱波会见太平洋岛国政治家联合考察团",
-      "url": "https://www.cls.cn/detail/2501099",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:28:27+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
     },
     {
       "id": "be796b1f8215e0e4",
@@ -600,57 +880,17 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T11:25:47+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
-      "id": "1626afb1e824f571",
-      "title": "消息称ASML将上调在韩零部件报价 涨幅10%",
-      "url": "https://www.cls.cn/detail/2501097",
-      "source": "财联社",
+      "id": "598ab031970fd7f2",
+      "title": "“十五五”时期，每年将培养培训100万名高层次、急需紧缺技术人才",
+      "url": "https://wallstreetcn.com/livenews/3176504",
+      "source": "华尔街见闻",
       "category": "中国财经",
-      "published_at": "2026-10-10T11:23:14+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cef021aa97d7e73a",
-      "title": "上海普陀拟出台算力扶持新政 数字广告企业补贴最高可达50%",
-      "url": "https://flash.jin10.com/detail/20261010112311768800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:23:11+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cd9f029591a9a035",
-      "title": "韩国一超市天花板坍塌数十人受伤",
-      "url": "https://www.cls.cn/detail/2501096",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T11:21:26+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f49bc3f2aebd9347",
-      "title": "“十五五”时期 每年将培养培训100万名高层次、急需紧缺技术人才",
-      "url": "https://www.cls.cn/detail/2501094",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:12:35+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cc96a9a2a923336b",
-      "title": "人社部：“十五五”时期 每年将培养培训100万名高层次、急需紧缺技术人才",
-      "url": "https://flash.jin10.com/detail/20261010111104098800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:11:04+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "published_at": "2026-10-10T11:12:27+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -660,47 +900,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T11:10:16+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a5685977476f38ca",
-      "title": "外交部：10月9日，外交部副部长马朝旭在北京同澳大利亚外交贸易部秘书长安思捷举行第26次中澳外交部政治磋商。双方就中澳关系以及共同关心的国际地区问题坦诚、深入交换意见。",
-      "url": "https://flash.jin10.com/detail/20261010110933977800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:09:33+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "871fc794bf7de4d2",
-      "title": "美联储一边加息，一边准备“救”美债，这矛盾吗？",
-      "url": "https://flash.jin10.com/detail/20261010110405991800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T11:04:05+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e5bd98a8d0a55a72",
-      "title": "巴拿马总统：地震灾情严重 政府正协调援助",
-      "url": "https://www.cls.cn/detail/2501089",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:01:28+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9f625b0a8d227d99",
-      "title": "中方代表：应在中东整体大局势下解决也门冲突",
-      "url": "https://www.cls.cn/detail/2501088",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T11:00:20+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -710,27 +910,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-10-10T10:59:58+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "314b3856e28c08a0",
-      "title": "财联社10月10日电，美国国土安全部部长表示，受飓风“伊萨亚斯”影响，已批准佛罗里达州和阿拉巴马州进入紧急状态。",
-      "url": "https://www.cls.cn/detail/2501086",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T10:57:27+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "bc008032e60be481",
-      "title": "上海未来产业基金拟参与投资3只子基金",
-      "url": "https://www.cls.cn/detail/2501085",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-10T10:56:54+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -740,7 +920,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T10:55:34+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -750,27 +930,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T10:55:08+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9413206067fa3fa2",
-      "title": "美国国土安全部长：受飓风“伊萨亚斯”影响，已批准佛罗里达州和阿拉巴马州进入紧急状态。",
-      "url": "https://flash.jin10.com/detail/20261010105421569800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T10:54:21+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "99bb000e31f06813",
-      "title": "今天，三峡水运新通道工程葛洲坝航运扩能上下游围堰正式启动施工。",
-      "url": "https://flash.jin10.com/detail/20261010105229766800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-10T10:52:29+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -780,7 +940,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T10:46:03+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网10月10日电 综合美媒报道，美国副总统万斯当地时间9日表示，他不会观看胡德堡枪击案罪犯枪决过程直播。"
     },
     {
@@ -790,7 +950,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T10:42:49+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网10月10日电 据商务部网站消息，10月10日，《商务部等7部门关于实施品质电商“五优”行动的通知》发布，具体内容如下："
     },
     {
@@ -800,7 +960,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T10:34:38+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网10月10日电(记者 刁炜)新一轮巴以冲突爆发已满3周年，而依托加沙地带作为主要根据地的哈马斯武装，虽在以方持续打击下遭受严重损失，但外界普遍认为其仍拥有较强军事实力。"
     },
     {
@@ -810,7 +970,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T10:33:20+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "新华网广州10月9日电 题：迈向世界高端制造中心——广东持续做大做强先进制造业观察"
     },
     {
@@ -820,7 +980,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T10:33:06+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新社圣保罗10月9日电 巴西东南部米纳斯吉拉斯州一架军警飞机9日下午坠毁，造成3名军警人员死亡。"
     },
     {
@@ -830,7 +990,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T10:26:46+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网10月10日电 据中国铁路微信公众号消息，全国铁路10月10日18时起实行新的货物列车运行图，中国铁路物流产品体系进一步优化，将为有效降低全社会物流成本、助力经济社会高质量发展提供更加优质高效的运输保障。"
     },
     {
@@ -840,7 +1000,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T10:24:42+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "央视新闻客户端消息(新闻联播)：眼下，随着国家新型电网、水网、算力网等“六张网”的建设向纵深推进，一些偏远地区的面貌正在发生变化，也给很多人带来了新的发展机遇。"
     },
     {
@@ -850,18 +1010,8 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T10:22:30+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
-    },
-    {
-      "id": "f62ac42d83fdfc39",
-      "title": "How the trial of two murdered Australian surfers ended in a guilty verdict",
-      "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T10:21:10+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\"."
     },
     {
       "id": "5e0991695fce60fa",
@@ -870,7 +1020,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T10:18:57+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "10月10日，《商务部等7部门关于实施品质电商“五优”行动的通知》发布，详情如下。"
     },
     {
@@ -880,7 +1030,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T10:17:41+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -890,7 +1040,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T10:16:11+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网10月10日电 综合外媒报道，克里姆林宫10月8日表示，德国前总理施罗德出席了俄罗斯总统普京的生日庆祝活动。"
     },
     {
@@ -900,7 +1050,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T10:13:55+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -910,7 +1060,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T10:13:04+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -920,7 +1070,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T10:10:55+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "国务院新闻办公室今天(10月10日)上午举行“开局起步‘十五五’”系列主题新闻发布会，人力资源社会保障部相关负责人介绍推进就业和社会保障高质量发展有关情况。"
     },
     {
@@ -930,7 +1080,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T10:09:15+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -940,7 +1090,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T10:09:11+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "这个国庆，洽宝复古文创快闪店落地合肥滨湖方圆 LIVE。作为洽洽首个文创快闪店，洽宝原生 IP文创产品在此首次对外发售。门店自开业以来人气高涨，国庆期间门店日均客流超6万人次。"
     },
     {
@@ -950,7 +1100,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T10:08:14+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -960,7 +1110,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T10:05:53+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网贵州德江10月10日电 (罗欢)“以前鲜叶收上来最怕天气不好，现在有了东西部协作建好的厂房和生产线后，秋茶和春茶都能快速加工成碾茶。”在贵州省德江县煎茶镇冷链物流园区碾茶加工厂，种茶多年的安德洪看着机器有序运转感慨万千。车间里，鲜嫩茶青经杀青、蒸青、碾磨等工序后，细腻翠绿的碾茶源源不断产出，一箱箱成品再通过物流发往贵茶集团。"
     },
     {
@@ -970,18 +1120,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-10T10:02:54+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
-    },
-    {
-      "id": "474410318e8e0481",
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T09:58:56+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana."
     },
     {
       "id": "962b915f4335d405",
@@ -990,7 +1130,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T09:55:24+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "9日，来自日本冲绳、九州等地区的41个民间团体在位于东京的参议院议员会馆，与日本防卫省、外务省等部门的代表进行交流，并提交请愿书，表达对日本政府持续扩大防卫预算、推进军事部署的质疑和不满。"
     },
     {
@@ -1000,7 +1140,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T09:53:48+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "据日本方面7日消息，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。据悉，如果在“安保三文件”中写明“探讨拥有核潜艇”，将为政府启动相关调查研究创造条件，而后日本政府将就是否拥有核潜艇作出决定。对此，多国人士表示，日本谋求核潜艇，威胁亚太地区和平稳定。"
     },
     {
@@ -1010,7 +1150,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T09:51:56+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网广州10月10日电 (方伟彬 林圣敏)记者9日从广州白云边检站获悉，截至当天，白云机场口岸今年以来查验出入境客货航班超10万架次，同比增长12.3%，刷新历史最快纪录。"
     },
     {
@@ -1020,7 +1160,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T09:49:26+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新社北京10月10日电 (记者 尹倩芸)中国商务部新闻发言人9日晚间表示，中方反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实。如果未来有关经济体以此为借口，采取损害中方利益的措施，中方将作出必要回应。"
     },
     {
@@ -1030,7 +1170,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T09:47:50+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网10月10日电 综合外媒报道，联合国秘书长古特雷斯9日通过发言人发表声明，谴责美国宣布“对国际刑事法院整个机构实施制裁”，指出这一决定将对国际刑事司法正义构成严重打击，并对制裁可能影响国际刑事法院继续履行职责表示严重关切。"
     },
     {
@@ -1040,7 +1180,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-10-10T09:43:04+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": ""
     },
     {
@@ -1050,7 +1190,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-10T09:42:58+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "今天(10日)起，2026年第七期储蓄国债(凭证式)和2026年第八期储蓄国债(凭证式)开始发行，单一个人购买单期储蓄国债(凭证式)金额最高为50万元。这两期国债均为固定利率、固定期限品种。"
     },
     {
@@ -1060,148 +1200,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-10T09:33:49+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
+      "fetched_at": "2026-10-10T15:43:23+08:00",
       "summary": "中新网柏林10月10日电 法兰克福消息：当地时间9日，《天地相和：海外专家谈狮子林》中英文对照版图书在法兰克福书展发布。"
-    },
-    {
-      "id": "eaa31c4bd3fb3d36",
-      "title": "央行10月10日7天期逆回购操作量为零",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-10T09:33:19+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "中新网10月10日电 据央行网站消息，根据公开市场业务一级交易商的需求，2026年10月10日7天期逆回购操作量为零。具体情况如下："
-    },
-    {
-      "id": "1ab21e3fb9d6e184",
-      "title": "“云津艺渡·上海非物质文化遗产展” 在英国举行",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710019.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T09:32:39+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)10月9日，中国驻曼彻斯特总领事唐锐出席“中国传统艺术国际巡展·利物浦站——云津艺渡·上海非物质文化遗产展”开幕仪式，利物浦主管经济事务的副议长尼克·斯默尔议员、上海艺术品博物馆理事长胡木清，当地各界友好人士100余人参加。"
-    },
-    {
-      "id": "f8d855549152ccac",
-      "title": "英国拟未来四年投入10亿英镑扶持创新集群",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710018.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T09:31:53+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)英国政府9日发布消息称，未来四年将投入10亿英镑专项资金，扶持英国各地创新集群，以此优化产业布局、提振整体经济活力。"
-    },
-    {
-      "id": "32785bc82850e8a8",
-      "title": "中国驻贝尔法斯特总领馆在奥斯特大学举办“领保进校园”活动",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710017.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T09:30:03+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)中国驻贝尔法斯特总领馆日前与奥斯特大学、北爱警方联合举办“领保进校园”活动。李南总领事出席并致辞。该校中国留学生约50人参加。"
-    },
-    {
-      "id": "556ea98be61ba9b0",
-      "title": "乌总统对美俄达成柴油协议感到失望",
-      "url": "https://wallstreetcn.com/livenews/3176490",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-10T09:29:30+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3029849fcc510c36",
-      "title": "特朗普任命保守派评论员扎卡里亚为白宫新闻秘书",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710015.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T09:28:49+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "中新社华盛顿10月9日电 (记者 陈孟统)美国总统特朗普9日宣布，任命保守派评论员凯蒂·扎卡里亚(Katie Zacharia)出任白宫新闻秘书。"
-    },
-    {
-      "id": "abdce9bac91921ca",
-      "title": "中国央行：根据公开市场业务一级交易商的需求，10月10日7天期逆回购操作量为零。Wind数据显示，今日无逆回购到期。",
-      "url": "https://wallstreetcn.com/livenews/3176489",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-10T09:23:25+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9cca0e99aa50d426",
-      "title": "国内航线燃油附加费今起上调",
-      "url": "https://wallstreetcn.com/livenews/3176488",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-10T09:23:06+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f2ebe1df5000088e",
-      "title": "日本美滨核电站3号机组反应堆重启",
-      "url": "https://wallstreetcn.com/livenews/3176487",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T09:18:31+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "89a1d48dda319537",
-      "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710005.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-10T09:10:40+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "中新网10月10日电 据国家金融监管总局微信公众号消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展。近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》(以下简称《规定》)。"
-    },
-    {
-      "id": "5f11611ddaacb4f1",
-      "title": "金融监管总局有关司局负责人就《财产保险公司保险产品开发管理规定》答记者问",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710007.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-10T09:02:35+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": "近日，金融监管总局发布《财产保险公司保险产品开发管理规定》(以下简称《规定》)。日前，金融监管总局有关司局负责人就相关问题回答了记者提问。"
-    },
-    {
-      "id": "f4e34e9f1d9e0bdf",
-      "title": "特朗普：我们不要加拿大的汽车，我们要自己的汽车。",
-      "url": "https://wallstreetcn.com/livenews/3176485",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-10T08:48:11+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d39dcec97e2e4227",
-      "title": "特朗普政府要求AI公司在发生安全事件后立即上报",
-      "url": "https://wallstreetcn.com/livenews/3176484",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-10T08:44:00+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
-    },
-    {
-      "id": "bf34511a5b8d24ac",
-      "title": "特朗普：纽约本不该让企业迁往得州。 炼油商和零售商应开始降价。 美国已削减逾100万个联邦职位。",
-      "url": "https://wallstreetcn.com/livenews/3176483",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-10T08:43:29+08:00",
-      "fetched_at": "2026-10-10T13:44:06+08:00",
-      "summary": ""
     }
   ],
   "sources": [
@@ -1209,7 +1209,7 @@
       "name": "财联社",
       "url": "https://newsnow.busiyi.world/api/s?id=cls-telegraph",
       "via": "NewsNow",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1218,7 +1218,7 @@
       "name": "华尔街见闻",
       "url": "https://newsnow.busiyi.world/api/s?id=wallstreetcn-quick",
       "via": "NewsNow",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1227,16 +1227,16 @@
       "name": "金十数据",
       "url": "https://newsnow.busiyi.world/api/s?id=jin10",
       "via": "NewsNow",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
-      "count": 30,
+      "count": 27,
       "excluded_unknown_time": 0
     },
     {
       "name": "中新网财经",
       "url": "https://www.chinanews.com.cn/rss/finance.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1245,7 +1245,7 @@
       "name": "中新网国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1254,9 +1254,9 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
-      "count": 33,
+      "count": 34,
       "excluded_unknown_time": 0
     }
   ],
@@ -1267,7 +1267,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/000001.SS/",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "price": 3813.791,
       "change_pct": 0.04950143653987826,
@@ -1352,7 +1352,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EHSI/",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "price": 24211.35,
       "change_pct": 1.7891394579418352,
@@ -1457,7 +1457,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "price": 27366.17,
       "change_pct": 0.6355606087485421,
@@ -1562,7 +1562,7 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/GC%3DF/",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "price": 4216.3,
       "change_pct": 1.4265095020447482,
@@ -1667,7 +1667,7 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/SI%3DF/",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "price": 61.048,
       "change_pct": 3.359069571401352,
@@ -1772,7 +1772,7 @@
       "unit": "美元/桶",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CL%3DF/",
-      "checked_at": "2026-10-10T13:44:06+08:00",
+      "checked_at": "2026-10-10T15:43:23+08:00",
       "status": "ok",
       "price": 91.85,
       "change_pct": 0.39348797096543375,
