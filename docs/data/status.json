@@ -539,13 +539,14 @@
     "sent_at": "2026-10-13T20:08:30+08:00"
   },
   "2026-10-14-am": {
-    "status": "sending",
+    "status": "sent",
     "label": "早报",
     "planned_at": "2026-10-14T08:00:00+08:00",
     "generated_at": "2026-10-14T10:08:33+08:00",
     "news_count": 20,
     "kind": "news",
     "report": "reports/2026-10-14-am.md",
-    "ai": false
+    "ai": false,
+    "sent_at": "2026-10-14T10:08:42+08:00"
   }
 }
