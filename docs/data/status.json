@@ -558,5 +558,15 @@
     "report": "reports/2026-10-21-am.md",
     "ai": false,
     "sent_at": "2026-10-21T09:59:26+08:00"
+  },
+  "2026-10-21-pm": {
+    "status": "sending",
+    "label": "晚报",
+    "planned_at": "2026-10-21T20:00:00+08:00",
+    "generated_at": "2026-10-21T22:06:00+08:00",
+    "news_count": 20,
+    "kind": "news",
+    "report": "reports/2026-10-21-pm.md",
+    "ai": false
   }
 }
