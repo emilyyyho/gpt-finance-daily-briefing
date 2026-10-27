@@ -1,36 +1,886 @@
 {
-  "generated_at": "2026-10-27T12:55:57+08:00",
+  "generated_at": "2026-10-27T14:48:17+08:00",
   "window_hours": 24,
   "refresh_minutes": 30,
   "news": [
     {
-      "id": "5ab37c091363d9cf",
-      "title": "上汽集团：前三季度海外销售突破百万辆 已超去年全年水平",
-      "url": "https://flash.jin10.com/detail/20261027125348754800",
+      "id": "52ef082204d6a83d",
+      "title": "秦巴腹地秋韵浓 陕西汉中推动“生态颜值”转变为经济产值",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721587.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:44:59+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新网陕西汉中10月27日电 (记者 李一璠)秦巴层峦叠彩，汉水秋意盎然，今年秋季以来，陕西省汉中市依托得天独厚的生态秋景、创新票根经济新模式，文旅市场持续火爆，游客接待量、旅游综合消费稳步攀升，实现了生态颜值、文旅人气、经济产值的同步跃升，接待游客人次同比增长15%。"
+    },
+    {
+      "id": "05cfb5a6b1727ed8",
+      "title": "军费“加码”与民生“承压” 北约军备扩张计划遇难题",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721615.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:43:33+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "欧洲头条丨军费“加码”与民生“承压” 北约军备扩张计划遇难题"
+    },
+    {
+      "id": "fd8c419868dd8955",
+      "title": "山西省消协发布“双十一”消费警示：辨清价格虚实、理性储值办卡",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721595.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:34:27+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新网太原10月27日电 (记者 李庭耀 杨杰英)“双十一”大促开启，预售、直播、满减等各类促销陆续上线，可能有消费套路潜藏其中。山西省消费者协会27日发布2026年“双十一”消费警示，提醒广大消费者擦亮双眼，理性网购，守住消费安全底线。"
+    },
+    {
+      "id": "4a5c4566023f497e",
+      "title": "HD现代电气将投资1980亿韩元扩大产能",
+      "url": "https://www.cls.cn/detail/2516372",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:29:30+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "08c54206926c2aed",
+      "title": "“巴掌好物”带来更好旅行体验",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721597.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:28:33+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "现在人们出行，尤其是短途出行，最明显的变化是箱子变轻变小了。"
+    },
+    {
+      "id": "aad9c23efb1f3a12",
+      "title": "摩根士丹利：芯片股调整已入尾声 将于11月中旬结束",
+      "url": "https://www.cls.cn/detail/2516369",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:28:30+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c0089e6898cad9da",
+      "title": "畅通外籍人员来华“第一站” 中国银行多维金融创新护航2026深圳APEC盛会",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721570.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:25:38+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "世界目光，聚焦深圳。"
+    },
+    {
+      "id": "6b04ed373a3a9bf6",
+      "title": "机构：苹果iPhone 18 Pro系列在中国市场销量增长29% 创下最强劲增长纪录",
+      "url": "https://www.cls.cn/detail/2516366",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:24:23+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0d44916a78ba0465",
+      "title": "中期选举的“黄金8日”，美股胜率高达94.7%？",
+      "url": "https://flash.jin10.com/detail/20261027142346281800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:23:46+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "944a385c0a1482df",
+      "title": "红果短剧：将进一步加大对低质和同质化内容的治理力度",
+      "url": "https://wallstreetcn.com/livenews/3186680",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:23:07+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5872582baa87e832",
+      "title": "约旦内政大臣称逮捕三名卡拉克省教堂“恐怖袭击”实施者",
+      "url": "https://wallstreetcn.com/livenews/3186679",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:22:39+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3edc96c8eb43384f",
+      "title": "Counterpoint Research：若无中国销量，全球销量增长将疲弱得多；美国和日本销量因价格上涨而下滑。",
+      "url": "https://flash.jin10.com/detail/20261027142220556800",
       "source": "金十数据",
       "category": "中国财经",
-      "published_at": "2026-10-27T12:53:48+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "published_at": "2026-10-27T14:22:20+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": ""
     },
     {
-      "id": "864565efca2a88ae",
-      "title": "当地州长表示，乌克兰无人机袭击俄罗斯布良斯克，造成1人死亡、6人受伤。",
-      "url": "https://flash.jin10.com/detail/20261027125245376800",
+      "id": "c016e7515be997f3",
+      "title": "Counterpoint Research：得益于供应改善及竞争对手提价，iPhone 18 Pro系列在华销售增长最为强劲，增幅达29%。",
+      "url": "https://flash.jin10.com/detail/20261027142210286800",
       "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:52:45+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:22:10+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": ""
     },
     {
-      "id": "46caafa7cd98b5f5",
-      "title": "日本财务大臣称，日本准备在汇市采取果断行动",
-      "url": "https://flash.jin10.com/detail/20261027125202732800",
+      "id": "2ec47b75bbcc1c42",
+      "title": "主力资金监控：电子板块净流出超63亿",
+      "url": "https://www.cls.cn/detail/2516359",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:21:37+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "670dd05fd04f0930",
+      "title": "Counterpoint Research：苹果iPhone 18 Pro系列全球上市前三周销量同比增长3.1%。",
+      "url": "https://flash.jin10.com/detail/20261027142117556800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:21:17+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "49a846347a76783b",
+      "title": "俄军称打击乌克兰基辅交通设施等目标",
+      "url": "https://www.cls.cn/detail/2516360",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:21:02+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "46ec677758ab463f",
+      "title": "半导体封测年会将于11月4日至6日举行 多家上市公司参会",
+      "url": "https://wallstreetcn.com/livenews/3186676",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:20:12+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f7bcbd00aae35794",
+      "title": "标普全球：霍尔木兹风险若持续 亚洲液化天然气价格或涨至30美元",
+      "url": "https://www.cls.cn/detail/2516356",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:19:51+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "365e47c10fd61fbc",
+      "title": "科创50指数跌超3%，成分股中，九号公司、盛美上海跌超7%。",
+      "url": "https://flash.jin10.com/detail/20261027141943634800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:19:43+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "43d80515502ea30f",
+      "title": "网约车监管信息交互系统9月份共收到订单信息9.81亿单",
+      "url": "https://wallstreetcn.com/livenews/3186675",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:19:31+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d552c0e18e6718f6",
+      "title": "伊朗议员：导弹储备增逾50%，任何新一轮战争都将招致更猛烈的回应",
+      "url": "https://flash.jin10.com/detail/20261027141928541800",
       "source": "金十数据",
       "category": "世界要闻",
-      "published_at": "2026-10-27T12:52:02+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "published_at": "2026-10-27T14:19:28+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b2edfd7acefe0312",
+      "title": "财联社10月27日电，日本财务大臣片山皋月表示，政府已为在外汇市场采取果断行动做好准备；始终以高度紧迫感密切关注市场走势，包括此时此刻；必须确保日元走势反映基本面。",
+      "url": "https://www.cls.cn/detail/2516355",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:19:02+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "21f2616ef55eec68",
+      "title": "中远海能成立两家液化天然气公司",
+      "url": "https://wallstreetcn.com/livenews/3186674",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:18:37+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b8432b57e2c3ba48",
+      "title": "日本政府拟追加回购10万吨政府储备米以保障粮食安全",
+      "url": "https://flash.jin10.com/detail/20261027141822271800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:18:22+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2bba2dea464b0874",
+      "title": "美俄能源交易引争议：受制裁俄罗斯油轮下周抵美，进口企业面临合规考验",
+      "url": "https://flash.jin10.com/detail/20261027141815581800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:18:15+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7cc5d11bf32403da",
+      "title": "预告：半导体封测年会将于11月4日至6日举行 多家上市公司参会",
+      "url": "https://www.cls.cn/detail/2516354",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:18:12+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "459e2a2c97ba9b6d",
+      "title": "国家广电总局：有线电视不得播放开机广告",
+      "url": "https://wallstreetcn.com/livenews/3186671",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:16:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "537768a59c3dac1d",
+      "title": "财联社10月27日电，汇丰控股港股跌幅扩大至6.3%，此前公布季度利润低于预估。",
+      "url": "https://www.cls.cn/detail/2516352",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:16:32+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1b7f8835fedd2da7",
+      "title": "港股汇丰控股(00005.HK)跌超6%，公司三季度业绩不及预期。",
+      "url": "https://flash.jin10.com/detail/20261027141632841800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:16:32+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "af9a67e512bf1b99",
+      "title": "智元GO-3 Nano Preview登顶RoboDojo",
+      "url": "https://wallstreetcn.com/livenews/3186670",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:16:16+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "db08460cf9048e5b",
+      "title": "科创50ETF近一周资金净流入创年内新高",
+      "url": "https://flash.jin10.com/detail/20261027141616567800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:16:16+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4b4e458d5e13175a",
+      "title": "印度政府：商品及服务税法案修正案将于11月1日生效。",
+      "url": "https://flash.jin10.com/detail/20261027141606973800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:16:06+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e386f3ab48d4709b",
+      "title": "汇丰控股港股跌超6%，公司三季度业绩不及预期。",
+      "url": "https://wallstreetcn.com/livenews/3186669",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:14:58+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1cfccf7e4710c89f",
+      "title": "小红书「未来薯地计划」宣布走向线下：未来一年组织100场青少年线下活动",
+      "url": "https://wallstreetcn.com/livenews/3186668",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:12:50+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "406106b1b1422a35",
+      "title": "【盘中宝】行业从技术试点进入规模化商业运营，机构认为未来有望演进为移动AI入口，这家公司产品已在相关场景实现量产应用",
+      "url": "https://www.cls.cn/detail/2516346",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:12:30+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f953c0491cf97d1d",
+      "title": "财联社10月27日电，日本30年期国债收益率上升1.5个基点至3.820%。",
+      "url": "https://www.cls.cn/detail/2516347",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:11:46+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "820d3022ebb1ec6b",
+      "title": "新规出炉：有线电视不得播放开机广告",
+      "url": "https://flash.jin10.com/detail/20261027141131868800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:11:31+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "78fb9639ed01ea96",
+      "title": "日本30年期国债收益率上升1.5个基点，至3.820%。",
+      "url": "https://flash.jin10.com/detail/20261027141127539800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:11:27+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1b5ce5cc6cbc6a27",
+      "title": "主力资金流向前十大个股",
+      "url": "https://flash.jin10.com/detail/20261027141045338800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:10:45+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "546878e4869ddded",
+      "title": "东阳光药：胰岛素已锁定超1800万支海外订单",
+      "url": "https://flash.jin10.com/detail/20261027141004967800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:10:04+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1d8b60bcf94485c8",
+      "title": "财联社10月27日电，甲醇连续主力合约日内涨3%，现报3447元/吨。",
+      "url": "https://www.cls.cn/detail/2516343",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:07:36+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d32fd2b0d81dae2d",
+      "title": "大立光9个月净利润159.8亿元台币",
+      "url": "https://www.cls.cn/detail/2516342",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:07:30+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8c08309f2d8bcd65",
+      "title": "9月中国绿证价格指数环比下降6.0%",
+      "url": "https://flash.jin10.com/detail/20261027140726288800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:07:26+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "308fc650610a58c2",
+      "title": "财联社10月27日电，俄罗斯国防部称，俄军打击了黑海一艘货船。",
+      "url": "https://www.cls.cn/detail/2516341",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:07:00+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4706f97738a7bb34",
+      "title": "俄罗斯国防部：俄军打击了基辅生产无人机的工业设施。",
+      "url": "https://flash.jin10.com/detail/20261027140649325800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:06:49+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4746fa5ee68933c5",
+      "title": "9月中国绿证价格指数环比下降6.0% 同比下降12.3%",
+      "url": "https://www.cls.cn/detail/2516339",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:05:47+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "bd0b82d831e60756",
+      "title": "只有美伊冲突结束黄金才能复苏？美银策略师强调关键利空仍未解决",
+      "url": "https://www.cls.cn/detail/2516337",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:05:28+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "baa4f3e918742ea0",
+      "title": "俄罗斯国防部：俄军打击了黑海一艘货船。",
+      "url": "https://flash.jin10.com/detail/20261027140528695800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:05:28+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1e86550c215a8f6e",
+      "title": "iPhone需求仍有韧性， Duo或对苹果收入产生明显影响",
+      "url": "https://flash.jin10.com/detail/20261027140418273800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:04:18+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "75864e9288627dac",
+      "title": "诺华股份公司第三季度核心每股收益2.46美元 超过市场预估",
+      "url": "https://www.cls.cn/detail/2516326",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:03:01+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "91ff02ef98ace143",
+      "title": "财联社10月27日电，多晶硅连续主力合约日内涨4%，现报37270元/吨。",
+      "url": "https://www.cls.cn/detail/2516327",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:03:00+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "15c0ad466e9787c9",
+      "title": "财联社10月27日电，纯碱期货主力合约日内涨幅扩大至2%，报982元/吨。",
+      "url": "https://www.cls.cn/detail/2516324",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T14:01:54+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "56400d87c19936b5",
+      "title": "日本外汇交易平台遭黑客入侵！攻击者索要5000万美元赎金，政府紧急部署网络防御",
+      "url": "https://flash.jin10.com/detail/20261027140120421800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T14:01:20+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7c05b3145a6b41e0",
+      "title": "APEC采购商广交会“淘金” 中国智能家居热销亚太",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721566.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:59:15+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新社广州10月27日电 (记者 张璐)以“品质家居”为主题的第140届中国进出口商品交易会(“广交会”)第二期正在广州举办。记者探馆看到，来自亚太经济合作组织(APEC)经济体成员的采购商步履不停，穿梭于各个展位寻找心仪产品；参展商带着最新低碳技术与场景化解决方案，通过广交会平台寻觅贸易合作新机遇。"
+    },
+    {
+      "id": "e5558d58919fb4e8",
+      "title": "阿里巴巴、交银人寿等入股创奕晟华",
+      "url": "https://flash.jin10.com/detail/20261027135836353800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:58:36+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a8b1d3e2376811e2",
+      "title": "AI前沿日报-10月27日",
+      "url": "https://flash.jin10.com/detail/20261027135652163800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:56:52+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2c3cd78c8b11c79f",
+      "title": "马斯克与黄仁勋观点打架 摩根大通：超大规模AI数据中心运营商状况良好是市场共识",
+      "url": "https://www.cls.cn/detail/2516312",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:56:11+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d4cbf8e7f98d8c0d",
+      "title": "“十五五”期间四川从四方面拓宽农民工就业增收渠道",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721582.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:55:07+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新网成都10月27日电(陈选斌)四川省政府新闻办公室27日在成都举行“万千气象看四川·起步奋进‘十五五’”系列主题新闻发布会。四川省人力资源和社会保障厅副厅长全晓锋表示，四川常年有2500万左右农民工在外务工，工资性收入是农民增收的大头。“十五五”期间，四川将从四个方面持续拓宽农民工就业增收渠道，推动农民工工资性收入不断增长。"
+    },
+    {
+      "id": "f46e7f45722927c2",
+      "title": "英伟达与Meta将扩大在Muse及Muse系列模型上的合作。 英伟达称，将对Meta的股票发售投资30亿美元。 英伟达与Meta正考虑在OpenShell参考架构和Nvidia Sentry上展开合作。 英伟达称，Meta将扩大英伟达Vera Rubin、Vera CPU、Spectrum-X以及BlueField-4的部署。",
+      "url": "https://wallstreetcn.com/livenews/3186663",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T13:54:35+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8ede428ff7d23d84",
+      "title": "集运指数（欧线）主力合约日内跌超7.00%，现报2251.5点。",
+      "url": "https://flash.jin10.com/detail/20261027135426504800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:54:26+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a58b16dccd111092",
+      "title": "英伟达(NVDA.O)与Meta公司将扩大英伟达Vera Rubin、Vera CPU、Spectrum-X及BlueField-4的部署规模。",
+      "url": "https://flash.jin10.com/detail/20261027135403354800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:54:03+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b7fd5bfb84817154",
+      "title": "财联社10月27日电，英伟达与Meta将在Muse及Muse系列模型上扩大合作，以应对强劲增长。英伟达称Meta将扩大部署英伟达 Vera Rubin、Vera CPU、Spectrum-X 和 Bluefield-4。",
+      "url": "https://www.cls.cn/detail/2516309",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:53:50+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "940e4e6cb81b9e8b",
+      "title": "英伟达(NVDA.O)与Meta公司正考虑就OpenShell参考架构及英伟达Sentry开展合作。",
+      "url": "https://flash.jin10.com/detail/20261027135348894800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:53:48+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "76a47945acd33e72",
+      "title": "杨凌农高会国际客商云集 双向“掘金”西部市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721573.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:48:30+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新网陕西杨凌10月27日电 题：杨凌农高会国际客商云集 双向“掘金”西部市场"
+    },
+    {
+      "id": "39597013f845f53a",
+      "title": "广东激活富硒资源 走出乡村振兴新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721571.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:47:48+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新网广州10月27日电 (孙秋霞 李璐)广东省富硒土地资源禀赋优越，已探明富硒土地资源面积位居全国前列。当前，富硒产业化已成为地方依托资源禀赋推进“百县千镇万村高质量发展工程”的重要抓手。"
+    },
+    {
+      "id": "bf18ed247c9475e4",
+      "title": "零碳新能源产业链供应链融通发展交流会在河北沧州举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721568.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:47:38+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新网沧州10月27日电 (李玉素 田博)27日，在第七届中国—中东欧国家(沧州)中小企业合作论坛召开之际，零碳新能源产业链供应链融通发展交流会在河北沧州举办。本次交流会以“链通零碳产业 融通供需生态”为主题，旨在搭建新能源产业链上下游对接平台，共话零碳发展机遇、共商供应链协同路径、共探绿色产业跨境合作新路径。"
+    },
+    {
+      "id": "9ee88ee65e8616f1",
+      "title": "南苏丹瓦拉卜州政府通报一起武装袭击致72死38伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721577.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T13:47:16+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新网北京10月27日电 据南苏丹Eye Radio电台报道，南苏丹瓦拉卜州政府当地时间26日发表声明说，该州一社区遭武装袭击，造成至少72人死亡、38人受伤。"
+    },
+    {
+      "id": "76ec6641863b33a6",
+      "title": "五年上市数量扩容近5倍 江苏企业拿下北交所\"多个第一\"",
+      "url": "https://www.cls.cn/detail/2516288",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:44:45+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4af9061aca0dfc59",
+      "title": "联储证券首席经济学家李全：中国资本市场有望步入发展新阶段",
+      "url": "https://www.cls.cn/detail/2516290",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:44:31+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1e2a66cec963d3db",
+      "title": "电网设备板块局部异动 太阳电缆直线涨停",
+      "url": "https://www.cls.cn/detail/2516289",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:42:51+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ebcb8dea6dfc515b",
+      "title": "中国30年期国债期货创年内新高",
+      "url": "https://wallstreetcn.com/livenews/3186656",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:42:12+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d35f6743467d4447",
+      "title": "国债期货30年期主力合约涨0.44% 再创年内新高",
+      "url": "https://www.cls.cn/detail/2516285",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:40:10+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "14985185fa87e0ff",
+      "title": "日本GMO外汇平台遭攻击 黑客勒索5000万美元并威胁泄露客户数据",
+      "url": "https://wallstreetcn.com/livenews/3186655",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T13:39:30+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d4b1a82a5b8bec10",
+      "title": "台湾证交所加权股价指数收涨0.1%，报46,096.23点。",
+      "url": "https://wallstreetcn.com/livenews/3186653",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:35:32+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b4dc386a1b8b5738",
+      "title": "沪深两市成交额突破1万亿 较上一日此时缩量超1600亿",
+      "url": "https://www.cls.cn/detail/2516283",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:35:10+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "46a5e05ee0efb527",
+      "title": "沪深两市成交额超1万亿元，较上日此时缩量1658亿元。",
+      "url": "https://wallstreetcn.com/livenews/3186651",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:30:25+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5e087db98c8805b9",
+      "title": "汇丰控股香港上市股票下跌5%。",
+      "url": "https://wallstreetcn.com/livenews/3186650",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:23:09+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "60619fc35d79222e",
+      "title": "伊宁-阿斯塔纳直飞航线首航",
+      "url": "https://wallstreetcn.com/livenews/3186648",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:12:35+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e73900e4a4829ad6",
+      "title": "Meta将普通股发行规模扩大至250亿美元，此前为225亿美元。 Meta称，2.5亿股A类存托股定价为每股50美元公开发售。",
+      "url": "https://wallstreetcn.com/livenews/3186647",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T13:11:52+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "073bc2eb0c894c7e",
+      "title": "创业板指午后跌超1%，此前一度涨超1%。",
+      "url": "https://wallstreetcn.com/livenews/3186645",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:06:49+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8d52ffcd360a57e4",
+      "title": "崔东树：2026年1-9月汽车行业利润率3.3%、收入增2.6%、成本增3.8%、利润降23%",
+      "url": "https://wallstreetcn.com/livenews/3186644",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:05:59+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ce05360d5d90600b",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T13:05:15+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game."
+    },
+    {
+      "id": "e6ca3fa4d1db38f9",
+      "title": "俄罗斯称昨夜对乌克兰发动了大规模打击。（IFX）",
+      "url": "https://wallstreetcn.com/livenews/3186643",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T13:03:41+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "13cc2dacd68a962b",
+      "title": "前9月中国电力市场交易电量同比增长18.9%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721564.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:03:28+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "中新社北京10月27日电 (记者 王梦瑶)据中国国家能源局27日消息，2026年1至9月，中国各电力交易机构累计完成交易电量58536亿千瓦时，同比增长18.9%。"
+    },
+    {
+      "id": "c41aa2983d1d0ec4",
+      "title": "妙可蓝多：终止与姆巴佩全部合作",
+      "url": "https://wallstreetcn.com/livenews/3186642",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:03:17+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "775723b07bc0322d",
+      "title": "汇丰港股午后一度跌3.7%，此前发布财报。",
+      "url": "https://wallstreetcn.com/livenews/3186641",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T13:02:19+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ae8c46f641dc5642",
+      "title": "以色列议会选举民众投票开始",
+      "url": "https://wallstreetcn.com/livenews/3186640",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T13:00:56+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cca16adf60382ec1",
+      "title": "上汽集团：前三季度海外销售突破百万辆 已超去年全年水平",
+      "url": "https://wallstreetcn.com/livenews/3186638",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-10-27T12:59:02+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": ""
     },
     {
@@ -40,28 +890,18 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T12:48:35+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "近日，竹叶青酒文化活态体验空间“聆竹”在太原钟楼街开门迎客。作为承载汾酒酿制技艺与竹叶青酒泡制技艺双非遗的草本露酒品牌，“聆竹”在实现酒铺形态的同时，将酒、茶、餐、礼、旅也一并收进了品牌功能，让竹叶青在露酒品类之外，具备了向茶饮、餐食、文旅、康养、企业服务等多个行业输出场景的能力。"
     },
     {
-      "id": "0c356551d22ac0cb",
-      "title": "行元发布机器人跨本体数据引擎Chorus",
-      "url": "https://flash.jin10.com/detail/20261027124709932800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:47:09+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "8df9d83d4187283a",
-      "title": "AI算力争夺PCB产能，惠普、戴尔等PC厂商面临供应瓶颈",
-      "url": "https://flash.jin10.com/detail/20261027124557176800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:45:57+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
+      "id": "779281a38344bedb",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T12:43:56+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
+      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year."
     },
     {
       "id": "dd1bc6399aebb1d2",
@@ -70,77 +910,17 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T12:43:45+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "本报记者 李静"
     },
     {
-      "id": "729054331d48acaf",
-      "title": "知情人士：DeepSeek大举扩充团队，梁文锋长期在北京租房",
-      "url": "https://flash.jin10.com/detail/20261027124335489800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:43:35+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "447323e748afb313",
-      "title": "日本财务大臣片山皋月：希望通过透明、一致的沟通，维持市场对日元的信任，以及日本首相高市早苗政府的财政政策。",
-      "url": "https://flash.jin10.com/detail/20261027124121702800",
-      "source": "金十数据",
+      "id": "1d9bdf508d8ae54e",
+      "title": "日本财务大臣片山皋月：政府准备好在外汇市场采取果断行动 。 始终以高度的紧迫感密切关注市场动态。 必须确保日元汇率的走势反应基本面。 希望通过透明、一致的沟通，维持市场对日元及高市政府财政政策的信任。",
+      "url": "https://wallstreetcn.com/livenews/3186637",
+      "source": "华尔街见闻",
       "category": "世界要闻",
-      "published_at": "2026-10-27T12:41:21+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ec5e65160a430de5",
-      "title": "日本财务大臣片山皋月：必须确保日元走势反映基本面。",
-      "url": "https://flash.jin10.com/detail/20261027124045299800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:40:45+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "20694d29ec8b37c4",
-      "title": "日本财务大臣片山皋月：我们始终以高度紧迫感密切关注市场走势，包括此时此刻。",
-      "url": "https://flash.jin10.com/detail/20261027124040254800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:40:40+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "71861c13b7d704fa",
-      "title": "日本财务大臣片山皋月：政府已为在外汇市场采取果断行动做好准备。",
-      "url": "https://flash.jin10.com/detail/20261027124010491800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:40:10+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "4c34e660a7f30a55",
-      "title": "【机构调研】这家全栈式工业AI产品服务商AI应用加速渗透，算力服务相关订单金额超过83亿元",
-      "url": "https://www.cls.cn/detail/2516234",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:39:08+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "04028aed9a658fa2",
-      "title": "高盛警告：华尔街交易已“无从下手”！动量策略极端波动超互联网泡沫、金融危机和疫情时期",
-      "url": "https://flash.jin10.com/detail/20261027123907549800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:39:07+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "published_at": "2026-10-27T12:40:49+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": ""
     },
     {
@@ -150,37 +930,27 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T12:37:56+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "近期，多地加快推进四季度重大项目建设。从资金来看，9月以来专项债发行明显加快，加上新型政策性金融工具、10月启用的地方债结余限额等，政策发力稳投资意图明显。专家测算四季度有超5万亿元政府债待发，为四季度及全年投资回升提供支撑。"
     },
     {
-      "id": "fffc2beb961eb171",
-      "title": "阿曼外交大臣：将继续开展外交努力，以加强波斯湾地区的安全与稳定。",
-      "url": "https://flash.jin10.com/detail/20261027123744758800",
-      "source": "金十数据",
+      "id": "cfdfbdaaf582d7d4",
+      "title": "日本央行理事中岛健至：对金融系统的网络风险表示担忧，已对日本央行金融网络系统采取多项安全措施。",
+      "url": "https://wallstreetcn.com/livenews/3186636",
+      "source": "华尔街见闻",
       "category": "中国财经",
-      "published_at": "2026-10-27T12:37:44+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "published_at": "2026-10-27T12:36:32+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": ""
     },
     {
-      "id": "add5b70f9773e9ba",
-      "title": "千红制药：QHRD106注射液项目处于Ⅱb期临床收尾阶段",
-      "url": "https://flash.jin10.com/detail/20261027123700587800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:37:00+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "49dce49f07d2b4b5",
-      "title": "上海首条直飞阿尔及利亚首都航线今日开通",
-      "url": "https://www.cls.cn/detail/2516233",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:31:35+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "id": "04071f25dbd685f8",
+      "title": "日本财务大臣片山皋月：网络攻击规模不断扩大，威胁迅速上升，将要求金融机构迅速做出应对。",
+      "url": "https://wallstreetcn.com/livenews/3186634",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-10-27T12:34:16+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": ""
     },
     {
@@ -190,27 +960,27 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T12:31:34+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "最近，牛肉价格回升明显。据农业农村部监测，从2026年第27周起，我国牛肉批发市场周均价已连续16周环比上涨。"
     },
     {
-      "id": "93e0c7e72fb211a9",
-      "title": "离岸人民币同业拆息利率多数反弹，一周和两周期拆息均触及近两周新高",
-      "url": "https://flash.jin10.com/detail/20261027123113724800",
-      "source": "金十数据",
+      "id": "fbfb07246d88e758",
+      "title": "上海首条直飞阿尔及利亚首都航线今日开通",
+      "url": "https://wallstreetcn.com/livenews/3186631",
+      "source": "华尔街见闻",
       "category": "中国财经",
-      "published_at": "2026-10-27T12:31:13+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "published_at": "2026-10-27T12:31:27+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": ""
     },
     {
-      "id": "6be12d562717e074",
-      "title": "两个药品被取消国家药品集采中选资格 相关企业被列入违规名单",
-      "url": "https://flash.jin10.com/detail/20261027122921213800",
-      "source": "金十数据",
+      "id": "e644a3bc3b01af76",
+      "title": "提醒：日内请重点关注（以下均为北京时间）",
+      "url": "https://wallstreetcn.com/livenews/3186633",
+      "source": "华尔街见闻",
       "category": "中国财经",
-      "published_at": "2026-10-27T12:29:21+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "published_at": "2026-10-27T12:30:12+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": ""
     },
     {
@@ -220,28 +990,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-27T12:29:04+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网10月27日电 据日本富士新闻网(FNN)10月27日报道，日本防灾担当大臣细野豪志表示，11月2日防灾厅正式成立当天，将向日本政府机构、全国都道府县及国民发出“紧急呼吁”，敦促各方做好应对灾害的准备。"
-    },
-    {
-      "id": "f9107b3d1aedf5fe",
-      "title": "小红书：与姆巴佩内容合作已于2024年底结束 正核查下架相关物料",
-      "url": "https://www.cls.cn/detail/2516231",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:27:55+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5431aaf75a2a1814",
-      "title": "穆迪分析师：未来评级行动取决于日本最新的韧性能否抵御未来冲击。",
-      "url": "https://flash.jin10.com/detail/20261027122604131800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:26:04+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "a935bcc39bd00b7f",
@@ -250,38 +1000,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-27T12:25:24+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新社北京10月27日电 综合消息：叙利亚过渡政府应急与灾害管理部当地时间27日通过社交媒体发表声明称，约旦26日晚空袭叙利亚南部德拉省和苏韦达省农村地区多个地点，已造成7人死亡、3人受伤。"
-    },
-    {
-      "id": "df3a1e5436a44f59",
-      "title": "穆迪主权分析师：日本显现持续增长和通胀稳定的迹象。",
-      "url": "https://flash.jin10.com/detail/20261027122522223800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:25:22+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "98b663e6e964ff2b",
-      "title": "里昂：药明康德第三季业绩符预期 重申“跑赢大市”评级",
-      "url": "https://flash.jin10.com/detail/20261027122428127800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:24:28+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a101a3eb6b084d35",
-      "title": "里昂：中海油服第三季业绩符预期 受惠油价持续高企",
-      "url": "https://flash.jin10.com/detail/20261027122020255800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:20:20+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "9c0025942183a540",
@@ -290,138 +1010,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T12:19:21+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "北京时间10月26日凌晨，国航北京—哥本哈根—雷克雅未克航线首航航班从首都国际机场起飞，经过15个多小时的飞行，于冰岛当地时间10月26日上午，平稳降落在冰岛凯夫拉维克国际机场，标志着中国大陆航空公司首条通往冰岛的定期客运航线正式开通。"
-    },
-    {
-      "id": "2f7ff8b9017fcdf5",
-      "title": "南京3宗宅地6.26亿元底价成交",
-      "url": "https://wallstreetcn.com/livenews/3186630",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:19:05+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9bec2782e6ecfc9e",
-      "title": "加拿大皇家银行：“存储荒”料持续至2027年 HBM价格明年翻倍",
-      "url": "https://www.cls.cn/detail/2516227",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:18:43+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0b6d1c7345a3e718",
-      "title": "美联储年内仅剩两次议息，穆迪经济学家坚持反对进一步行动",
-      "url": "https://flash.jin10.com/detail/20261027121840520800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:18:40+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "64cc482a4ffacc01",
-      "title": "财联社10月27日电，迪拜DIP公司IPO发行价区间定为每股1.10至1.15迪拉姆。",
-      "url": "https://www.cls.cn/detail/2516228",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:18:30+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0bd4928e621051e6",
-      "title": "ST华谊：暂未参与投资电影《流浪地球3》",
-      "url": "https://www.cls.cn/detail/2516225",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:15:36+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "89910555a198f27e",
-      "title": "市场消息：汇丰控股(HSBA.L)税前利润为96亿美元，高于去年同期的73亿美元，但略低于分析师调查平均预期的97亿美元。",
-      "url": "https://flash.jin10.com/detail/20261027121125648800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:11:25+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e29784151aca3361",
-      "title": "丁磊退出杭州网易竹邮科技有限公司股东",
-      "url": "https://flash.jin10.com/detail/20261027121108648800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:11:08+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0be2c6b353632161",
-      "title": "市场消息：汇丰控股(HSBA.L)三季度利润同比大增32%。加息提振了该行的净利息收入，而市场波动加剧则为其财富管理业务带来了更多新客户。",
-      "url": "https://flash.jin10.com/detail/20261027121057296800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:10:57+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "de9118188b271080",
-      "title": "理想汽车(LI.O)：2026款理想i6产品发布会，将于10月28日19:30开始。",
-      "url": "https://flash.jin10.com/detail/20261027120932601800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:09:32+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "283d2dd981cf5196",
-      "title": "汇丰控股(HSBA.L)启动至多10亿美元的股票回购。",
-      "url": "https://flash.jin10.com/detail/20261027120846582800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:08:46+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "61d8d1694eb8c0b6",
-      "title": "汇丰控股(HSBA.L)三季度净利息收入为93亿美元。",
-      "url": "https://flash.jin10.com/detail/20261027120835222800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:08:35+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "920c57103ac06c24",
-      "title": "汇丰预计普通股一级资本充足率将在14%至14.5%之间。",
-      "url": "https://wallstreetcn.com/livenews/3186629",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:07:53+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3e94e90983be251d",
-      "title": "财联社10月27日电，BMD马来西亚棕榈油主力合约日内下跌2%，报4693林吉特/吨。",
-      "url": "https://www.cls.cn/detail/2516220",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:07:28+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "3136fad7fd988551",
@@ -430,108 +1020,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T12:07:11+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "A股午评：超3700只个股飘绿，三大指数收跌；半导体高开低走，创新药概念股下挫；航天军工、生物科技下跌；银行、贵金属上涨"
-    },
-    {
-      "id": "b2f3d2d73490a3cb",
-      "title": "汇丰控股宣布回购不超过10亿美元的股票。",
-      "url": "https://wallstreetcn.com/livenews/3186628",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:06:58+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "caaf4d8dbda5757a",
-      "title": "财联社10月27日电，日本30年期国债收益率上升0.5个基点至3.810%。",
-      "url": "https://www.cls.cn/detail/2516217",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:03:15+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "bf1ce95f24168b6a",
-      "title": "财联社10月27日午间新闻精选",
-      "url": "https://www.cls.cn/detail/2516216",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:02:43+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "be3ebe23faa196ce",
-      "title": "汇丰控股第三季度除税前利润96.3亿美元，预估97亿美元。 第三季度营收186亿美元，预估189.3亿美元。 第三季度普通股一级资本充足率13.9％，预估14.1%。 第三季度预期信贷损失提拨净额8.32亿美元。",
-      "url": "https://wallstreetcn.com/livenews/3186626",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:02:34+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7955d24e115be860",
-      "title": "港股午评：恒生指数跌0.14% 恒生科技指数跌0.77%",
-      "url": "https://www.cls.cn/detail/2516214",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T12:01:41+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "fb620374216563f4",
-      "title": "汇丰控股第三季度除税前利润96.3亿美元 同比增长32%",
-      "url": "https://www.cls.cn/detail/2516212",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T12:01:07+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e23b78a8408c841e",
-      "title": "摩根资管预计未来12个月美债回报率达7%-8%",
-      "url": "https://www.cls.cn/detail/2516206",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T11:54:39+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "63b96c092b7ff63d",
-      "title": "国内商业航天领域尺寸最大的液体火箭贮箱下线",
-      "url": "https://wallstreetcn.com/livenews/3186624",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:54:01+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0f02e3d18c1d6459",
-      "title": "10月27日午间涨停分析",
-      "url": "https://www.cls.cn/detail/2516200",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:48:41+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "eee56cc8a79d76f4",
-      "title": "中国财政部发行91天期债券，规模600亿元，发行利率1.1222%，边际利率1.1585%，预期1.1300%，投标倍数3.13倍，边际倍数1.52倍； 中国财政部发行182天期债券，规模550亿元，发行利率1.1294%，边际利率1.1700%，预期1.1300%，投标倍数3.26倍，边际倍数26.05倍。",
-      "url": "https://wallstreetcn.com/livenews/3186623",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:42:00+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "9a47026ae4b31e6e",
@@ -540,7 +1030,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-27T11:40:35+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网10月27日电 据日本时事通讯社报道，当地时间27日9点25分左右，日本福岛县近海发生4.6级地震，最大震感为震度3。震源深度60公里。"
     },
     {
@@ -550,28 +1040,8 @@
       "source": "中新网财经",
       "category": "世界要闻",
       "published_at": "2026-10-27T11:39:47+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "【欧洲专线】俄罗斯新西伯利亚直飞成都首个航班飞抵"
-    },
-    {
-      "id": "fa819f13a2c6010e",
-      "title": "蒙牛东鹏双双官宣终止与姆巴佩合作",
-      "url": "https://wallstreetcn.com/livenews/3186622",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:35:56+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "26bacce59a13fd70",
-      "title": "《智慧货运枢纽基本要求》国家标准发布",
-      "url": "https://www.cls.cn/detail/2516197",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:34:21+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "26c85c0367bc6a2d",
@@ -580,38 +1050,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T11:32:23+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网上海10月27日电 (记者 姜煜)10月26日，一批来自意大利的珠宝和一批来自瑞士的腕表，分别在黄浦外滩BFC保税仓、静安张园保税仓进行进博会预展，之后将通过“进博直通车”，直达第九届进博会举办地——被称为“四叶草”的国家会展中心(上海)。"
-    },
-    {
-      "id": "4816901e7b78fe34",
-      "title": "午评：科创50指数半日跌超1% 银行板块逆势走强",
-      "url": "https://www.cls.cn/detail/2516194",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:31:44+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "da6544dbce131499",
-      "title": "上证指数早盘收报3692.58点，跌0.13%。 深证成指早盘收报11496.44点，跌0.33%。 创业板指早盘收报2626.31点，跌0.45%。 沪深300早盘收报4098.17点，跌0.13%。 科创50早盘收报1295.83点，跌1.50%。 中证500早盘收报6655.63点，跌0.85%。 中证1000早盘收报6587.87点，跌0.65%。",
-      "url": "https://wallstreetcn.com/livenews/3186618",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:31:00+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "13439f93a29352fb",
-      "title": "10月27日午间收评：科创50指数半日跌1.5%，银行、零售板块逆势走强",
-      "url": "https://wallstreetcn.com/livenews/3186617",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:30:54+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "88b85282afc615be",
@@ -620,38 +1060,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T11:30:13+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网北京10月27日电 (记者 刘亮)第五届数智化审计论坛日前在北京召开。工信部财务司副司长雷文、中国内部审计协会副会长兼秘书长沈立强、中国通信标准化协会副理事长兼秘书长代晓慧、时代经济出版社副社长鹿云飞、中国信息通信研究院党委副书记李德文等出席会议。"
-    },
-    {
-      "id": "5a5d49d90f101dc3",
-      "title": "国债期货早盘收盘，30年期主力合约涨0.19%，10年期主力合约涨0.01%，5年期主力合约跌0.01%，2年期主力合约跌0.01%。",
-      "url": "https://wallstreetcn.com/livenews/3186614",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:30:00+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "233b6b7591afa2c0",
-      "title": "厦门钨业：将继续围绕产业链开展强链、补链、延链的兼并收购",
-      "url": "https://www.cls.cn/detail/2516190",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:24:26+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "973509821c1483a1",
-      "title": "财联社10月27日电，据Mysteel数据显示，10月27日MMLC电池级碳酸锂（早盘）价格较前一日上涨1750元/吨，中间价报100750元/吨。",
-      "url": "https://www.cls.cn/detail/2516188",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:23:30+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "56a6760bb9ee03e0",
@@ -660,28 +1070,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-27T11:20:04+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网10月27日电 综合路透社报道，美国总统特朗普当地时间26日称巴西总统选举“看起来像被操纵”。巴西副总统热拉尔多·阿尔克明随后驳斥这一说法，称特朗普的言论“完全错误”且“毫无根据”。"
-    },
-    {
-      "id": "c1421b9017930a49",
-      "title": "蒙牛乳业：终止与姆巴佩的全部合作",
-      "url": "https://www.cls.cn/detail/2516179",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:18:30+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "859e9092eb89c4e7",
-      "title": "财联社10月27日电，新加坡推出MARVEL-AI项目，投入1.5亿新元，依托AI结合自动化实验室加速半导体、能源等领域新材料研发。",
-      "url": "https://www.cls.cn/detail/2516172",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:17:46+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "3492f1e2044384be",
@@ -690,108 +1080,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T11:16:52+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网10月27日电 据国家能源局微信公众号消息，2026年9月，全国各电力交易机构完成交易电量6737亿千瓦时，同比增长17.5%。从交易范围看，省内交易电量5235亿千瓦时，同比增长21.7%；跨省跨区交易电量1502亿千瓦时，同比增长5.0%。从交易品种看，中长期交易电量6016亿千瓦时；现货交易电量721亿千瓦时。绿电交易电量310亿千瓦时，同比增长6.9%。电网企业市场化代理购电电量650亿千瓦时。"
-    },
-    {
-      "id": "8de0c702c3323660",
-      "title": "财联社10月27日电，据工信部消息，根据标准制修订计划，相关标准化技术组织已完成《印制板测试》等4项国家标准和《家用太阳能光伏电源系统技术条件和试验方法》1项国家标准外文版的编制工作。为进一步听取社会各界意见，现予以公示。",
-      "url": "https://www.cls.cn/detail/2516167",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:14:43+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a79ab747306f8f3a",
-      "title": "进出口行发行1年期债券，规模130亿元，发行利率1.3196%，预期1.3100%，投标倍数2.85倍，边际倍数2.17倍。",
-      "url": "https://wallstreetcn.com/livenews/3186613",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:14:00+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1c275f0c08680a51",
-      "title": "国际民航组织撤销对利比亚实施了10余年的空域限制",
-      "url": "https://www.cls.cn/detail/2516163",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:13:02+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7e64e4be19df30f0",
-      "title": "财联社10月27日电，港股生物技术股多数下跌，映恩生物跌超29%，康诺亚跌超13%，亚盛医药跌超6%。",
-      "url": "https://www.cls.cn/detail/2516160",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:11:22+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ce05360d5d90600b",
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T11:10:55+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game."
-    },
-    {
-      "id": "2dbd4ae530e01015",
-      "title": "FFR完成FFAI机器人业务合并 正式挂牌上市",
-      "url": "https://www.cls.cn/detail/2516158",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:10:22+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f3efa0ceed4dec8e",
-      "title": "港股医药股走弱 映恩生物跌近30%",
-      "url": "https://www.cls.cn/detail/2516153",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:04:50+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "6f2e0c513e1c23ad",
-      "title": "银行板块逆势走强 沪农商行涨超3%创年内新高",
-      "url": "https://www.cls.cn/detail/2516147",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:02:52+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "07619a0f44322a21",
-      "title": "隔夜SHIBOR报1.2810%，下降2.00个基点。 7天SHIBOR报1.3480%，下降1.50个基点。 3个月SHIBOR报1.4055%，下降0.10个基点。",
-      "url": "https://wallstreetcn.com/livenews/3186608",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:01:24+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "491a0346502044a8",
-      "title": "半导体芯片股震荡回落，星宸科技跌超10%，紫光国微、翱捷科技、富瀚微、强一股份、瑞芯微、华海清科跌超5%。",
-      "url": "https://wallstreetcn.com/livenews/3186607",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T11:01:16+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "1f1458b07f881867",
@@ -800,28 +1090,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T11:00:37+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网陕西杨凌10月27日电 (记者 李一璠 杨英琦)第三十三届中国杨凌农高会“四新”成果集中发布会26日下午在陕西杨凌举行。50项“四新”成果集中发布，包括10项重大成果和40项优秀成果。"
-    },
-    {
-      "id": "02abccff66fd6ecd",
-      "title": "菲律宾比索兑美元首次跌破64关口。",
-      "url": "https://wallstreetcn.com/livenews/3186604",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T10:58:44+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a0b53328cda62cf3",
-      "title": "中国石油乙烯产量创历史同期新高",
-      "url": "https://wallstreetcn.com/livenews/3186603",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:58:12+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "1f64616032c6b2d4",
@@ -830,18 +1100,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T10:57:37+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网广州10月27日电 (记者 郭军)“广东中华职教杯”2026年广东省智能制造系统运维员职业技能竞赛近日在广州举办。本次赛事打通竞赛比拼—技能认证—就业发展全链条，把技能赛场变为人才供需对接平台，让优秀技能人才同台竞技的同时，直接对接优质企业岗位，有效缩短人才培养与产业用工之间的距离。"
-    },
-    {
-      "id": "a1ba039a524f5b61",
-      "title": "沙特主导的联军称拦截也门胡塞武装导弹和无人机",
-      "url": "https://wallstreetcn.com/livenews/3186600",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T10:50:45+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "f9aeaca476d0b6a5",
@@ -850,18 +1110,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T10:49:22+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "四季度是完成全年目标任务的冲刺期，也是政策衔接的重要窗口期。9月底召开的国务院常务会议指出，针对当前经济运行中出现的问题，要加大宏观政策逆周期调节力度，推动经济持续向新向优向好发展，努力完成全年经济社会发展目标任务。会议对存量政策、增量政策、储备政策作出重要部署，这对于以政策的连续性与可预期性稳定宏观经济、激发持久活力，具有重要意义。"
-    },
-    {
-      "id": "21355962a94acf7f",
-      "title": "张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录",
-      "url": "https://wallstreetcn.com/livenews/3186599",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:49:10+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "30c5b6d303d7bed3",
@@ -870,18 +1120,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T10:45:04+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "今年的“双11”，巨头不再同场硬拼。淘天押注AI挖掘潜在需求，京东把生活服务和生产性服务做成新增长曲线，抖音以分层扶持中小商家、用内容引流强化货架，各家路径不同，指向的却是同一个命题——“双11”正从份额争夺转向护城河比拼。"
-    },
-    {
-      "id": "79e85dd0b589461c",
-      "title": "中国信达、中国东方资产等成立股权投资基金",
-      "url": "https://wallstreetcn.com/livenews/3186597",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:44:48+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "e4b742053af5c62c",
@@ -890,7 +1130,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-27T10:43:06+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新社北京10月27日电 渥太华消息：加拿大总理卡尼当地时间26日表示，加美贸易谈判出现“轻微的升温”，但加拿大的谈判立场没有改变。他强调，目前取得的任何进展，“都源于美国正在靠近我们的立场”。"
     },
     {
@@ -900,7 +1140,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-27T10:42:10+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网加德满都10月27日电 (记者 崔楠)第三届尼泊尔板球超级联赛于当地时间26日傍晚在加德满都谷地的特里布文大学国际板球场揭幕。"
     },
     {
@@ -910,7 +1150,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-10-27T10:42:04+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网曼谷10月27日电 (梁峻祥 李映民)当地时间10月26日晚，湄公河水面灯影摇曳，一艘艘造型精美、灯火璀璨的巨型灯船缓缓映入眼帘。当地民众和各地游客聚集在泰国东北部那空帕侬府湄公河畔，共同观赏一年一度的灯船节，感受湄公河流域传统文化与现代光影技术交织而成的独特魅力。"
     },
     {
@@ -920,48 +1160,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-10-27T10:40:17+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said."
-    },
-    {
-      "id": "13dd28928b20da5f",
-      "title": "“蛟龙”号实现迭代升级 顺利完成7000米级海试",
-      "url": "https://wallstreetcn.com/livenews/3186596",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:37:22+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f62edc8b057adf62",
-      "title": "国开行发行1年期债券，规模80亿元，发行利率1.3324%，预期1.3500%，投标倍数4.90倍，边际倍数2.57倍； 国开行发行3年期债券，规模70亿元，发行利率1.4000%，预期1.4100%，投标倍数3.70倍，边际倍数4.09倍； 国开行发行10年期债券，规模230亿元，发行利率1.6302%，预期1.6400%，投标倍数2.97倍，边际倍数2.07倍。",
-      "url": "https://wallstreetcn.com/livenews/3186595",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:36:00+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "c1e4bf7de9c13664",
-      "title": "截至早盘收盘，日经225指数涨1.9%，东证指数涨0.6%。",
-      "url": "https://wallstreetcn.com/livenews/3186594",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:34:52+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f0074d6eccaff103",
-      "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报100750元/吨，较上日16:30价格上涨1750元/吨。",
-      "url": "https://wallstreetcn.com/livenews/3186592",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:32:30+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
     },
     {
       "id": "46bfd9a78be26772",
@@ -970,7 +1170,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T10:32:22+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "央视网消息(新闻联播)：今年，我国启动国家级零碳工厂建设，一批工业领域降碳新技术加快落地，推动工业领域降碳水平持续提升。"
     },
     {
@@ -980,7 +1180,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T10:29:13+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "央视网消息(新闻联播)：长三角一体化发展上升为国家战略以来，区域外贸规模持续攀升。海关最新数据显示，长三角地区货物贸易进出口已经连续19个月保持增长，为全国外贸稳增长发挥重要支撑作用。"
     },
     {
@@ -990,7 +1190,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T10:21:55+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "国家能源局近日发布的今年前三季度用电数据显示，工业用电量达到50632亿千瓦时，同比增长4.3%。其中，高技术及装备制造业用电量9619亿千瓦时，同比增长8.7%。"
     },
     {
@@ -1000,208 +1200,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-10-27T10:21:27+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
+      "fetched_at": "2026-10-27T14:48:17+08:00",
       "summary": "中新网10月27日电 据“成都住建”微信公众号消息，成都市住房和城乡建设局、成都市规划和自然资源局、国家金融监督管理总局四川监管局等三部门26日出台关于贯彻落实《关于完善商品住房销售制度的通知》的实施意见。"
-    },
-    {
-      "id": "12ba2ce27d6d8b12",
-      "title": "国家统计局：前九月规模以上工业企业利润较快增长 新动能引领作用明显",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721502.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:21:05+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "中新网10月27日电 据国家统计局网站消息，国家统计局工业司首席统计师于卫宁就1—9月份工业企业利润数据进行解读。于卫宁表示，1—9月份，各地区各部门认真贯彻落实党中央、国务院决策部署，加大宏观政策调节力度，因地制宜培育壮大新质生产力，工业生产稳中有进，规模以上工业企业利润实现较快增长，工业经济高质量发展稳步推进。"
-    },
-    {
-      "id": "9ac16123e91ada3e",
-      "title": "A股食品等消费股震荡拉升，桂发祥、阳光乳业、青岛食品均2连板，一鸣食品、朱老六、海欣食品涨幅居前。",
-      "url": "https://wallstreetcn.com/livenews/3186589",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:14:52+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "34adb4c95db648c1",
-      "title": "广东发行10年期一般债地方债，规模20.4497亿元，发行利率1.6400%，边际倍数1.52倍，倍数预期1.64； 广东发行30年期其他专项地方债，规模91.4527亿元，发行利率2.1900%，边际倍数3.52倍，倍数预期2.16； 广东发行10年期一般债地方债，规模249.0305亿元，发行利率1.6400%，边际倍数2.05倍，倍数预期1.64。",
-      "url": "https://wallstreetcn.com/livenews/3186587",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:14:01+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "884c5b9678b340ef",
-      "title": "六大议题、多元活动、重磅发布 2026进博会上海会议活动边会日程出炉",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721504.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:12:43+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "10月25日，2026进博会上海会议活动公布90余场边会日程，今年的上海会议活动以“对话·破局·共生”为边会主题，紧扣虹桥论坛“稳定合作共建开放型世界经济”主题，提出“开放中国与上海实践”“企业国际化与海外综合服务”“推动贸易创新发展”“绿色与可持续发展”“激发消费新潜能”“人工智能与增长范式”等六大议题方向，紧扣前沿技术与产业变革等热点话题，强调通过对话凝聚共识，寻找应对共性挑战的路径方法，推动实现更具韧性的增长。"
-    },
-    {
-      "id": "a076e70e64d61b9a",
-      "title": "采购商的行李箱装满中国好物（探馆广交会）",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721500.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:09:46+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "广交会上，拉着行李箱逛展馆是许多境外采购商的标配。"
-    },
-    {
-      "id": "8864a51a62f07a08",
-      "title": "外国企业家点赞中国发展活力——“我们与中国市场共同成长、共创未来”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721499.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:07:50+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "日前，来自14个国家的40多位企业家齐聚上海，围绕“促进上海服务业创新发展”主题展开交流与研讨。这些来自金融、制造业、消费品等领域的企业家走进上海的创新场景，感受中国发展活力。"
-    },
-    {
-      "id": "c2ed5c598db28e57",
-      "title": "巴西最高法院裁定禁止弗拉维奥·博索纳罗离境",
-      "url": "https://wallstreetcn.com/livenews/3186584",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T10:01:56+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7f2710e2a2a9c413",
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T10:01:27+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
-    },
-    {
-      "id": "49fd0952d3ee468a",
-      "title": "A股三大指数集体翻绿，创业板指开盘一度涨超1%。",
-      "url": "https://wallstreetcn.com/livenews/3186583",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:59:52+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "fded7622e437f833",
-      "title": "高市执政一年：三重压力折射日本困境",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721486.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-10-27T09:57:48+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "零时差丨高市执政一年：三重压力折射日本困境"
-    },
-    {
-      "id": "1692fa078362fa96",
-      "title": "创业板指翻绿，此前一度涨超1%。",
-      "url": "https://wallstreetcn.com/livenews/3186581",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:54:03+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1accb1e4327ec557",
-      "title": "10月27日央行开展4120亿元7天期逆回购操作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721477.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:51:41+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "中新网10月27日电 据中国人民银行网站消息，2026年10月27日中国人民银行以固定利率、数量招标方式开展了4120亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下："
-    },
-    {
-      "id": "447e572427a7fe25",
-      "title": "10月27日人民币对美元中间价报6.7171 下调9个基点",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721474.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:51:33+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "中新网10月27日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月27日银行间外汇市场人民币汇率中间价为1美元对人民币6.7171元，下调9个基点。"
-    },
-    {
-      "id": "0e56513a46e9005c",
-      "title": "A股创新药概念震荡调整，近岸蛋白跌超10%，粤万年青、特宝生物、透景生命、众生药业、百洋医药跌幅居前。",
-      "url": "https://wallstreetcn.com/livenews/3186578",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:48:33+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "4870f33bc2595f06",
-      "title": "蚂蚁灵光2.0全新升级“能管事的AI助理”",
-      "url": "https://wallstreetcn.com/livenews/3186576",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:47:51+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d2642628afb044aa",
-      "title": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721476.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:39:47+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "中新网10月27日电 据国家统计局网站消息，1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。"
-    },
-    {
-      "id": "462032c0ee90a937",
-      "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:31:06+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "中新网北京10月27日电(记者 谢艺观)“当规模红利逐渐退去，运营力正在成为衡量住房租赁资产长期价值的新尺度。”ICCRA住房租赁产业研究院院长赵然在第八届领航·住房租赁产业国际论坛上如是表示。"
-    },
-    {
-      "id": "b940e08555031f49",
-      "title": "前三季度广州地区生产总值同比增长5.7% 增速创五年来同期新高",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721466.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:28:32+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "中新网广州10月27日电(王华 张松乐)广州市人民政府新闻办公室26日举办新闻发布会，公布2026年前三季度广州市经济运行情况。数据显示，前三季度，广州实现地区生产总值24851亿元(人民币，下同)，按不变价格计算，同比(下同)增长5.7%，增速创近五年来同期新高。"
-    },
-    {
-      "id": "41aaedad8274af68",
-      "title": "2027年AI值得关注的五大趋势",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721464.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T09:12:09+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "《福布斯》双周刊网站报道："
-    },
-    {
-      "id": "cad5effcfbd3ef6e",
-      "title": "量质齐升，中国外贸何以表现强劲？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721461.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-10-27T08:59:27+08:00",
-      "fetched_at": "2026-10-27T12:55:57+08:00",
-      "summary": "量质齐升，中国外贸何以表现强劲？(开放谈)"
     }
   ],
   "sources": [
@@ -1209,7 +1209,7 @@
       "name": "财联社",
       "url": "https://newsnow.busiyi.world/api/s?id=cls-telegraph",
       "via": "NewsNow",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1218,7 +1218,7 @@
       "name": "华尔街见闻",
       "url": "https://newsnow.busiyi.world/api/s?id=wallstreetcn-quick",
       "via": "NewsNow",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1227,16 +1227,16 @@
       "name": "金十数据",
       "url": "https://newsnow.busiyi.world/api/s?id=jin10",
       "via": "NewsNow",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
-      "count": 28,
+      "count": 27,
       "excluded_unknown_time": 0
     },
     {
       "name": "中新网财经",
       "url": "https://www.chinanews.com.cn/rss/finance.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1245,7 +1245,7 @@
       "name": "中新网国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1254,7 +1254,7 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
       "count": 26,
       "excluded_unknown_time": 0
@@ -1267,12 +1267,12 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/000001.SS/",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
-      "price": 3692.583,
-      "change_pct": -0.13352245573171606,
+      "price": 3680.135,
+      "change_pct": -0.4701805382910096,
       "currency": "CNY",
-      "quoted_at": "2026-10-27T11:30:19+08:00",
+      "quoted_at": "2026-10-27T14:33:15+08:00",
       "history": [
         {
           "time": "2026-09-28T09:30:00+08:00",
@@ -1340,10 +1340,10 @@
         },
         {
           "time": "2026-10-27T09:30:00+08:00",
-          "close": 3692.58251953125
+          "close": 3680.13525390625
         }
       ],
-      "five_day_pct": -1.1454585715783394,
+      "five_day_pct": -1.4787053345355905,
       "note": "延迟报价；非交易时段为最近报价。"
     },
     {
@@ -1352,12 +1352,12 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EHSI/",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
-      "price": 23180.4,
-      "change_pct": -0.13532139947276534,
+      "price": 23058.24,
+      "change_pct": -0.6616052055261723,
       "currency": "HKD",
-      "quoted_at": "2026-10-27T12:05:00+08:00",
+      "quoted_at": "2026-10-27T14:33:16+08:00",
       "history": [
         {
           "time": "2026-09-28T09:30:00+08:00",
@@ -1437,10 +1437,10 @@
         },
         {
           "time": "2026-10-27T09:30:00+08:00",
-          "close": 23180.400390625
+          "close": 23058.240234375
         }
       ],
-      "five_day_pct": -2.879787644852405,
+      "five_day_pct": -3.3916081976170243,
       "note": "延迟报价；非交易时段为最近报价。"
     },
     {
@@ -1449,7 +1449,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
       "price": 26169.38,
       "change_pct": 0.824647866444872,
@@ -1550,12 +1550,12 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/GC%3DF/",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
-      "price": 4026.6,
-      "change_pct": -0.29219251755879805,
+      "price": 4013.9,
+      "change_pct": -0.6066735077308927,
       "currency": "USD",
-      "quoted_at": "2026-10-27T12:45:52+08:00",
+      "quoted_at": "2026-10-27T14:38:15+08:00",
       "history": [
         {
           "time": "2026-09-28T12:00:00+08:00",
@@ -1643,10 +1643,10 @@
         },
         {
           "time": "2026-10-27T12:00:00+08:00",
-          "close": 4026.60009765625
+          "close": 4013.89990234375
         }
       ],
-      "five_day_pct": -2.80017609524702,
+      "five_day_pct": -3.1067468406874243,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     },
     {
@@ -1655,12 +1655,12 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/SI%3DF/",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
-      "price": 53.575,
-      "change_pct": -0.9850700305863769,
+      "price": 52.84,
+      "change_pct": -2.3434643101481023,
       "currency": "USD",
-      "quoted_at": "2026-10-27T12:45:51+08:00",
+      "quoted_at": "2026-10-27T14:38:13+08:00",
       "history": [
         {
           "time": "2026-09-28T12:00:00+08:00",
@@ -1748,10 +1748,10 @@
         },
         {
           "time": "2026-10-27T12:00:00+08:00",
-          "close": 53.57500076293945
+          "close": 52.84000015258789
         }
       ],
-      "five_day_pct": -7.1587030637757625,
+      "five_day_pct": -8.432400744562042,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     },
     {
@@ -1760,12 +1760,12 @@
       "unit": "美元/桶",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CL%3DF/",
-      "checked_at": "2026-10-27T12:55:57+08:00",
+      "checked_at": "2026-10-27T14:48:17+08:00",
       "status": "ok",
-      "price": 100.79,
-      "change_pct": -0.9532253497124388,
+      "price": 101.49,
+      "change_pct": -0.26533228239226103,
       "currency": "USD",
-      "quoted_at": "2026-10-27T12:45:55+08:00",
+      "quoted_at": "2026-10-27T14:38:16+08:00",
       "history": [
         {
           "time": "2026-09-28T12:00:00+08:00",
@@ -1853,10 +1853,10 @@
         },
         {
           "time": "2026-10-27T12:00:00+08:00",
-          "close": 100.79000091552734
+          "close": 101.48999786376953
         }
       ],
-      "five_day_pct": -0.9824156661096928,
+      "five_day_pct": -0.2947253294322216,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     }
   ],
