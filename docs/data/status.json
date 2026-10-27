@@ -547,5 +547,15 @@
     "report": "reports/2026-10-26-pm.md",
     "ai": false,
     "sent_at": "2026-10-26T23:26:51+08:00"
+  },
+  "2026-10-27-am": {
+    "status": "sending",
+    "label": "早报",
+    "planned_at": "2026-10-27T08:00:00+08:00",
+    "generated_at": "2026-10-27T08:47:13+08:00",
+    "news_count": 20,
+    "kind": "news",
+    "report": "reports/2026-10-27-am.md",
+    "ai": false
   }
 }
