@@ -547,5 +547,15 @@
     "report": "reports/2026-11-03-am.md",
     "ai": false,
     "sent_at": "2026-11-03T11:42:02+08:00"
+  },
+  "2026-11-03-pm": {
+    "status": "sending",
+    "label": "晚报",
+    "planned_at": "2026-11-03T20:00:00+08:00",
+    "generated_at": "2026-11-03T20:19:17+08:00",
+    "news_count": 20,
+    "kind": "news",
+    "report": "reports/2026-11-03-pm.md",
+    "ai": false
   }
 }
