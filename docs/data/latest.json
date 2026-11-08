@@ -1,56 +1,516 @@
 {
-  "generated_at": "2026-11-09T01:53:48+08:00",
+  "generated_at": "2026-11-09T05:21:03+08:00",
   "window_hours": 24,
   "refresh_minutes": 30,
   "news": [
     {
-      "id": "9022732ece3616f1",
-      "title": "特朗普称美军已做好再战准备，但希望避免对伊朗发动新一轮袭击",
-      "url": "https://flash.jin10.com/detail/20261109014829064800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T01:48:29+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9f2e5d13025b6efc",
-      "title": "特朗普五度表态：只要谈判有进展，极不可能重返对伊战争",
-      "url": "https://flash.jin10.com/detail/20261109014054686800",
+      "id": "f8b5c433dd1692be",
+      "title": "泽连斯基指示军方应对俄军在赫尔松地区“异动”",
+      "url": "https://flash.jin10.com/detail/20261109044957612800",
       "source": "金十数据",
       "category": "中国财经",
-      "published_at": "2026-11-09T01:40:54+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "published_at": "2026-11-09T04:49:57+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
-      "id": "9dd5334b3b0921ed",
-      "title": "据CNN：美国总统特朗普就伊朗问题表示，若谈判继续取得进展，“极不可能”下令美国重返与伊朗的战争。",
-      "url": "https://flash.jin10.com/detail/20261109013508976800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T01:35:08+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "678119270d9c64be",
-      "title": "伊朗电力公司否认德黑兰电网遭网络攻击",
-      "url": "https://flash.jin10.com/detail/20261109012728236800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T01:27:28+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0465d363d9d179cd",
-      "title": "俄国防部称打击乌能源设施及两艘涉军船只",
-      "url": "https://flash.jin10.com/detail/20261109012651157800",
+      "id": "563e3cc3ea5f9486",
+      "title": "市场消息：被福克斯新闻问及是否要废除边境、废除最高法院、废除监狱，民主党籍的纽约市长马姆达尼均回答“不”。",
+      "url": "https://flash.jin10.com/detail/20261109044955694800",
       "source": "金十数据",
       "category": "中国财经",
-      "published_at": "2026-11-09T01:26:51+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "published_at": "2026-11-09T04:49:55+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "bfab02716fd25df9",
+      "title": "美国总统特朗普：“铁门”特遣部队（旨在防止伊朗利用陆路等方式跨境运输先进武器及其他物资）正在伊朗全面展开行动。再加上史上规模最大的海上封锁，几乎没有任何东西能进出伊朗。",
+      "url": "https://flash.jin10.com/detail/20261109044943807800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T04:49:43+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4337f1651aa726e2",
+      "title": "伊拉克库尔德斯坦地区电力部门：霍尔莫尔油田遭袭后，电网损失近2.8吉瓦发电能力。",
+      "url": "https://flash.jin10.com/detail/20261109044036821800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:40:36+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3d82309361c1ad88",
+      "title": "选举冲击人工智能热潮，美债涨势再获新动力",
+      "url": "https://flash.jin10.com/detail/20261109044031320800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T04:40:31+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "594bc30f435a101d",
+      "title": "德国总理默茨：早晚必须和俄罗斯总统普京对话。特朗普已邀请普京出席G20峰会。如果普京到场，我不会回避对话的机会。",
+      "url": "https://flash.jin10.com/detail/20261109043655527800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T04:36:55+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e51fd66bde13ca82",
+      "title": "美国总统特朗普在接受采访时表示，驱逐非法移民的政策可能有点“太强硬”了。",
+      "url": "https://flash.jin10.com/detail/20261109043317546800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T04:33:17+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "92f93aed1527c7e9",
+      "title": "财联社11月9日电，ANZ Group全财年净利润72.7亿澳元，预估74亿澳元。",
+      "url": "https://www.cls.cn/detail/2528379",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:31:33+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cda9cbd23e6a48f3",
+      "title": "英伟达发言人：黄仁勋将继续担任英伟达(NVDA.O)首席执行官，领导公司前行。",
+      "url": "https://flash.jin10.com/detail/20261109042609295800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:26:09+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "9ccbbdf0136ac233",
+      "title": "在中期选举后的《60分钟》节目专访中，美国总统特朗普在采访时表现出反思的态度，似乎也接受了共和党在中期选举中失利的事实。该节目将在北京时间9日早上八点播出。",
+      "url": "https://flash.jin10.com/detail/20261109042359730800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T04:23:59+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5f041d66d6f62f23",
+      "title": "财联社11月9日电，伊拉克库尔德地区豪尔穆尔气田遭到无人机袭击，气田附近可见浓烟升起。",
+      "url": "https://www.cls.cn/detail/2528378",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:23:51+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "73a6a2308743a209",
+      "title": "消息人士：霍尔莫尔现场的一名工程师称，一座储气设施遭到了装载爆炸物的无人机袭击，现场燃起大火，并冒出滚滚黑烟。",
+      "url": "https://flash.jin10.com/detail/20261109042024370800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:20:24+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8aae06f156fcff70",
+      "title": "消息人士：伊拉克库尔德斯坦地区的霍尔莫尔（Khor Mor）天然气田遭到了无人机袭击，气田附近可见烟雾升起。",
+      "url": "https://flash.jin10.com/detail/20261109041656962800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:16:56+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7bb8db802b035852",
+      "title": "伊朗塔斯尼姆通讯社：据锡里克一名知情人士透露，几分钟前，从锡里克地区向霍尔木兹海峡方向传出三声枪炮声。早前伊媒报道此次射击与在霍尔木兹海峡打击违规船只的行动有关。",
+      "url": "https://flash.jin10.com/detail/20261109041555629800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T04:15:55+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "37544162ca0133e3",
+      "title": "全球加息周期正在加速",
+      "url": "https://flash.jin10.com/detail/20261109041255801800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:12:55+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "29d43c4b7313de5b",
+      "title": "德国总理默茨在基民盟领导人晚宴期间宣布决定，支持伊尔塞·艾格纳出任德国首位女性总统。",
+      "url": "https://wallstreetcn.com/livenews/3196512",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:08:54+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8fa27519e4427817",
+      "title": "加沙中部流离失所者营地发生沙土塌方 已致5人死亡",
+      "url": "https://www.cls.cn/detail/2528377",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-09T04:05:05+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "18404320b6055fbd",
+      "title": "伊朗学生通讯社：胡齐斯坦省副省长表示，马赫沙赫尔传出的爆炸声是由两台电力变压器爆裂引起的。",
+      "url": "https://flash.jin10.com/detail/20261109040240842800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T04:02:40+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "07141ad7abea7551",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:58:02+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+    },
+    {
+      "id": "6b90eabf46aaa574",
+      "title": "伊朗格什姆岛附近传出爆炸声",
+      "url": "https://flash.jin10.com/detail/20261109034728054800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:47:28+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "06f8c075f7846c90",
+      "title": "伊拉克外长：已与美国达成协议，允许通过霍尔木兹海峡出口石油",
+      "url": "https://flash.jin10.com/detail/20261109033254340800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:32:54+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b5b4aae7ff936655",
+      "title": "据伊通社（IRNA）：伊朗格什姆岛传出爆炸声；伊朗官方尚未予以证实。",
+      "url": "https://flash.jin10.com/detail/20261109033142418800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:31:42+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "816ac6c4860918cf",
+      "title": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
+      "url": "https://www.cls.cn/detail/2528375",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-09T03:29:02+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "36530a4a0a53a93c",
+      "title": "据沙特阿拉比亚电视台援引伊朗媒体报道，格什姆岛和阿巴斯港传出多起爆炸声。",
+      "url": "https://flash.jin10.com/detail/20261109032851846800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:28:51+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b4344eec17f8a802",
+      "title": "伊拉克外长：美国要求关闭与伊朗之间大部分边境口岸",
+      "url": "https://flash.jin10.com/detail/20261109032635989800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:26:35+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "391f4bcecb1ee60a",
+      "title": "美财政部要求伊拉克关闭与伊朗之间大部分边境口岸",
+      "url": "https://www.cls.cn/detail/2528374",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:20:55+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "6c8f9a8006cd4348",
+      "title": "财联社11月9日电，伊拉克外长表示，伊拉克已与美国达成谅解，允许石油经霍尔木兹海峡靠近阿曼的航运通道出口，出口作业仍在持续。该外长还表示，伊拉克因伊朗战争及石油出口中断造成的损失约600亿美元。",
+      "url": "https://www.cls.cn/detail/2528373",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:13:10+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "75c6ec447be0a057",
+      "title": "伊拉克外长：伊拉克已与美国达成谅解，允许石油通过霍尔木兹海峡经靠近阿曼的航道出口，出口业务仍在持续进行。 伊拉克因伊朗战争及石油出口业务中断造成的损失已达600亿美元。",
+      "url": "https://wallstreetcn.com/livenews/3196510",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:10:54+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f5af78e8cff75f99",
+      "title": "据半岛电视台：伊拉克外交部长表示，伊朗战争及石油出口业务中断给伊拉克造成的损失已达600亿美元。",
+      "url": "https://flash.jin10.com/detail/20261109031035645800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:10:35+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a0919c993030cb94",
+      "title": "据半岛电视台：伊拉克外长表示，伊拉克已与美国达成谅解，允许石油经霍尔木兹海峡通过靠近阿曼的航运通道出口，出口作业仍在持续进行。",
+      "url": "https://flash.jin10.com/detail/20261109030845342800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T03:08:45+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "085f0427c4293090",
+      "title": "野村：澳洲联储明年2月或有最后一次加息",
+      "url": "https://flash.jin10.com/detail/20261109030457171800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-09T03:04:57+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7da0519d6c2b3586",
+      "title": "财联社11月9日电，易捷航空据悉将在收购投票前裁减总部工作岗位。",
+      "url": "https://www.cls.cn/detail/2528372",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-09T03:01:28+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "29daa4c3d59ae95d",
+      "title": "扎波罗热核电站恢复外部供电",
+      "url": "https://www.cls.cn/detail/2528371",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-09T02:44:30+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d606c43e9652312b",
+      "title": "据半岛电视台：伊拉克外长表示，美国财政部要求伊拉克关闭与伊朗的大部分边境口岸，仅保留两个开放。",
+      "url": "https://flash.jin10.com/detail/20261109024016274800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:40:16+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "76c409f66b56eeff",
+      "title": "伊拉克外长表示，美国财政部要求伊拉克关闭与伊朗的大部分边境口岸，仅保留两个开放。",
+      "url": "https://wallstreetcn.com/livenews/3196507",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:40:13+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e6bb32822357e801",
+      "title": "财联社11月9日电，沙特主导的联军表示，已在萨那摧毁一处胡塞武装的导弹发射装置。",
+      "url": "https://www.cls.cn/detail/2528370",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:28:46+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "379d0639d8e7925b",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:22:53+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+    },
+    {
+      "id": "b2a5d83d3fcf9dce",
+      "title": "美国共和党中期选举失败后，民主党拟对马斯克、白宫办公厅主任米勒及美国企业界展开调查。",
+      "url": "https://wallstreetcn.com/livenews/3196505",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:20:59+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c84cb122246528a6",
+      "title": "沙特主导的多国联军发言人图尔基·马利基：沙特领导的联盟摧毁了在萨那的弹道导弹发射平台。胡塞武装今天试图利用该平台对东部地区进行攻击。",
+      "url": "https://flash.jin10.com/detail/20261109021938548800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:19:38+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "fe4192846a194e36",
+      "title": "财联社11月9日电，美国总统特朗普据悉在中期选举后与以色列总理内塔尼亚胡的通话中，要求内塔尼亚胡采取措施推进加沙和平计划。",
+      "url": "https://www.cls.cn/detail/2528369",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:14:54+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e388376920531c82",
+      "title": "美国总统特朗普在周四与以色列总理内塔尼亚胡的通话中表示，希望内塔尼亚胡采取措施，推动落实其加沙和平计划。（Axios）",
+      "url": "https://wallstreetcn.com/livenews/3196504",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:10:46+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e1efab6b05d42a8c",
+      "title": "消息人士称伊拉克代表团访问伊朗并转达美方信息",
+      "url": "https://www.cls.cn/detail/2528368",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:10:22+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2172de434e49cac2",
+      "title": "伊朗外长：美国大选结果出炉后，要让重启谈判斡旋的条件成熟还需时日。 我们拭目以待，看美国方面何时能消化选举结果，从而决定如何延续现有路线。",
+      "url": "https://wallstreetcn.com/livenews/3196503",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:09:55+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7329431e24a497ba",
+      "title": "财联社11月9日电，英国工党据悉预计将下调英国汽车行业的电动汽车销售目标。",
+      "url": "https://www.cls.cn/detail/2528367",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T02:00:40+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f88ee6466fe3ebb4",
+      "title": "特朗普：若伊朗谈判取得进展，重启军事打击的可能性极低",
+      "url": "https://wallstreetcn.com/livenews/3196502",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T01:43:31+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f8cba4c4bc797da4",
+      "title": "财联社11月9日电，特朗普在谈及伊朗时表示，如果谈判继续取得进展，他“极不可能”下令美国重新对伊朗开战。",
+      "url": "https://www.cls.cn/detail/2528365",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T01:42:31+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "029eac6e85a64065",
+      "title": "伊朗外长阿拉格齐：美国选民已经做出了他们的选择。 现在轮到白宫做选择了。",
+      "url": "https://wallstreetcn.com/livenews/3196501",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T01:35:46+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c66f82eb45394749",
+      "title": "伊朗革命卫队顾问：伊朗正在对缴获的美国军事装备进行逆向工程。",
+      "url": "https://wallstreetcn.com/livenews/3196500",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T01:35:27+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "97690c836edba190",
+      "title": "财联社11月9日电，根据埃及卫生部的最新通报，发生在吉萨省阿亚特地区的列车脱轨事故，已造成7人死亡、112人受伤。",
+      "url": "https://www.cls.cn/detail/2528364",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-09T01:29:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8f608d59743e9153",
+      "title": "瑞典的安德森：寻求与中间派和绿党合作构建政府。",
+      "url": "https://wallstreetcn.com/livenews/3196499",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-09T01:29:25+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": ""
+    },
+    {
+      "id": "22d80cda6732e860",
+      "title": "利雅得金融区遭罕见袭击，沙特吸引外资计划再受冲击",
+      "url": "https://wallstreetcn.com/livenews/3196498",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-09T01:28:51+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -60,27 +520,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-11-09T01:23:19+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "34c527a4e662895b",
-      "title": "伊朗外长：现在轮到白宫作出选择了",
-      "url": "https://flash.jin10.com/detail/20261109011330000800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T01:13:30+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f8e41c7b3f808322",
-      "title": "伊朗外长阿拉格齐：美国选民已经做出了他们的选择。现在轮到白宫做选择了。",
-      "url": "https://flash.jin10.com/detail/20261109011126133800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T01:11:26+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -90,47 +530,17 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-09T01:08:28+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
-      "id": "948e670c465c2bcd",
-      "title": "非国大在南非地方选举中保住第一大党地位",
-      "url": "https://flash.jin10.com/detail/20261109010751934800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T01:07:51+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b5153e40688a6831",
+      "id": "a38ee4d32f7bd435",
       "title": "伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火",
-      "url": "https://flash.jin10.com/detail/20261109010420005800",
-      "source": "金十数据",
+      "url": "https://wallstreetcn.com/livenews/3196494",
+      "source": "华尔街见闻",
       "category": "世界要闻",
-      "published_at": "2026-11-09T01:04:20+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "84cd4c470c81e1a6",
-      "title": "美国国务院发言人：我们的土地上不容忍任何庆祝或为恐怖袭击辩护的人。我们持续审查有关驻美国外交使团人员的信息，包括任何国家安全关切。",
-      "url": "https://flash.jin10.com/detail/20261109005602073800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T00:56:02+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "38528e39537f5314",
-      "title": "美国国务院发言人：黎巴嫩驻底特律领事易卜拉欣·沙拉拉已被宣布为不受欢迎的人。",
-      "url": "https://flash.jin10.com/detail/20261109005542389800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T00:55:42+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "published_at": "2026-11-09T01:00:18+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -140,17 +550,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-09T00:52:33+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e520210edb5e9bb2",
-      "title": "哈马斯方面表示，以色列声称满足加沙冬季需求是试图逃避其造成的人道主义灾难的责任，其继续阻碍救援物资、修复材料和处理加沙破坏后果所需设备的进入。我们要求中介、担保方和和平委员会向以色列施压，执行加沙人道主义协议。",
-      "url": "https://flash.jin10.com/detail/20261109005106841800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T00:51:06+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -160,7 +560,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-11-09T00:51:04+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -170,27 +570,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-11-09T00:42:03+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "72e97d702af5b29e",
-      "title": "胡塞武装称沙特过去24小时发动91次袭击",
-      "url": "https://flash.jin10.com/detail/20261109003903673800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T00:39:03+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a088aeca5e315ba3",
-      "title": "美国众议院民主党领袖杰弗里斯支持对赫格塞斯的弹劾",
-      "url": "https://flash.jin10.com/detail/20261109003459070800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T00:34:59+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -200,7 +580,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-09T00:32:21+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -210,67 +590,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-09T00:30:37+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "8f6732c63862eea9",
-      "title": "据伊朗媒体：伊朗海军称，一艘油轮在霍尔木兹海峡以东触雷起火。",
-      "url": "https://flash.jin10.com/detail/20261109002812216800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T00:28:12+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a8d693ac446a531e",
-      "title": "特朗普称可能调整政府团队，重申对战争部长赫格塞思的信任",
-      "url": "https://flash.jin10.com/detail/20261109002712246800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T00:27:12+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2466e08acf32a7ca",
-      "title": "也门政府军：已有267名胡塞武装领导人及成员被打死或打伤，另有97辆胡塞武装车辆及军事单位被摧毁或丧失作战能力。",
-      "url": "https://flash.jin10.com/detail/20261109002034968800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T00:20:34+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0775fc5906fd3f00",
-      "title": "也门政府军：过去24小时内，在多条战线对胡塞武装据点实施了992次空袭及炮击。",
-      "url": "https://flash.jin10.com/detail/20261109002026469800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T00:20:26+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "21b64f4ab877094f",
-      "title": "美国总统特朗普：我们在委内瑞拉和伊朗的战争中获胜，获得了数十亿美元。",
-      "url": "https://flash.jin10.com/detail/20261109001952730800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T00:19:52+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d65c3dcb3815415c",
-      "title": "美国总统特朗普：我信任赫格塞思，目前他的职位暂时没有危险。",
-      "url": "https://flash.jin10.com/detail/20261109001819510800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T00:18:19+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -280,37 +600,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-09T00:18:09+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "c2c5144d7c370173",
-      "title": "美国总统特朗普：我信任美国国防部长赫格塞思， 我们在委内瑞拉和伊朗进行了两场战争，并且取得了胜利。",
-      "url": "https://flash.jin10.com/detail/20261109001745129800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T00:17:45+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3f4745bbb83febac",
-      "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普表示，我可能会对我的政府进行调整。",
-      "url": "https://flash.jin10.com/detail/20261109001722091800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-09T00:17:22+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "dc7f7dde5d01a912",
-      "title": "伊拉克陆军指挥官：启动与土耳其的联合安全协调委员会。",
-      "url": "https://flash.jin10.com/detail/20261109001606829800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T00:16:06+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -320,7 +610,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-09T00:13:16+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -330,48 +620,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-09T00:05:57+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\"."
-    },
-    {
-      "id": "cdbc411f55bf5150",
-      "title": "特朗普将接受《60分钟》采访：希望节目展示过去两年的施政成果",
-      "url": "https://flash.jin10.com/detail/20261109000222851800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T00:02:22+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9f0a8427a88c4bf8",
-      "title": "今日重点关注的财经数据与事件：2026年11月9日 周一",
-      "url": "https://flash.jin10.com/detail/20261109000000001800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-09T00:00:00+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "04fc7cbdcceee925",
-      "title": "以色列正直党领导人埃森科特：以色列正经历一个微妙的政治时刻，我将在至关重要的日子里谨慎行事。",
-      "url": "https://flash.jin10.com/detail/20261108235822857800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T23:58:22+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "33e10e9fb129c614",
-      "title": "以色列正直党领导人埃森科特：我们的失败将对以色列的未来构成重大风险。",
-      "url": "https://flash.jin10.com/detail/20261108235803029800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T23:58:03+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
+      "fetched_at": "2026-11-09T05:21:03+08:00",
+      "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment."
     },
     {
       "id": "49fffd0e2ad3138e",
@@ -380,7 +630,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-08T23:40:13+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -390,7 +640,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-08T23:28:43+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -400,7 +650,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-11-08T23:15:19+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -410,7 +660,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-08T23:07:52+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -420,7 +670,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-08T23:05:54+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -430,7 +680,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T22:53:10+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "编者按： 发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家发展改革委国际合作中心处长、研究员鲍淑君的署名文章《得打好这三张牌》。 发展新质生产力，关键靠什么？近日，中共中央、国务院印发的《关于发展新质生产力的意见》（以下简称《意见》）给出了明确回答，其中一项重要部署就是“统筹推进教育科技人才体制机制一体改革”。"
     },
     {
@@ -440,7 +690,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-08T22:51:57+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -450,7 +700,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-08T22:42:09+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
     },
     {
@@ -460,7 +710,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-08T22:35:01+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -470,7 +720,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-08T22:19:57+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -480,7 +730,7 @@
       "source": "财联社",
       "category": "世界要闻",
       "published_at": "2026-11-08T22:14:17+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -490,17 +740,7 @@
       "source": "财联社",
       "category": "中国财经",
       "published_at": "2026-11-08T22:13:05+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "701d9e853d51527c",
-      "title": "比亚迪李云飞：今年全年比亚迪销量预计略有增长 海外增长更高",
-      "url": "https://www.cls.cn/detail/2528338",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T22:12:57+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -510,37 +750,17 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-11-08T22:04:23+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
-      "id": "c9a99a05059e93a1",
+      "id": "2766af5b219926f8",
       "title": "法国外长说欧洲将参加乌克兰危机阿布扎比会谈",
-      "url": "https://www.cls.cn/detail/2528336",
-      "source": "财联社",
+      "url": "https://wallstreetcn.com/livenews/3196485",
+      "source": "华尔街见闻",
       "category": "世界要闻",
-      "published_at": "2026-11-08T21:58:15+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "883fca426c955eeb",
-      "title": "下周资本市场大事提醒：中美CPI、俄美乌三方会谈 Anthropic或启动IPO路演",
-      "url": "https://www.cls.cn/detail/2528333",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T21:50:09+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "812d492ff26a26e9",
-      "title": "【金牌纪要库】灵巧手数采需求推动出货扩张，量产价值向精密驱动和触觉环节延伸",
-      "url": "https://www.cls.cn/detail/2528205",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T21:46:58+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "published_at": "2026-11-08T21:50:23+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -550,27 +770,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-11-08T21:42:42+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "379d0639d8e7925b",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T21:40:24+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers."
-    },
-    {
-      "id": "0fad7c72adc88255",
-      "title": "中信建投：前三季度医药行业步入改善周期 有望开启高质量发展",
-      "url": "https://www.cls.cn/detail/2528329",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T21:38:49+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -580,7 +780,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-08T21:37:50+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
     },
     {
@@ -590,7 +790,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T21:35:05+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "本届进博会，美国企业参展面积继续名列第一，美国农业、消费品、高端装备、汽车、医疗保健等多个领域的企业对进博会寄予厚望，希望能通过进博会，在中国开拓新的市场。在今年的虹桥国际论坛上，美中贸易全国委员会会长谭森接受了总台记者的采访。他表示，美国企业不希望看到贸易保护主义抬头。"
     },
     {
@@ -600,7 +800,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T21:31:25+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "本届进博会，供销合作社交易团与来自美国、法国、澳大利亚等国家的17家企业签署了农资和农产品采购与合作协议。"
     },
     {
@@ -610,7 +810,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T21:26:35+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "原标题：第九届进博会丨以首发经济看进博：一场关于“未来”的剧透"
     },
     {
@@ -620,7 +820,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-11-08T21:23:01+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -630,7 +830,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-11-08T21:21:20+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -640,7 +840,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-08T21:20:13+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "据埃及方面8日消息，一列由埃及首都开罗开往该国南部阿斯旺的列车在埃及吉萨省境内发生脱轨事故，4节车厢脱轨。事故导致列车司机死亡。埃及卫生部长称事故还导致64人受伤。"
     },
     {
@@ -650,7 +850,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-08T21:02:24+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社北京11月8日电 (记者 徐婧)舞剧《五星出东方》8K超高清首映暨希腊巡演启航活动8日在北京举办。当地时间11月13日至15日，该剧将登陆希腊雅典圣诞剧场，以《丝绸之路上的爱情》为名与观众见面。"
     },
     {
@@ -660,7 +860,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-08T21:02:04+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网加德满都11月8日电 (郑怡雯)尼泊尔8日迎来传统“敬狗日”。由尼泊尔总理夫人萨宾娜·卡夫莱发起的庆祝活动在首都加德满都举行。"
     },
     {
@@ -670,7 +870,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-08T21:02:02+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "据埃及方面8日消息，当日发生的列车脱轨事故导致列车司机死亡。"
     },
     {
@@ -680,7 +880,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-08T21:01:46+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社雅加达11月8日电 (记者 李志全)印度尼西亚一架执行森林和土地火灾扑救任务的直升机8日在南加里曼丹省巴里托瓜拉县坠入巴里托河，机上2人获救，1人遇难。"
     },
     {
@@ -690,7 +890,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T21:01:44+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社上海11月8日电 题：上海澳门联谊会会长：借进博东风，沪澳携手创未来"
     },
     {
@@ -700,18 +900,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T21:01:24+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社广西贺州11月8日电 (韦佳秀 张广权)“我们将与广西旅游发展集团建立合作，面向香港及东南亚市场推出全新的广西康养旅行团，首发团12月下旬出发，成员包含多名香港知名人士与企业家。”香港旅行社东主协会会长叶庆宁8日在广西贺州表示。"
-    },
-    {
-      "id": "e7d82f8d1ae9f656",
-      "title": "埃及发生列车脱轨事故致至少50人受伤",
-      "url": "https://www.cls.cn/detail/2528326",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T20:50:10+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
     },
     {
       "id": "c964868fc1426354",
@@ -720,7 +910,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T20:48:59+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "前三季度文体休闲服务类零售额增速明显快于整体服务零售增速——"
     },
     {
@@ -730,18 +920,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-08T20:46:53+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网11月8日电 综合外媒8日报道，埃及吉萨省发生火车脱轨事故，已致约50人受伤。"
-    },
-    {
-      "id": "79b6401874cd20b2",
-      "title": "中国宝武旗下子公司与14家国际合作伙伴集中签约",
-      "url": "https://www.cls.cn/detail/2528324",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T20:46:12+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
     },
     {
       "id": "d970b241c45c9d5e",
@@ -750,7 +930,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-08T20:44:59+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "新华社快讯：据埃及媒体8日报道，一列由埃及首都开罗开往该国南部阿斯旺的列车当天在埃及吉萨省境内发生脱轨事故，4节车厢脱轨，导致至少50人受伤。"
     },
     {
@@ -760,7 +940,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-11-08T20:43:08+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -770,7 +950,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T20:42:19+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网上海11月8日电(范宇斌)作为第九届中国国际进口博览会配套活动之一，以“融通中外 共享新机”为主题的2026“侨连五洲·沪上进博”主题活动7日在国家会展中心(上海)举行。在圆桌对话环节，来自4家世界五百强企业的华侨华人高管齐聚一堂，共话进博会平台价值，聚焦人工智能如何打通跨境创新、产业协同与合规治理。"
     },
     {
@@ -780,7 +960,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T20:41:08+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网上海11月8日电 (记者 缪璐)第九届中国国际进口博览会正在上海举办。进博会期间，上海市税务部门启用8个国家会展中心(上海)及周边的离境退税服务点位，为境外参展观展人员提供购物开单和“即买即退”服务，覆盖中心广场、新闻中心、洲际酒店、各大展馆在内的多个场景。"
     },
     {
@@ -790,7 +970,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T20:34:20+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社上海11月8日电 题：寻“味”进博：海味鲜 侨味浓"
     },
     {
@@ -800,7 +980,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T20:31:38+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网贺州11月8日电 (张广权 韦佳秀)11月8日，2026年广西文化旅游发展大会在贺州市举行。会上宣布，2028年广西文化旅游发展大会将由钦州市承办。"
     },
     {
@@ -810,38 +990,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T20:31:04+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网贺州11月8日电 (张广权 韦佳秀)2026年广西文化旅游产业招商推介会8日在广西贺州市举行。现场集中签约21个项目，涵盖休闲观光旅游、文化体验与文创、温泉度假、酒店住宿、农文旅融合、微短剧与数字视听、动漫科技等类型。"
-    },
-    {
-      "id": "91a718654c7b6f43",
-      "title": "财联社11月8日电，全球基金11月8日净卖出250万印度卢比的印度股票。",
-      "url": "https://www.cls.cn/detail/2528323",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T20:29:32+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3b343fc7c5ec8bf9",
-      "title": "【风口研报·公司】A股稀缺“红利+成长”双属性金融标的，这家设备租赁公司以99%中小微客户筑牢基本盘、53%分红率凸显红利价值，行业仍处于扩容阶段；周策略：新催化、估值筹码消化充分的领域弹性更大",
-      "url": "https://www.cls.cn/detail/2528240",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T20:20:22+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d910e07f3cd545d3",
-      "title": "国内券商总数104家 其中国资券商71家占比已近七成",
-      "url": "https://www.cls.cn/detail/2528310",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T20:15:45+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
     },
     {
       "id": "d251b59a3cc388aa",
@@ -850,7 +1000,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T20:12:05+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "晶采观察丨便民有温度、消费有热度 消费重磅新政再“加码”"
     },
     {
@@ -860,27 +1010,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-08T19:59:33+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "eeacd4b488e35057",
-      "title": "11月8日周日《新闻联播》要闻17条",
-      "url": "https://www.cls.cn/detail/2528317",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T19:58:13+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "41c42f0c6473e2a1",
-      "title": "财联社11月8日电，法国外交部长巴罗表示，欧洲方面将参与在阿布扎比举行的乌克兰问题会谈。",
-      "url": "https://www.cls.cn/detail/2528316",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T19:50:16+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -890,7 +1020,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T19:42:47+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社广州11月8日电 (记者 王坚)为期三天的2026国际湾区经济论坛8日在广州落下帷幕。论坛举办期间，来自全球主要湾区的代表共同发布《全球湾区经济合作十大倡议》，该倡议为全球湾区合作提供了方向性框架，也标志着全球湾区合作从理念共识迈向机制建设新阶段。"
     },
     {
@@ -900,18 +1030,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-08T19:40:33+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社曼谷11月8日电 (王茜 李映民)泰国职业安全、职业健康与工作环境促进研究所所长南猜8日表示，气候变化导致全球气温升高、天气状况日趋不稳定，给劳动者健康和职业安全带来风险，其中户外工作者及高风险环境中的劳动者面临的威胁尤为突出。"
-    },
-    {
-      "id": "4d3712a265e3ac1e",
-      "title": "财联社11月8日电，海湾国家签署铁路网项目协议。",
-      "url": "https://www.cls.cn/detail/2528313",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-08T19:40:32+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
     },
     {
       "id": "b4b9c29b0371df28",
@@ -920,7 +1040,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-08T19:38:45+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -930,7 +1050,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T19:38:09+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网潮州11月8日电 (记者 陈楚红)记者8日从潮州工信部门获悉，中马智慧家居产业园建设座谈会近日在福州举行，由住房和城乡建设部科技与产业化发展中心主办，马来西亚房屋及地方政府部部长、联合国人居大会主席倪可敏，潮州市政府代表团，以及中马双方政府部门、产业园区和30余家企业代表约60人出席。"
     },
     {
@@ -940,7 +1060,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T19:36:33+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社上海11月8日电 题：读懂中国味蕾 跨国公司持续本土化创新"
     },
     {
@@ -950,7 +1070,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T19:36:29+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社上海11月8日电 (记者 姜煜)膳食营养补充品牌Witsbb健敏思在进博会现场首发两款新品“果王VC”和“悦己钙”、爱丁顿集团旗下威士忌品牌麦卡伦焕新系列的收官之作“焕新2026版”在进博会上迎来中国首发；有机营养乳制品生产商阿拉福兹(Arla Foods)将于明年首季推出的高端新品“Lunevia璀璨系列”在进博会亮相……"
     },
     {
@@ -960,7 +1080,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T19:34:21+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网云南文山11月8日电 (记者 韩帅南)11月7日晚，以“文山三七、健康世界”为主题的第十二届文山三七节在云南省文山州启幕。来自中国、越南、泰国、缅甸、马来西亚、孟加拉国、美国等国家的数百名嘉宾，与文山各族群众欢聚一堂，以三七为媒，共话友谊、共谋发展。"
     },
     {
@@ -970,7 +1090,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T19:31:15+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社上海11月8日电 题：在进博读懂中国“引力场”：每一次“再来”都有新可能"
     },
     {
@@ -980,7 +1100,7 @@
       "source": "华尔街见闻",
       "category": "中国财经",
       "published_at": "2026-11-08T19:28:22+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -990,7 +1110,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-08T19:16:14+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -1000,7 +1120,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-08T19:04:26+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -1010,7 +1130,7 @@
       "source": "华尔街见闻",
       "category": "世界要闻",
       "published_at": "2026-11-08T18:57:29+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": ""
     },
     {
@@ -1020,28 +1140,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T18:51:02+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "近年来，资本市场虚假和误导性信息频繁扰乱市场秩序，损害资本市场参与主体合法权益，及时有力辟谣是快速对冲各类谣言负面影响，及时澄清市场误解误读，稳定市场预期的有效手段。为适应网络辟谣工作新形势，更好服务资本市场各类主体，维护资本市场信息传播秩序，在中国证监会办公厅、中央网信办违法和不良信息举报中心的指导下，由中国上市公司协会承办的“中国上市公司协会辟谣平台”现更名升级为“资本市场辟谣平台”，今日正式上线。"
-    },
-    {
-      "id": "5cfd469ef3f8586a",
-      "title": "美国佐治亚州州长布莱恩·坎普正考虑参加2028年总统竞选。坎普也在考虑参加2028年的参议员竞选。（华盛顿邮报）",
-      "url": "https://wallstreetcn.com/livenews/3196474",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T18:50:40+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "02abe4ab54752056",
-      "title": "AI辅助设计禽流感疫苗动物实验获进展",
-      "url": "https://wallstreetcn.com/livenews/3196473",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-08T18:25:23+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
     },
     {
       "id": "4741f65616367fe3",
@@ -1050,7 +1150,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T18:22:35+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网上海11月8日电 (记者 赵强)2026“进博故事”主题活动8日在国家会展中心(上海)举行。安徽省商务厅副厅长张弘强现场分享了三个“进博故事”：一颗泰国榴莲的跨海之旅、一条高端薄膜生产线的落地、一场“双会联动”的双向奔赴。"
     },
     {
@@ -1060,7 +1160,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T18:21:43+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网上海11月8日电 (记者 李姝徵)第九届中国国际进口博览会(以下简称“进博会”)11月8日正在上海举行。在进博会张江孵创展团展位，多家“早小硬”科技企业将各自的看家本领变成可看、可体验的应用场景。"
     },
     {
@@ -1070,7 +1170,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T18:18:47+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新社福建龙岩11月8日电 (记者 张金川)第十四届海峡两岸机械产业博览会(简称“机博会”)8日在福建龙岩开幕。本届机博会以“两岸融合发展，投资龙岩共赢”为主题，汇聚两岸产业资源，话智造升级，谋合作发展。"
     },
     {
@@ -1080,7 +1180,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T18:17:07+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网福建南安11月8日电 (记者 孙虹)以“金石为开·智绿未来”为主题，第二十五届中国(南安)水头国际石博会(简称“水头石博会”)8日在福建南安开幕，其间发布全球首个石材产业数字化创新工艺“拼弧2.0”技术标准，引领石材产业朝着“时尚发布、设计赋能、绿色智造、领航出海、生态共创”的目标迈进。"
     },
     {
@@ -1090,7 +1190,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T18:16:09+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网上海11月8日电 (记者 姜煜)第九届中国国际进口博览会上海交易团大型零售采购商联盟集中采购签约仪式8日在国家会展中心(上海)举行。"
     },
     {
@@ -1100,108 +1200,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-08T18:15:55+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
+      "fetched_at": "2026-11-09T05:21:03+08:00",
       "summary": "中新网雄安11月8日电 (李玉素 韩冰)据中国雄安集团城市发展投资有限公司8日消息，近日，由该公司开发建设的学府城(一期)已正式开盘，该项目是雄安新区首批疏解高校配套住宅项目，主要服务北京交通大学、北京科技大学、中国地质大学(北京)、北京林业大学四所疏解高校教职工及新区入驻人才。"
-    },
-    {
-      "id": "8a196ebac54e7152",
-      "title": "《全球湾区经济合作十大倡议》在穗发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728452.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-08T18:14:47+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "中新网广州11月8日电 (记者 王坚)2026国际湾区经济论坛主论坛6日至8日在广州举行。论坛举行期间，来自全球主要湾区的代表共同发布《全球湾区经济合作十大倡议》，这标志着全球湾区合作从理念共识迈向机制建设新阶段。"
-    },
-    {
-      "id": "44d6f99df1393c51",
-      "title": "AI短剧的狂飙与“下一站”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728432.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-08T18:13:52+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "中新社北京11月8日电 (记者 高凯)6名主创和30多人的团队，用20天做出第一季，如今已更新10季、约1000集——这是红果人工智能(AI)短剧《持械入宋》的生产方式，也折射出AI短剧的产能之变。制作方称，截至11月7日，该剧全网播放量突破120亿。"
-    },
-    {
-      "id": "2c4385c98449932c",
-      "title": "沙特能源部消息人士称阿美石油大楼受损，无人员伤亡",
-      "url": "https://wallstreetcn.com/livenews/3196472",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T17:57:56+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "4b8be0626a3b264f",
-      "title": "今年前10个月国开行发放制造业贷款超4800亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728425.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-08T17:50:31+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "记者今天(8日)从国家开发银行了解到，今年以来，国开行综合运用多元化金融产品，为制造业企业提供覆盖技术研发、产能建设、日常经营的全周期投融资支持。1—10月，共发放制造业贷款超4800亿元，主要支持了传统产业改造升级、新兴产业培育壮大以及未来产业前瞻布局，有力助推了制造业高质量发展。"
-    },
-    {
-      "id": "3d7285891c9b9a79",
-      "title": "美媒称白宫办公厅副主任沃尔特斯将离职",
-      "url": "https://wallstreetcn.com/livenews/3196471",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-08T17:31:37+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e85d434e59bbd389",
-      "title": "How the deadly shooting in Krakow unfolded",
-      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T17:29:24+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square."
-    },
-    {
-      "id": "01a756263ddba480",
-      "title": "华新建材：拟约16.42亿美元收购巴西CSN CIMENTOS 99.99%股权",
-      "url": "https://wallstreetcn.com/livenews/3196470",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T17:17:47+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e696f39eb926693a",
-      "title": "日本大阪发生持刀伤人事件致1人受伤 嫌犯被捕",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728417.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T17:10:35+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "中新网11月8日电 据日本共同社报道，当地时间8日，日本大阪府发生一起持刀伤人事件，造成1人受伤。警方以涉嫌伤害罪，当场逮捕一名男性嫌疑人。"
-    },
-    {
-      "id": "3d6ee21f5830c034",
-      "title": "日本舆论称政府新版防卫战略引发国内外担忧",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728413.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T17:07:31+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "日本媒体7日援引相关人士消息称，日本政府正考虑在拟于年底修订的《国家防卫战略》中，明确写入强化“持续作战能力”的内容。相关动向在日本政府内外引发担忧。"
-    },
-    {
-      "id": "bb78e5fde2522c20",
-      "title": "日本民众呼吁日社会正视侵略历史 加强教育",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728409.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-11-08T17:00:19+08:00",
-      "fetched_at": "2026-11-09T01:53:48+08:00",
-      "summary": "当地时间7日，日本民众在东京新宿举行有关“东京审判”学习演讲会。活动中，演讲者将纽伦堡审判遗址与东京审判遗址进行比较，指出同样作为向民众开放的重要历史遗址，日本方面对于过去加害历史的陈述明显存在不足。民众呼吁，日本社会应当加强相关历史教育，正视侵略历史。"
     }
   ],
   "sources": [
@@ -1209,7 +1209,7 @@
       "name": "财联社",
       "url": "https://newsnow.busiyi.world/api/s?id=cls-telegraph",
       "via": "NewsNow",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1218,7 +1218,7 @@
       "name": "华尔街见闻",
       "url": "https://newsnow.busiyi.world/api/s?id=wallstreetcn-quick",
       "via": "NewsNow",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1227,16 +1227,16 @@
       "name": "金十数据",
       "url": "https://newsnow.busiyi.world/api/s?id=jin10",
       "via": "NewsNow",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
-      "count": 27,
+      "count": 26,
       "excluded_unknown_time": 0
     },
     {
       "name": "中新网财经",
       "url": "https://www.chinanews.com.cn/rss/finance.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1245,7 +1245,7 @@
       "name": "中新网国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "count": 26,
       "excluded_unknown_time": 0
@@ -1254,9 +1254,9 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
-      "count": 12,
+      "count": 10,
       "excluded_unknown_time": 0
     }
   ],
@@ -1267,7 +1267,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/000001.SS/",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "price": 3649.177,
       "change_pct": -1.1039260811671392,
@@ -1372,7 +1372,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EHSI/",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "price": 24481.86,
       "change_pct": -1.2708017782533054,
@@ -1481,7 +1481,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "price": 24579.424,
       "change_pct": 1.0874933168825818,
@@ -1590,7 +1590,7 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/GC%3DF/",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "price": 4074.9,
       "change_pct": -0.9383736477452276,
@@ -1695,7 +1695,7 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/SI%3DF/",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "price": 51.942,
       "change_pct": -0.5571223162813554,
@@ -1800,7 +1800,7 @@
       "unit": "美元/桶",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CL%3DF/",
-      "checked_at": "2026-11-09T01:53:48+08:00",
+      "checked_at": "2026-11-09T05:21:03+08:00",
       "status": "ok",
       "price": 90.83,
       "change_pct": 0.34246947462446276,
