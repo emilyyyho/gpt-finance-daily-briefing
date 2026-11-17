@@ -1,57 +1,937 @@
 {
-  "generated_at": "2026-11-18T04:48:44+08:00",
+  "generated_at": "2026-11-18T07:08:00+08:00",
   "window_hours": 24,
   "refresh_minutes": 30,
   "news": [
+    {
+      "id": "6d9998f0dc34c781",
+      "title": "财联社11月18日电，韩国总统办公室已就JAVA程式语言更新所涉漏洞召开紧急会议。",
+      "url": "https://www.cls.cn/detail/2537295",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T07:04:16+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "79fd9f96ff0ff7ed",
+      "title": "财联社11月18日电，美股股指期货集体高开，其中纳指期货涨1.38%，标普500指数期货涨0.75%。",
+      "url": "https://www.cls.cn/detail/2537294",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T07:01:13+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "32301d4d6b56ba0c",
+      "title": "伊朗称又一油轮在霍尔木兹海峡触碰水雷",
+      "url": "https://www.cls.cn/detail/2537292",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:57:08+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "87875130d0deb42e",
+      "title": "谷歌公司：Google Wallet已经对全美iOS用户开放。",
+      "url": "https://wallstreetcn.com/livenews/3201570",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:56:29+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e4ad2b215d9c8f2a",
+      "title": "财联社11月18日电，谷歌称，Google Wallet已面向全美iOS用户开放。",
+      "url": "https://www.cls.cn/detail/2537291",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:56:27+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0eb80bc50fbe3472",
+      "title": "财联社11月18日电，纳斯达克100指数ETF (QQQ)一度上涨1.3%。",
+      "url": "https://www.cls.cn/detail/2537289",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:52:37+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "29fbc004024c02d7",
+      "title": "周二美股盘后，纳斯达克100 ETF涨1.3%。",
+      "url": "https://wallstreetcn.com/livenews/3201569",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:51:54+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4b3842c341a53a79",
+      "title": "提醒：英伟达分析师电话会议结束。",
+      "url": "https://wallstreetcn.com/livenews/3201568",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:51:09+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b0b0102532fa7812",
+      "title": "财联社11月18日电，戴尔股价盘后上涨5%，惠普企业涨4%，英特尔涨1.9%。",
+      "url": "https://www.cls.cn/detail/2537288",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:50:39+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b6879f4f6f6dc95a",
+      "title": "以色列议会选举马坦·卡哈纳担任新任议长",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733823.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:49:15+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": "中新网11月18日电 据美国有线电视新闻网(CNN)报道，当地时间17日，以色列第26届议会举行全体会议，选举正直党议员马坦·卡哈纳为新一任议长，接替利库德集团议员阿米尔·奥哈纳。"
+    },
     {
       "id": "35ec7fce43bd571d",
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "世界要闻",
-      "published_at": "2026-11-18T04:44:54+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "published_at": "2026-11-18T06:46:30+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations."
     },
     {
-      "id": "ec1f19d36b4e701e",
-      "title": "拉脱维亚新一届政府成立",
-      "url": "https://flash.jin10.com/detail/20261118044304410800",
-      "source": "金十数据",
+      "id": "828a0ae608254e8e",
+      "title": "英伟达：芯片配售要求客户们准备就绪。",
+      "url": "https://wallstreetcn.com/livenews/3201567",
+      "source": "华尔街见闻",
       "category": "中国财经",
-      "published_at": "2026-11-18T04:43:04+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "published_at": "2026-11-18T06:46:00+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": ""
     },
     {
-      "id": "801779b0331ab988",
-      "title": "据Axios：预测市场平台Kalshi首席执行官反对美国商品期货交易委员会暂停平台部分言论预测市场合约的决定。相关市场允许用户押注特朗普公开讲话中将使用哪些词语。",
-      "url": "https://flash.jin10.com/detail/20261118043609706800",
+      "id": "175b15c0894cc3fc",
+      "title": "校准截止日期临近 基金密集调整风险等级",
+      "url": "https://www.cls.cn/detail/2537287",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:45:38+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a7b3aaf756425b4d",
+      "title": "财联社11月18日电，英伟达临时CEO克雷斯称，英伟达将严格审视提供融资支持的企业。",
+      "url": "https://www.cls.cn/detail/2537286",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:44:48+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3399a193be13ebd4",
+      "title": "英伟达：那些特大型公司提供了如此多的需求。",
+      "url": "https://wallstreetcn.com/livenews/3201566",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:43:12+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "089a4724edbc4048",
+      "title": "上市公募REITs“破百”近在咫尺 行业迎来提质深耕窗口期",
+      "url": "https://www.cls.cn/detail/2537285",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:42:56+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "377c0d547328108d",
+      "title": "英伟达临时CEO克雷斯：英伟达将严格审视提供融资支持的企业。",
+      "url": "https://flash.jin10.com/detail/20261118064236417800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:42:36+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ba5e02ee64efb568",
+      "title": "金十数据整理：昨日今晨重要新闻汇总（11月18日）",
+      "url": "https://flash.jin10.com/detail/20261118064101442800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:41:01+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5c1f79746091ea5f",
+      "title": "英伟达：数据中心项目延期将使其担保失效。 当它们准备行动时，担保启动。",
+      "url": "https://wallstreetcn.com/livenews/3201564",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:40:57+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5c2eab6782f0aeb6",
+      "title": "英伟达：英伟达将严格审视其提供融资支持的企业。",
+      "url": "https://wallstreetcn.com/livenews/3201563",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:39:57+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4b1eab83c7b20f11",
+      "title": "财联社11月18日电，英伟达盘后涨幅扩大至4%。",
+      "url": "https://www.cls.cn/detail/2537284",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:38:14+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7600139b4059c4d6",
+      "title": "英伟达盘后涨幅达到4%。",
+      "url": "https://wallstreetcn.com/livenews/3201562",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:37:42+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b406061af7ae0c77",
+      "title": "英伟达：预计四季度营收将为1300亿美元+/-3%。",
+      "url": "https://wallstreetcn.com/livenews/3201561",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:37:33+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "061b6cf1288e7e8f",
+      "title": "英伟达副总裁伊恩·巴克：英伟达董事会希望尽快选定正式首席执行官，但不会仓促行事。",
+      "url": "https://flash.jin10.com/detail/20261118063551088800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:35:51+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "654150a4d366e4c7",
+      "title": "英伟达副总裁伊恩·巴克：英伟达的新任首席执行官将不得不应对安全态势问题。",
+      "url": "https://flash.jin10.com/detail/20261118063544021800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:35:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8ba7a2ae15fe2b85",
+      "title": "英伟达：四季度将是毛利润率的底部。",
+      "url": "https://wallstreetcn.com/livenews/3201560",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:35:33+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8561ef0c05b0c425",
+      "title": "微软：英伟达闹剧可能会利好竞争对手的那些芯片。",
+      "url": "https://wallstreetcn.com/livenews/3201559",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:35:16+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b8fb8302a23be520",
+      "title": "英伟达董事会主席：将从公司内部、外部寻找CEO候选人。 这将是一个“细致的过程”。 我们不会“加速”CEO的任命过程。",
+      "url": "https://wallstreetcn.com/livenews/3201558",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:33:47+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2aa414785f0e3231",
+      "title": "财联社11月18日电，英伟达董事会主席哈维·琼斯称，我们希望尽快任命正式首席执行官，但不会为了赶时间而仓促决定，必须先找到最合适的人选。",
+      "url": "https://www.cls.cn/detail/2537283",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:33:18+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0109a313103ff6ac",
+      "title": "英伟达董事会主席哈维·琼斯：我们希望尽快任命正式首席执行官，但不会为了赶时间而仓促决定，必须先找到最合适的人选。",
+      "url": "https://flash.jin10.com/detail/20261118063309401800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:33:09+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1d2fd3230a0abf5f",
+      "title": "英伟达临时CEO克雷斯：台积电的领导层本周就在我们办公室，也全力参与协助我们。",
+      "url": "https://flash.jin10.com/detail/20261118063245210800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:32:45+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a1446003dbe766fb",
+      "title": "英伟达临时CEO克雷斯：黄仁勋离职后客户和合作伙伴仍“全面参与合作”。",
+      "url": "https://flash.jin10.com/detail/20261118063231351800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:32:31+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "783526c6119b7f41",
+      "title": "财联社11月18日电，英伟达临时CEO克雷斯称，供需状况让我们有信心上调全年销售增长预期。",
+      "url": "https://www.cls.cn/detail/2537282",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:32:29+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "840936eb9911950f",
+      "title": "财联社11月18日电，英伟达临时CEO称供应商和合作伙伴“百分百支持我们”。",
+      "url": "https://www.cls.cn/detail/2537280",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:32:09+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "6fadfb3415978b85",
+      "title": "英伟达临时CEO克雷斯：英伟达在黄仁勋离职后“一切照常”。",
+      "url": "https://flash.jin10.com/detail/20261118063154630800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:31:54+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ae58db38a4cc9bcc",
+      "title": "英伟达临时CEO克雷斯：过去一周，我们的领导层表现得非常坚定。",
+      "url": "https://flash.jin10.com/detail/20261118063145964800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:31:45+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7f7b81e617940d0c",
+      "title": "英伟达临时CEO克雷斯在被问及领导层交接时强调对员工的支持。",
+      "url": "https://flash.jin10.com/detail/20261118063138211800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:31:38+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2e57e0e1b4492b49",
+      "title": "英伟达临时CEO克雷斯：供需状况让我们有信心上调全年销售增长预期。",
+      "url": "https://flash.jin10.com/detail/20261118063131094800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:31:31+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "bf9786a3f948ec61",
+      "title": "提醒：日内请重点关注（以下均为北京时间）",
+      "url": "https://wallstreetcn.com/livenews/3201565",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:30:37+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "04bc87c6ca37b164",
+      "title": "英伟达：供需支持最新指引。",
+      "url": "https://wallstreetcn.com/livenews/3201557",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:28:08+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b8237d224c14eb53",
+      "title": "财联社11月18日电，英伟达临时CEO克雷斯称，预计第四季度将是毛利率的低点，随后在2028财年回升至72%至73%区间。仍有望于明年推出Vera Rubin Ultra，并于2028年推出Feynman。",
+      "url": "https://www.cls.cn/detail/2537279",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:27:38+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f6e7cc6fc72336f0",
+      "title": "英伟达：所有过剩的自由现金流（FCF）将留给股东们。",
+      "url": "https://wallstreetcn.com/livenews/3201556",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:27:06+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f4e3418198a3aaec",
+      "title": "英伟达临时CEO克雷斯：计划在未来几周内提交10-Q表格。",
+      "url": "https://flash.jin10.com/detail/20261118062632821800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:26:32+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d35ea080a636b7dc",
+      "title": "英伟达临时CEO克雷斯：预计第四季度将是毛利率的低点，随后在2028财年回升至72%至73%区间。",
+      "url": "https://flash.jin10.com/detail/20261118062620836800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:26:20+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3c12ae8d598c58fd",
+      "title": "英伟达临时CEO克雷斯：英伟达第四季度销售增长将受人工智能需求及Vera Rubin推出推动。",
+      "url": "https://flash.jin10.com/detail/20261118062606938800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:26:06+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7edcfb40ad1221fd",
+      "title": "OpenAI：我们推出面向销售场景的ChatGPT。",
+      "url": "https://wallstreetcn.com/livenews/3201555",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:26:05+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2fbc21e1adad48fb",
+      "title": "周三你需要知道的隔夜全球要闻：标普500指数创9月以来最长连跌；英伟达业绩和展望迎利好；10年期美债收益率维持在5%以上的天数逼近20年来最长记录",
+      "url": "https://www.cls.cn/detail/2537278",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:24:24+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "681eccf290b0da70",
+      "title": "美联储12月加息25个基点的概率为96.8%",
+      "url": "https://www.cls.cn/detail/2537277",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:23:17+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "73e3e2f36a7b67b1",
+      "title": "英伟达临时CEO克雷斯：仍有望于明年推出Vera Rubin Ultra，并于2028年推出Feynman。",
+      "url": "https://flash.jin10.com/detail/20261118062311717800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:23:11+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2d9ca046933f5123",
+      "title": "财联社11月18日电，英伟达临时CEO克雷斯称，英伟达各代GPU租赁价格全面上涨。",
+      "url": "https://www.cls.cn/detail/2537276",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:21:42+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "01b1c53de483d41e",
+      "title": "英伟达临时CEO克雷斯：已与景硕和三星电机签署协议以扩大基板产能，并正在扩大与供应链合作伙伴的承诺，以支持AI基础设施扩张。",
+      "url": "https://flash.jin10.com/detail/20261118062142685800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:21:42+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "93d231fc1e375c65",
+      "title": "英伟达临时CEO：预计到2028财年公司企业业务收入将增长一倍以上。",
+      "url": "https://wallstreetcn.com/livenews/3201554",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:20:49+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "12ddce11e6b36d6d",
+      "title": "财联社11月18日电，英伟达临时CEO克雷斯称Vera Rubin NVL72与Vera CPU于第三季度开始量产出货，采用台积电技术。截至第三季度末，与新云（Neocloud）协议相关的承诺总额为320亿美元。",
+      "url": "https://www.cls.cn/detail/2537274",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:20:40+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a108efe0825dab9e",
+      "title": "英伟达：评估未来投资。",
+      "url": "https://wallstreetcn.com/livenews/3201553",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:20:35+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "57fe3b4aaf42ecd9",
+      "title": "英伟达临时CEO克雷斯：我们将在参与方式上保持审慎，在资本承诺上保持纪律。",
+      "url": "https://flash.jin10.com/detail/20261118062026895800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:20:26+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c4b1e13b27bfdf22",
+      "title": "英伟达：日本软银集团那些能源计划处于正轨之上。",
+      "url": "https://wallstreetcn.com/livenews/3201552",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:20:21+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f8f10bcded3dcea3",
+      "title": "英伟达临时CEO克雷斯：预计2028财年企业业务营收将增长一倍以上。",
+      "url": "https://flash.jin10.com/detail/20261118062010510800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:20:10+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e84b1b2a8cfa0812",
+      "title": "英伟达：与供应链伙伴们（包括Amkor、Spil、Kinsus、Foxconn等）扩大承诺。",
+      "url": "https://wallstreetcn.com/livenews/3201551",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:20:00+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "31ff34b0b4a1a975",
+      "title": "英伟达临时CEO克雷斯：英伟达正与合作伙伴共同提高产能。",
+      "url": "https://flash.jin10.com/detail/20261118061949372800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:19:49+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0144dea98c272b9e",
+      "title": "英伟达临时CEO克雷斯：第三季度，我们的采购承诺增至3900亿美元。",
+      "url": "https://flash.jin10.com/detail/20261118061942870800",
       "source": "金十数据",
       "category": "世界要闻",
-      "published_at": "2026-11-18T04:36:09+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "published_at": "2026-11-18T06:19:42+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": ""
     },
     {
-      "id": "b47e1aab1d2a0512",
-      "title": "法国内政部：14.6万人参与新一轮示威游行",
-      "url": "https://flash.jin10.com/detail/20261118043506830800",
+      "id": "bbd174881a94ae4c",
+      "title": "英伟达临时CEO克雷斯：截至第三季度末，与新云（Neocloud）协议相关的承诺总额为320亿美元。",
+      "url": "https://flash.jin10.com/detail/20261118061929463800",
       "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:35:06+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:19:29+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": ""
     },
     {
-      "id": "4ecd7abdb9608d57",
-      "title": "拉脱维亚议会投票赞成新政府就职。",
-      "url": "https://flash.jin10.com/detail/20261118043232022800",
+      "id": "404a784570eb28ae",
+      "title": "英伟达：为自身研发锁定数据中心产能。",
+      "url": "https://wallstreetcn.com/livenews/3201550",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:19:19+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "785a5f32ee104f3d",
+      "title": "英伟达临时CEO克雷斯：Vera Rubin NVL72与Vera CPU于第三季度开始量产出货，采用台积电技术。",
+      "url": "https://flash.jin10.com/detail/20261118061912849800",
       "source": "金十数据",
       "category": "中国财经",
-      "published_at": "2026-11-18T04:32:32+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "published_at": "2026-11-18T06:19:12+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": ""
+    },
+    {
+      "id": "54cbbada5da0449d",
+      "title": "财联社11月18日电，英伟达称主要前沿人工智能实验室今年预计将贡献公司数据中心业务营收的约15%。",
+      "url": "https://www.cls.cn/detail/2537273",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:19:11+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "06d3a81a4d4e2c4f",
+      "title": "英伟达临时CEO克雷斯：宣布与景硕科技和三星电机在基板领域达成新协议，并与矽品精密在先进封装领域达成新协议。",
+      "url": "https://flash.jin10.com/detail/20261118061851296800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:18:51+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cc972d30c9e0bc86",
+      "title": "英伟达临时CEO克雷斯：英伟达各代GPU租赁价格全面上涨。",
+      "url": "https://flash.jin10.com/detail/20261118061820121800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:18:20+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a07b5e080acc85f4",
+      "title": "英伟达临时CEO克雷斯：英伟达的NIMATRON现已成为Open Router上使用最广泛的美国开放模型。",
+      "url": "https://flash.jin10.com/detail/20261118061806959800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:18:06+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "47d8c11f22e26e24",
+      "title": "英伟达：公司将在新云支持方面带有纪律性和选择性。",
+      "url": "https://wallstreetcn.com/livenews/3201547",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:15:28+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "17380314b3d4b369",
+      "title": "英伟达临时CEO表示，根据多年期协议，Hopper GPU的重新签约价格最高达到原价的两倍，而B300自推出以来价格上涨超过60%。",
+      "url": "https://wallstreetcn.com/livenews/3201546",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:14:29+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1da5fc50a22ee92b",
+      "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733822.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:13:45+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": "新华社华盛顿11月17日电(记者黄强 徐剑梅)美国军方官员17日说，美军当天对伊朗格什姆岛一处导弹发射场实施精确打击，以回应伊朗伊斯兰革命卫队针对美国人员和资产的“侵略行径”。"
+    },
+    {
+      "id": "a0ccf12578407433",
+      "title": "以色列议会选举马坦·卡哈纳为新任议长",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733821.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:13:35+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": "当地时间17日深夜，以色列第26届议会举行全体会议，选举正直党议员马坦·卡哈纳为新一任议长，接替利库德集团议员阿米尔·奥哈纳。"
+    },
+    {
+      "id": "34c7d299e35e8c42",
+      "title": "财联社11月18日电，英伟达临时CEO表示，根据多年期协议，Hopper GPU的重新签约价格最高达到原价的两倍，而B300自推出以来价格上涨超过60%。",
+      "url": "https://www.cls.cn/detail/2537272",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:13:34+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "9a657d525ff04497",
+      "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:12:05+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": "中国—东盟自贸区3.0版升级议定书将于今年12月1日正式生效实施。升级议定书将赋能覆盖近21亿人口的区域大市场和产业链供应链，为企业带来巨大商机。"
+    },
+    {
+      "id": "f54ee0d2ee26ab3f",
+      "title": "财联社11月18日电，英伟达称云业务积压订单达2.5万亿美元。",
+      "url": "https://www.cls.cn/detail/2537271",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:09:40+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "76f9911752ef4da3",
+      "title": "周二（11月17日）纽约尾盘，标普500股指期货最终跌0.96%，道指期货跌1.65%，纳斯达克100股指期货跌0.57%。 罗素2000股指期货跌1.37%。",
+      "url": "https://wallstreetcn.com/livenews/3201545",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:09:24+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8e4afbdfe5ab835c",
+      "title": "英伟达：云产业订单积压2.5万亿美元。",
+      "url": "https://wallstreetcn.com/livenews/3201544",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:08:39+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "66c4b394562171b9",
+      "title": "财联社11月18日电，英伟达股价迅速转涨，一度达2%。",
+      "url": "https://www.cls.cn/detail/2537270",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:08:20+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "defc3b1613bfc9ad",
+      "title": "财联社11月18日电，英伟达首席财务官上调2028年营收增长预期，预计2028财年营收将增长75%。",
+      "url": "https://www.cls.cn/detail/2537269",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:07:55+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4432293b69069883",
+      "title": "周二（11月17日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.6672元，较周一纽约尾盘跌24点，日内整体交投于6.6634-6.6683元区间。",
+      "url": "https://wallstreetcn.com/livenews/3201543",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:07:37+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "6f0d0b089745ff33",
+      "title": "英伟达CFO上调2028财年营收增长预期。 预计2028财年营收将增长75%。",
+      "url": "https://wallstreetcn.com/livenews/3201542",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:07:05+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "94f6fffd677bd194",
+      "title": "英伟达：Rubin产品带来200亿美元收入。 前沿实验室（Frontier Labs）对数据中心营收的贡献（占比）将达到15%。 旧款芯片按更高的价格被承包。",
+      "url": "https://wallstreetcn.com/livenews/3201541",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T06:06:46+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "bcc057baaeb2c91c",
+      "title": "财联社11月18日电，英伟达股价在财报电话会期间转跌。",
+      "url": "https://www.cls.cn/detail/2537267",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:05:01+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4ee579428a844e3a",
+      "title": "英伟达董事会主席Harvey Jones Jr.在电话会议上称公司实力超群，不打算恢复黄仁勋的CEO职务。 公司已经任命了监督委员会。 公司不会回答（投资者）与黄仁勋相关的提问。 英伟达股价盘后转跌。",
+      "url": "https://wallstreetcn.com/livenews/3201540",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:04:48+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4af62f7184f6590c",
+      "title": "财联社11月18日电，英伟达董事会主席表示，公司不打算让黄仁勋复职。",
+      "url": "https://www.cls.cn/detail/2537266",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:04:34+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ee5c3bbb72b325d7",
+      "title": "中通快递三季度营收143.6亿元人民币，分析师预期140.5亿。",
+      "url": "https://wallstreetcn.com/livenews/3201539",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-18T06:00:40+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "aa0d3fad3391cd61",
+      "title": "财联社11月18日电，英伟达财报带动美股AI硬件板块盘后走高，SK海力士、泰瑞达涨近2%，闪迪涨超2%，Lumentum涨超3%。",
+      "url": "https://www.cls.cn/detail/2537265",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T05:49:29+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b8308d59f0a4c481",
+      "title": "财联社11月18日电，美股AI新云（Neocloud）公司CoreWeave、Nebius盘后均涨超5%。消息面上，英伟达称新云协议总额达320亿美元。",
+      "url": "https://www.cls.cn/detail/2537264",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T05:41:00+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b0f86171d704a384",
+      "title": "财联社11月18日电，美国上周API原油库存 527.8万桶，预期-50万桶，前值896.8万桶。",
+      "url": "https://www.cls.cn/detail/2537263",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T05:36:25+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5cf9b5323a3317c0",
+      "title": "财联社11月18日电，英伟达表示，Vera Rubin平台环比新增近200亿美元营收，超大规模客户和ACIE均贡献强劲且多元。",
+      "url": "https://www.cls.cn/detail/2537262",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T05:30:06+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "50d076ec84d44dd5",
+      "title": "财联社11月18日电，英伟达董事会批准增加1500亿美元股票回购计划，剩余股票回购授权额度为2273亿美元。",
+      "url": "https://www.cls.cn/detail/2537261",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T05:28:21+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": ""
+    },
+    {
+      "id": "09543f7a2b137148",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T05:24:35+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+    },
+    {
+      "id": "8fefe823db1a58c6",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T05:06:11+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
+    },
+    {
+      "id": "cd623bac54324ccf",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-18T05:04:00+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
     },
     {
       "id": "02f09a3f2c48291e",
@@ -60,48 +940,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T04:30:20+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
-    },
-    {
-      "id": "adff3a7f4cc05103",
-      "title": "美国部分共和党参议员表示，他们不会支持美国总统特朗普提出的为空中交通管制和机场拨款500亿美元的请求。",
-      "url": "https://flash.jin10.com/detail/20261118042908522800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:29:08+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "31290da03806c43a",
-      "title": "巴西参议院推迟表决财政立法草案的修正案至周三。",
-      "url": "https://wallstreetcn.com/livenews/3201499",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:28:11+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "714026e15decfa59",
-      "title": "美联储威廉姆斯：美联储过去几个月的行动效果良好。",
-      "url": "https://flash.jin10.com/detail/20261118042759962800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:27:59+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "85f4733463e4a820",
-      "title": "欧元再创2025年4月份以来新低",
-      "url": "https://wallstreetcn.com/livenews/3201498",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:26:10+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
     },
     {
       "id": "985d0b433179b9b4",
@@ -110,598 +950,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T04:25:46+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
-    },
-    {
-      "id": "8fefe823db1a58c6",
-      "title": "Russian military plane crashes killing all 19 on board",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:25:27+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
-    },
-    {
-      "id": "c615af62b065237e",
-      "title": "财联社11月18日电，消息人士称，AppLovin是正在洽谈可能收购广告科技公司Criteo的公司之一。",
-      "url": "https://www.cls.cn/detail/2537248",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:21:00+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "330db522766bf8bd",
-      "title": "阿波罗首席执行官Rowan：AI基础设施融资“不仅仅是一个美国故事”。 创纪录的AI开支将持续至2027年。 不存在K形经济。 美国得州奥斯汀是我们的第二总部。",
-      "url": "https://wallstreetcn.com/livenews/3201497",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:17:22+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "583b88ab1fb90794",
-      "title": "乌克兰总统泽连斯基：乌克兰需要额外获得40架F-16战机，呼吁欧洲提供可立即投入使用的幻影战机及充足航空弹药。",
-      "url": "https://flash.jin10.com/detail/20261118041659458800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:16:59+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ed07e4cfe4c213f4",
-      "title": "美国CFTC责令Kalshi下架特朗普演讲相关市场",
-      "url": "https://wallstreetcn.com/livenews/3201496",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:15:59+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7a479cf3551cfc55",
-      "title": "浑水做空英伟达 质疑前高管与超微电脑前员工存在关联",
-      "url": "https://flash.jin10.com/detail/20261118041203361800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:12:03+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ec9c011c3612e2fc",
-      "title": "财联社11月18日电，耐克股价跌幅扩大至7%。",
-      "url": "https://www.cls.cn/detail/2537247",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:10:45+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cd98cd8fa6457614",
-      "title": "美军袭击伊朗格什姆岛导弹设施",
-      "url": "https://www.cls.cn/detail/2537246",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:09:38+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a6c53589a3c29d89",
-      "title": "道指狂泄千点，跌幅扩大至1.9%，标普跌1.5%，纳指跌1.3%，纳斯达克100指数跌1.4%，半导体指数跌2.2%，银行指数跌2.2%。",
-      "url": "https://wallstreetcn.com/livenews/3201495",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:04:50+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1c9c755c9db58b6a",
-      "title": "道琼斯指数跌幅扩大至2%",
-      "url": "https://www.cls.cn/detail/2537245",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:02:17+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "056fd3dbcb699999",
-      "title": "英伟达(NVDA.O)股价小幅走低，现跌2.5%。",
-      "url": "https://flash.jin10.com/detail/20261118040205453800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:02:05+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a830d41ecd362912",
-      "title": "法国政客勒庞提议，将退休年龄下调至最低60岁。（英国金融时报）",
-      "url": "https://wallstreetcn.com/livenews/3201494",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T04:01:59+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "df1116e3022c6cd4",
-      "title": "道指扩大跌幅至2%，标普500指数跌1.59%，纳指跌1.46%。",
-      "url": "https://flash.jin10.com/detail/20261118040140465800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:01:40+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f8bb69031a51a99a",
-      "title": "利弗莫尔中概股龙头指数跌幅扩大至2%",
-      "url": "https://www.cls.cn/detail/2537244",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T04:00:46+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b9f11e404392f0e1",
-      "title": "美国交通部长Duffy：目前并不清楚路由器问题的根本原因。",
-      "url": "https://wallstreetcn.com/livenews/3201493",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:57:14+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "01f95522d3b0c678",
-      "title": "周二（11月17日）纽约尾盘，彭博谷物分类指数涨0.50%，报29.8078点。 CBOT玉米期货涨0.11%，CBOT小麦期货涨1.50%，CBOT大豆期货跌0.26%。",
-      "url": "https://wallstreetcn.com/livenews/3201492",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:56:49+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a5473bff7497b9b9",
-      "title": "浑水研究：做空英伟达(NVDA.O)。",
-      "url": "https://flash.jin10.com/detail/20261118035602174800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:56:02+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "08ae4f4cdb4a5d98",
-      "title": "财联社11月18日电，美国知名做空机构浑水（Muddy Waters Research）宣布做空英伟达。",
-      "url": "https://www.cls.cn/detail/2537243",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:56:00+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "12ff5dfeb29401b0",
-      "title": "美国交通部长达菲：周五发生故障的路由器仍未确定根本原因。",
-      "url": "https://flash.jin10.com/detail/20261118035508574800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:55:08+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d415ac9bd4c4ade8",
-      "title": "报道：伊朗“认真寻求”通过外交途径打破僵局",
-      "url": "https://wallstreetcn.com/livenews/3201491",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:54:58+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "8e991e72f8284083",
-      "title": "美国安局内部网故障",
-      "url": "https://flash.jin10.com/detail/20261118035438280800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:54:38+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "608ae703180f28d8",
-      "title": "浑水做空英伟达。",
-      "url": "https://wallstreetcn.com/livenews/3201490",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:54:33+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ecd209870d10c735",
-      "title": "美联储威廉姆斯：通胀仍顽固高企 但无需采取激进政策行动",
-      "url": "https://flash.jin10.com/detail/20261118035001671800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:50:01+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e27fe8f5c47d7adf",
-      "title": "SpaceX首席财务官表示，Anthropic将需要更多的算力。 明年或成最大AI基础设施参与者。 公司400亿美元的债务融资交易今日已启动公开承销。 公司可利用经营性现金流和债务进行融资。",
-      "url": "https://wallstreetcn.com/livenews/3201489",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:49:53+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "34a0de1040b69d3f",
-      "title": "苹果发言人：今晨内部更新导致部分服务中断，目前我们的许多系统已恢复运行。 正努力尽快让剩余系统重新上线。",
-      "url": "https://wallstreetcn.com/livenews/3201488",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:49:24+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ccc3880537219645",
-      "title": "美国参议院多数党领袖图恩：（关于技术故障）我们都必须加大努力。",
-      "url": "https://flash.jin10.com/detail/20261118034827516800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:48:27+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "60679384a5ebd7d1",
-      "title": "美国参议院多数党领袖图恩谈及近期多起技术系统故障时表示：“外面有很多恶意行为者，他们很乐意对美国造成破坏。我们必须保持高度警惕，做好充分准备。”",
-      "url": "https://flash.jin10.com/detail/20261118034756540800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:47:56+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "fbfcb9f449b8d6e4",
-      "title": "财联社11月18日电，SpaceX首席财务官表示，Anthropic将需要“多得多”的算力，明年SpaceX可能成为最大的AI基础设施参与者。",
-      "url": "https://www.cls.cn/detail/2537242",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:46:38+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2d09fbed3a3563ca",
-      "title": "苹果(AAPL.O)发言人：正努力尽快让其余系统恢复上线。",
-      "url": "https://flash.jin10.com/detail/20261118034557445800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:45:57+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "22e4807abb3d4fa3",
-      "title": "SpaceX(SPCX.O)首席财务官：Anthropic将需要更多算力。",
-      "url": "https://flash.jin10.com/detail/20261118034546113800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:45:46+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "8196b5aec139c594",
-      "title": "苹果(AAPL.O)发言人：在今日上午一次内部更新导致部分服务中断后，我们的许多系统已恢复运行。",
-      "url": "https://flash.jin10.com/detail/20261118034516573800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:45:16+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f59d66c12f8767da",
-      "title": "布伦特原油期货结算价为每桶93.14美元，上涨70美分，涨幅0.76%。",
-      "url": "https://flash.jin10.com/detail/20261118034456123800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:44:56+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "226dfe6a3ad81e68",
-      "title": "美联储威廉姆斯：美联储将及时使通胀率回落至2%。",
-      "url": "https://flash.jin10.com/detail/20261118034452644800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:44:52+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b2ef668731dc748b",
-      "title": "美联储威廉姆斯：需求显然在与供给的赛跑中胜出。",
-      "url": "https://flash.jin10.com/detail/20261118034125213800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:41:25+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "52e50c05a82331dd",
-      "title": "美联储威廉姆斯：网络安全问题仍令人担忧。",
-      "url": "https://flash.jin10.com/detail/20261118034114094800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:41:14+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "002b9d53db3b872a",
-      "title": "华硕在SC26展示全栈AI基础设施，涵盖英特尔(INTC.O)和AMD(AMD.O)平台。",
-      "url": "https://flash.jin10.com/detail/20261118034109402800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:41:09+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "98501494d169f9ed",
-      "title": "美国司法部称，一名爱尔兰国民因在爱尔兰香农机场毁坏美国军方价值6000万美元的C-130H飞机而被起诉。",
-      "url": "https://flash.jin10.com/detail/20261118034029955800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:40:29+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "c7566a4df8272195",
-      "title": "美国纽约联储主席（享有FOMC永久投票权、号称“美联储三把手”）威廉姆斯：人工智能（AI）领域的融资正变得更加不透明和复杂。 还没有看到AI带来的金融稳定性风险。",
-      "url": "https://wallstreetcn.com/livenews/3201487",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:34:57+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "92ee08cc8c535cfc",
-      "title": "美国纽约联储主席（享有FOMC永久投票权、号称“美联储三把手”）威廉姆斯：2025年降息在当时是正确的做法。",
-      "url": "https://wallstreetcn.com/livenews/3201486",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:32:14+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1d43b2f5d82ca504",
-      "title": "财联社11月18日电，WTI原油期货结算价为每桶86.01美元，涨幅0.34%；布伦特原油期货结算价为每桶93.14美元，涨幅0.76%。",
-      "url": "https://www.cls.cn/detail/2537240",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:31:29+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "bf1d9b8c501ea551",
-      "title": "WTI 12月原油期货收涨0.29美元，涨幅0.34%，报86.01美元/桶。 布伦特1月原油期货收涨0.70美元，涨幅0.76%，报93.14美元/桶。 NYMEX 12月天然气期货收报3.2080美元/百万英热单位。 NYMEX 12月汽油期货收报2.5349美元/加仑，NYMEX 12月取暖油期货收报4.0475美元/加仑。",
-      "url": "https://wallstreetcn.com/livenews/3201485",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:31:07+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5b5d70e74037925d",
-      "title": "美国官员称对格什姆岛的打击属于自卫行为。（Axios）",
-      "url": "https://wallstreetcn.com/livenews/3201484",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:30:39+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "323d3a1c2cda6c33",
-      "title": "摩根大通任命Bregje de Best为新任首席财务官。",
-      "url": "https://wallstreetcn.com/livenews/3201483",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:29:55+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "eff30e5aab9d8a7e",
-      "title": "纽约联储主席：通胀“顽固地高企” 不认为当前形势需要采取重大行动",
-      "url": "https://www.cls.cn/detail/2537239",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:27:03+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f42a313f572d36cf",
-      "title": "财联社11月18日电，SpaceX表示，计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务。",
-      "url": "https://www.cls.cn/detail/2537238",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:25:45+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d6eec0ad33305a50",
-      "title": "美联储三把手威廉姆斯：当前形势不需要采取大幅政策行动",
-      "url": "https://wallstreetcn.com/livenews/3201482",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:25:17+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "6f863affe1d43601",
-      "title": "财联社11月18日电，苹果表示，iCloud账户及登录问题已解决。",
-      "url": "https://www.cls.cn/detail/2537237",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:23:55+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9cca1b8a9fbb268d",
-      "title": "美国最大电网提议改革以加快数据中心接入",
-      "url": "https://wallstreetcn.com/livenews/3201481",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:21:29+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "009b7e304698ef31",
-      "title": "财联社11月18日电，据报道，伊朗方面正“认真寻求”通过外交途径结束僵局。",
-      "url": "https://www.cls.cn/detail/2537236",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:21:06+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f6ed5b8d5707cda4",
-      "title": "美国国家安全局（NSA）：例行维护期间，系统性能一度下降。 关键任务能力仍全面正常运行。 例行维护期间，部分内部系统受到影响。",
-      "url": "https://wallstreetcn.com/livenews/3201480",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:19:49+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1ead8d0091176219",
-      "title": "财联社11月18日电，据报道，在黄仁勋辞职后，英伟达联系了其投资的3家机器人初创公司，向其保证英伟达的支持。",
-      "url": "https://www.cls.cn/detail/2537235",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:18:41+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "44ec60a5681f9eff",
-      "title": "财联社11月18日电，苹果称中断并非由网络攻击所致，正努力“尽快”恢复系统运行。",
-      "url": "https://www.cls.cn/detail/2537234",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:17:38+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9871e3da1a959bd0",
-      "title": "英伟达在黄仁勋辞职后联系了三家其投资的机器人初创公司，以重申对其的支持。",
-      "url": "https://wallstreetcn.com/livenews/3201479",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:14:24+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "fa143e42bd13f0fe",
-      "title": "苹果公司：部分用户无法使用iCloud网页应用（icloud.com）及iCloud邮件服务。",
-      "url": "https://wallstreetcn.com/livenews/3201478",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:12:55+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "69a86947e10b9fa2",
-      "title": "Salesforce正为员工设定AI预算。",
-      "url": "https://wallstreetcn.com/livenews/3201477",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:10:02+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "80968aa7d1116af1",
-      "title": "财联社11月18日电，耐克预计旗下品牌匡威将于2028年恢复增长，预计匡威营收将突破10亿美元。",
-      "url": "https://www.cls.cn/detail/2537233",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:08:48+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1c0c85e18567115b",
-      "title": "泽连斯基谈克里米亚大桥：此次袭击是乌克兰安全局及其他部门共同行动的结果。 乌克兰导弹和无人机再次打击了俄罗斯在南部的一条关键军事动脉。 我们早已告知俄罗斯，我们受够了桥梁、城市和能源基础设施遭袭。",
-      "url": "https://wallstreetcn.com/livenews/3201474",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T03:01:05+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "bbc752344aff336a",
-      "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.6663元，较周一夜盘收盘跌21点。成交量340亿美元。",
-      "url": "https://wallstreetcn.com/livenews/3201473",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:01:01+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "724eb65436310603",
-      "title": "恒生指数主连夜盘收跌032%，报23414点。 恒生科技指数主连夜盘收跌0.48%，报3732点。",
-      "url": "https://wallstreetcn.com/livenews/3201472",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T03:00:22+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
     },
     {
       "id": "f5916c6537223e1e",
@@ -710,78 +960,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T02:58:57+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy."
-    },
-    {
-      "id": "052a273e65cdd8f0",
-      "title": "美国国家航空航天局（NASA）宣布Terra卫星任务即将结束，Terra卫星将于2027年1月关闭所有航天器系统，并于12月1日停止收集数据。",
-      "url": "https://wallstreetcn.com/livenews/3201470",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T02:57:50+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "9e586d5fcd6620b4",
-      "title": "财联社11月18日电，NASA表示，Terra卫星将于12月1日停止收集数据，并将于2027年1月关闭所有航天器系统。",
-      "url": "https://www.cls.cn/detail/2537232",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:56:00+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d29012e043c96863",
-      "title": "财联社11月18日电，苹果状态页面列出音乐、App Store、AppleCare存在问题。",
-      "url": "https://www.cls.cn/detail/2537231",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:38:14+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "80eae8f2f34913e6",
-      "title": "苹果公司确认，Music、APP Store、AppleCare等服务处于宕机状态。",
-      "url": "https://wallstreetcn.com/livenews/3201469",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:37:10+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "87e2c4ee11d05374",
-      "title": "Wolfe称芯片悲观情绪可能引发标普500盈利下修",
-      "url": "https://wallstreetcn.com/livenews/3201468",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:34:20+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cb9e5f5a40d09558",
-      "title": "Ramp按700亿美元估值融资还少10亿美元。（华尔街日报）",
-      "url": "https://wallstreetcn.com/livenews/3201467",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T02:32:31+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2cf3e1ac46595ac9",
-      "title": "英国制裁8家参与以色列定居点建设的公司",
-      "url": "https://www.cls.cn/detail/2537230",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T02:30:27+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
     },
     {
       "id": "4fa78833e8141a37",
@@ -790,18 +970,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T02:27:27+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory."
-    },
-    {
-      "id": "e95f06bcf079a9ba",
-      "title": "财联社11月18日电，扎克伯格表示，Muse Wonder、Muse Spark 1.3、Muse Ember即将推出，新的Muse模型即将登陆Microsoft Foundry。",
-      "url": "https://www.cls.cn/detail/2537229",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:27:02+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
     },
     {
       "id": "6e4161a0149e2d4a",
@@ -810,18 +980,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T02:24:21+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
-    },
-    {
-      "id": "088d7c70725a6d51",
-      "title": "财联社11月18日电，微软表示，与埃森哲、Adobe、毕马威、万事达卡、沃尔沃汽车等合作，协助制定AI系统开放标准。",
-      "url": "https://www.cls.cn/detail/2537228",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:22:23+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
     },
     {
       "id": "19e6d13053833b33",
@@ -830,18 +990,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T02:20:36+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
-    },
-    {
-      "id": "591c4aad4b9cd0d5",
-      "title": "财联社11月18日电，杰富瑞将微博ADR目标价从8.80美元下调至7.10美元。",
-      "url": "https://www.cls.cn/detail/2537227",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T02:16:00+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
     },
     {
       "id": "6df3cd1195315565",
@@ -850,78 +1000,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T02:13:45+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule."
-    },
-    {
-      "id": "b72b9e8953ba16ea",
-      "title": "财联社11月18日电，据报道，微软力求推出更便宜、更专业化的AI模型。",
-      "url": "https://www.cls.cn/detail/2537226",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:13:39+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "99cb01e09eeda408",
-      "title": "财联社11月18日电，赛富时（Salesforce）与微软宣布推出CopilotForce，将Salesforce的客户上下文和销售工作流引入Microsoft Copilot。",
-      "url": "https://www.cls.cn/detail/2537225",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:09:06+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a7e7ca8b796b5751",
-      "title": "Meta：Muse现已在澳大利亚上线",
-      "url": "https://www.cls.cn/detail/2537224",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T02:03:18+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d868b53683cf96ac",
-      "title": "财联社11月18日电，在空管故障后，特朗普寻求500亿美元用于空域升级。",
-      "url": "https://www.cls.cn/detail/2537222",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T01:54:40+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5bf2af3d559ec045",
-      "title": "俄罗斯总统普京抵达深圳",
-      "url": "https://www.cls.cn/detail/2537221",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T01:53:09+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3ed2704d6c34a372",
-      "title": "OpenAI推出新的Astra AI模型",
-      "url": "https://www.cls.cn/detail/2537220",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T01:45:49+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5b56560527e12908",
-      "title": "财联社11月18日电，Anthropic在Claude平台推出测试版关联账单功能。",
-      "url": "https://www.cls.cn/detail/2537219",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-18T01:40:25+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
     },
     {
       "id": "e75ac9bc5503120b",
@@ -930,28 +1010,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T01:37:04+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\"."
-    },
-    {
-      "id": "7ff8a32d23a22e8f",
-      "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
-      "url": "https://www.cls.cn/detail/2537217",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T01:30:39+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d59a305ccf1bebd3",
-      "title": "财联社11月18日电，美元指数下跌0.17%，报103.4点；美元兑日元下跌0.1%，报159.27点。",
-      "url": "https://www.cls.cn/detail/2537216",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T01:21:34+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": ""
     },
     {
       "id": "4c41059aab1950cd",
@@ -960,28 +1020,8 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-18T01:19:57+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
-    },
-    {
-      "id": "cd623bac54324ccf",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T01:10:03+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
-    },
-    {
-      "id": "09543f7a2b137148",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-18T00:56:38+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
     },
     {
       "id": "482c0c1f1440149f",
@@ -990,7 +1030,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-18T00:02:07+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新社首尔11月17日电 (记者 金旭)针对韩国社会近期对利用人工智能(AI)技术实施考试作弊的担忧，韩国总统李在明当地时间17日表示，作弊行为严重破坏公平竞争的根基，损害社会长期积累的信任，是一种严重犯罪。"
     },
     {
@@ -1000,7 +1040,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-17T23:56:36+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新社东京11月17日电 (记者 朱晨曦)日本宇宙航空研究开发机构17日说，超期服役的“隼鸟2”号小行星探测器因4台发动机全部出现故障，不得不放弃此前的探测目标，改为飞掠探测另一天体。"
     },
     {
@@ -1010,7 +1050,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T23:56:32+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新社深圳11月17日电 (记者 刘文文 尹倩芸)17日，在深圳前海国际会议中心的大会堂，约1500把椅子整齐排列，从台前一直延伸至后区，会场内座无虚席。"
     },
     {
@@ -1020,7 +1060,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-17T23:54:15+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike."
     },
     {
@@ -1030,7 +1070,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-17T23:38:10+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
     },
     {
@@ -1040,7 +1080,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T22:35:24+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "2026年APEC工商领导人峰会今天举行，现场情况如何，来看记者发回的报道。"
     },
     {
@@ -1050,7 +1090,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-17T22:25:45+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily."
     },
     {
@@ -1060,7 +1100,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T22:19:01+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网北京11月17日电 (记者 王恩博)德勤中国可持续发展与专项鉴证业务主管合伙人胡建宇17日在北京表示，当前中国企业出海的内涵有了新变化：以前更多是产品竞争，现在拼得更多的是能力，“无论是产业布局还是供应链建设，都是能力的体现”。"
     },
     {
@@ -1070,7 +1110,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-17T22:10:48+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网11月17日电 据美国有线电视新闻网(CNN)报道，当地时间17日，美国总统特朗普在菲律宾马尼拉表示，“我期待访问中国，我们有一些十分重要的议题需要磋商。”"
     },
     {
@@ -1080,7 +1120,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T21:59:54+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网昆明11月17日电 (记者 杜潇潇)依托清洁能源优势，云南七部门近日联合印发《全面推进“电动云南”建设的实施意见(2026—2028年)》，从推广应用、服务保障、场景拓展、产业链补强四个维度出台系列举措，助力生态文明建设排头兵创建，政策有效期至2028年12月31日。"
     },
     {
@@ -1090,7 +1130,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-17T21:46:03+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网布鲁塞尔11月17日电 (记者 德永健)欧盟17日发布欧洲经济秋季展望报告，表示受商品出口强劲反弹等因素驱动，今年前三季度欧盟经济增长好于预期。"
     },
     {
@@ -1100,7 +1140,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-17T21:45:19+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网东京11月17日电 (记者 朱晨曦)据日本广播协会(NHK)报道，日本神奈川县横须贺市警方17日当场逮捕一名涉嫌酒后损坏财物的驻日美军士兵。"
     },
     {
@@ -1110,7 +1150,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-17T21:44:17+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新社深圳11月17日电 (记者 周昕)亚太经合组织(APEC)第三十三次领导人非正式会议将启，由多国青年联袂演绎的APEC主题音乐《同一个世界(One World)》受到关注。词曲作者、在深圳生活16年的韩国青年申文燮17日接受中新社专访时说，深圳不断赋予他创作的热情与灵感，期待以音乐架起文化交流之桥。"
     },
     {
@@ -1120,7 +1160,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T21:39:27+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网成都11月17日电 (记者 刘忠俊)四川首个“水风光储直柔”一体化构网型微电网17日在攀枝花市炳草岗水厂投运。过去只管供水的自来水厂，如今自己发电、自己储能，富余的电还能送回电网，从单纯的用电户变成了能给电网搭把手的能源节点。"
     },
     {
@@ -1130,7 +1170,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T21:37:53+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网重庆11月17日电(记者 周毅 贾楠)荣昌手握一批国家级的科创平台，这是当地打造具有国际影响力的畜牧科技策源地的硬核支撑。重庆市荣昌区委书记万容17日在当地召开的新闻发布会上表示，“十五五”时期，荣昌将依托这些平台进一步培育壮大畜牧新质生产力，以科技创新引领现代畜牧业迭代升级，重点干好“四件事”。"
     },
     {
@@ -1140,7 +1180,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T21:35:58+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "11月17日，京东集团发布最新业绩报告，2026年三季度，京东集团收入3,096亿元，服务消费与商品需求紧密融合，不仅进一步提升了用户体验，也激发了核心品类的增长潜能。"
     },
     {
@@ -1150,7 +1190,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T21:34:24+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网南宁11月17日电 (记者 杨陈)广西拥有1500多公里陆地海岸线、毗邻北部湾，却长期面临一个追问：沿海的区位优势，为何没有充分转化为产业优势？向海经济到底如何发展？"
     },
     {
@@ -1160,48 +1200,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-17T21:32:18+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
+      "fetched_at": "2026-11-18T07:08:00+08:00",
       "summary": "中新网南宁11月17日电 (陈秋霞)11月16日至18日，广西壮族自治区十四届人大常委会第二十八次会议在南宁召开，会议审议广西壮族自治区人大常委会调研组关于推进广西乡村全面振兴工作情况的调研报告。"
-    },
-    {
-      "id": "b8a4f87c2489d5ec",
-      "title": "中国商务部回应美发布限制远程获取先进半导体相关措施",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733735.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-17T21:23:14+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": "中新社北京11月17日电 就美国商务部发布限制远程获取先进半导体相关措施，中国商务部新闻发言人17日表示，中方对此强烈不满，坚决反对。"
-    },
-    {
-      "id": "1016a230877d2c58",
-      "title": "河北廊坊持续织密快递物流网 赋能县域特色产业发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733738.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-17T21:21:58+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": "中新网廊坊11月17日电 题：河北廊坊持续织密快递物流网 赋能县域特色产业发展"
-    },
-    {
-      "id": "8209e8dc52b34640",
-      "title": "中国推进再生资源回收体系建设 解决“扔比买难”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733728.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-17T21:20:06+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": "中新社北京11月17日电 (记者 阮煜琳)中国商务部等9部门17日公开发布《关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见》(下称“意见”)，明确加快再生资源回收体系建设，持续提升再生资源回收便利性、规范性，切实解决“扔比买难”等问题。"
-    },
-    {
-      "id": "e76a20a6706e67ed",
-      "title": "IMF上调韩国今明两年经济增长预期",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733729.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-11-17T21:18:40+08:00",
-      "fetched_at": "2026-11-18T04:48:44+08:00",
-      "summary": "中新社首尔11月17日电 (金旭 林珺)据韩国财政经济部17日消息，国际货币基金组织(IMF)当天发布相关报告显示，受人工智能(AI)产业发展带动，韩国半导体出口额创历史新高，预计2026年经济增长率将接近4%，2027年经济增长率也将保持在3%以上。"
     }
   ],
   "sources": [
@@ -1209,7 +1209,7 @@
       "name": "财联社",
       "url": "https://newsnow.busiyi.world/api/s?id=cls-telegraph",
       "via": "NewsNow",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1218,7 +1218,7 @@
       "name": "华尔街见闻",
       "url": "https://newsnow.busiyi.world/api/s?id=wallstreetcn-quick",
       "via": "NewsNow",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1227,16 +1227,16 @@
       "name": "金十数据",
       "url": "https://newsnow.busiyi.world/api/s?id=jin10",
       "via": "NewsNow",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
-      "count": 25,
+      "count": 26,
       "excluded_unknown_time": 0
     },
     {
       "name": "中新网财经",
       "url": "https://www.chinanews.com.cn/rss/finance.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1245,7 +1245,7 @@
       "name": "中新网国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1254,9 +1254,9 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
-      "count": 26,
+      "count": 24,
       "excluded_unknown_time": 0
     }
   ],
@@ -1267,7 +1267,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/000001.SS/",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
       "price": 3584.579,
       "change_pct": -0.4993953765781489,
@@ -1368,7 +1368,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EHSI/",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
       "price": 23508.17,
       "change_pct": -1.0342321299040003,
@@ -1465,12 +1465,12 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
-      "price": 24232.797,
-      "change_pct": -1.130010119533864,
+      "price": 24328.383,
+      "change_pct": -0.740018536939635,
       "currency": "USD",
-      "quoted_at": "2026-11-18T04:48:43+08:00",
+      "quoted_at": "2026-11-18T06:15:59+08:00",
       "history": [
         {
           "time": "2026-10-19T21:30:00+08:00",
@@ -1558,10 +1558,10 @@
         },
         {
           "time": "2026-11-17T22:30:00+08:00",
-          "close": 24232.796875
+          "close": 24328.3828125
         }
       ],
-      "five_day_pct": -3.3235318350673726,
+      "five_day_pct": -2.9421925746421995,
       "note": "延迟报价；非交易时段为最近报价。"
     },
     {
@@ -1570,12 +1570,12 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/GC%3DF/",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
-      "price": 3853.1,
-      "change_pct": 0.0025953802232026035,
+      "price": 3851.9,
+      "change_pct": -0.02854918245522864,
       "currency": "USD",
-      "quoted_at": "2026-11-18T04:38:44+08:00",
+      "quoted_at": "2026-11-18T05:59:59+08:00",
       "history": [
         {
           "time": "2026-10-19T12:00:00+08:00",
@@ -1663,10 +1663,10 @@
         },
         {
           "time": "2026-11-17T13:00:00+08:00",
-          "close": 3853.10009765625
+          "close": 3851.89990234375
         }
       ],
-      "five_day_pct": -4.394321704072746,
+      "five_day_pct": -4.424096901694174,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     },
     {
@@ -1675,12 +1675,12 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/SI%3DF/",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
-      "price": 47.185,
-      "change_pct": 0.8549752140482703,
+      "price": 47.29,
+      "change_pct": 1.0794061221223394,
       "currency": "USD",
-      "quoted_at": "2026-11-18T04:38:17+08:00",
+      "quoted_at": "2026-11-18T05:59:59+08:00",
       "history": [
         {
           "time": "2026-10-19T12:00:00+08:00",
@@ -1768,10 +1768,10 @@
         },
         {
           "time": "2026-11-17T13:00:00+08:00",
-          "close": 47.185001373291016
+          "close": 47.290000915527344
         }
       ],
-      "five_day_pct": -7.663258265394857,
+      "five_day_pct": -7.457782841380157,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     },
     {
@@ -1780,12 +1780,12 @@
       "unit": "美元/桶",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CL%3DF/",
-      "checked_at": "2026-11-18T04:48:44+08:00",
+      "checked_at": "2026-11-18T07:08:00+08:00",
       "status": "ok",
-      "price": 85.74,
-      "change_pct": 0.023330353490513822,
+      "price": 85.61,
+      "change_pct": -0.12832620057937616,
       "currency": "USD",
-      "quoted_at": "2026-11-18T04:38:39+08:00",
+      "quoted_at": "2026-11-18T05:59:59+08:00",
       "history": [
         {
           "time": "2026-10-19T12:00:00+08:00",
@@ -1873,10 +1873,10 @@
         },
         {
           "time": "2026-11-17T13:00:00+08:00",
-          "close": 85.73999786376953
+          "close": 85.61000061035156
         }
       ],
-      "five_day_pct": -0.3486760952291057,
+      "five_day_pct": -0.4997686087306219,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     }
   ],
