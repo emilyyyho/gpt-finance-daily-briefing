@@ -1,8 +1,1028 @@
 {
-  "generated_at": "2026-11-23T11:58:48+08:00",
+  "generated_at": "2026-11-23T15:25:40+08:00",
   "window_hours": 24,
   "refresh_minutes": 30,
   "news": [
+    {
+      "id": "dec8c06339682c28",
+      "title": "乌克兰总统泽连斯基：俄罗斯干货船“MV Angara”号遭袭。",
+      "url": "https://flash.jin10.com/detail/20261123152010925800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T15:20:10+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3ef4dfe752f9bec2",
+      "title": "阿里云：AgentLoop记忆库、经验库及优化任务功能将于12月7日起收费",
+      "url": "https://flash.jin10.com/detail/20261123152007720800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:20:07+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "94b1f0060bfb3c93",
+      "title": "东方港湾风控被质疑 但斌回应",
+      "url": "https://flash.jin10.com/detail/20261123151955121800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:19:55+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1944d019f5760006",
+      "title": "金十图示：2026年11月23日（周一）上海金午盘价为779.52元/克，较国际金价（779.08元/克）高0.44元/克。",
+      "url": "https://flash.jin10.com/detail/20261123151928660800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T15:19:28+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f5bdfc7838d98fb0",
+      "title": "乌克兰总统泽连斯基：乌克兰军方在利比亚班加西击沉了俄罗斯“Merkury”号轻型护卫舰。",
+      "url": "https://flash.jin10.com/detail/20261123151828284800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T15:18:28+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f034025db94ed1ad",
+      "title": "上周111家公募机构调研超410次 覆盖94只个股",
+      "url": "https://www.cls.cn/detail/2541639",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:16:49+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "37e429ef956fbb89",
+      "title": "国债期货午盘收盘",
+      "url": "https://flash.jin10.com/detail/20261123151634263800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:16:34+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "af9d4486c5adfcb5",
+      "title": "国债期货收盘多数下跌 30年期主力合约跌0.25%",
+      "url": "https://www.cls.cn/detail/2541638",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:16:28+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7ba7ac8dbd90c2b8",
+      "title": "机构：在拉美四大市场 上半年Netflix日均观看时长超YouTube",
+      "url": "https://www.cls.cn/detail/2541637",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:16:16+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "fa52e8f7a848edd8",
+      "title": "11月23日涨停分析",
+      "url": "https://www.cls.cn/detail/2541636",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:16:12+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a56342a350f4be74",
+      "title": "现货白银涨幅扩大至4%",
+      "url": "https://www.cls.cn/detail/2541635",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:15:45+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0bc88acff6353034",
+      "title": "资金近端搏反弹远端押深跌，黄金大跌过后期权开展错位埋伏",
+      "url": "https://flash.jin10.com/detail/20261123151544663800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:15:44+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b158a7ef2334b02c",
+      "title": "中国台湾证交所：明日起台股信用交易担保维持率最低标准由130%降至120%",
+      "url": "https://flash.jin10.com/detail/20261123151537096800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:15:37+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2db342fc3e1ec09e",
+      "title": "金十数据整理：A股每日市场要闻回顾（2026-11-23）",
+      "url": "https://flash.jin10.com/detail/20261123151502870800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:15:02+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "bdb01e2a973761d2",
+      "title": "《教材管理条例（征求意见稿）》面向社会公开征求意见",
+      "url": "https://www.cls.cn/detail/2541632",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:14:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "00f0eaeed47bcca3",
+      "title": "以色列财政部长：哈马斯必须最终被消灭。哈马斯领导人能在卡塔尔和土耳其自由活动是不可接受的。没有哪个国家能像以色列这样，在进行战争时如此审慎，既顾及敌方平民，还向他们提供人道主义援助。这绝对是独一无二的。",
+      "url": "https://flash.jin10.com/detail/20261123151306802800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T15:13:06+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e6185d43820e59a2",
+      "title": "财联社11月23日电，印尼央行表示，将持续在NDF、即期外汇市场适度干预，并在二级市场购入政府债券，保障市场有序运行，推动印尼盾汇率维持稳定、贴合基本面。",
+      "url": "https://www.cls.cn/detail/2541628",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:11:22+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ca2372d9ab7539a0",
+      "title": "标普500指数期货涨逾2%、纳指期货上涨2.8%、道指期货上涨1.5%。",
+      "url": "https://flash.jin10.com/detail/20261123151122426800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:11:22+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "820c021f1ac2b23c",
+      "title": "金十图示：2026年11月23日（周一）投机情绪指数",
+      "url": "https://flash.jin10.com/detail/20261123151100889800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:11:00+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "f8979d7a6f5882c7",
+      "title": "COMEX白银仓单纹丝不动，34万盎司净流出全砸向Eligible｜白银库存日报上新",
+      "url": "https://flash.jin10.com/detail/20261123151053078800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:10:53+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8470c3f680107c61",
+      "title": "伯恩斯坦：消费电子产品出货量可能受高企的存储芯片价格拖累",
+      "url": "https://flash.jin10.com/detail/20261123151046225800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:10:46+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d379162cb3783a86",
+      "title": "大摩：下调腾讯控股目标价至480港元 维持“增持”评级",
+      "url": "https://www.cls.cn/detail/2541627",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:10:04+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "29b5d57a5ea21059",
+      "title": "ETF两市成交额5871.68亿 同比增加391.62亿",
+      "url": "https://www.cls.cn/detail/2541600",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:08:15+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d6d7335362f99c04",
+      "title": "ETF收盘：机器人ETF大成领涨9.72% 国企ETF平安领跌4.15%",
+      "url": "https://www.cls.cn/detail/2541601",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:08:09+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5637170f65a1ea27",
+      "title": "荷兰外交大臣贝伦德森将访华",
+      "url": "https://wallstreetcn.com/livenews/3204001",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:07:58+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5d624058f56736ad",
+      "title": "财联社11月23日电，据上海航运交易所数据，截至2026年11月23日，上海出口集装箱结算运价指数（欧洲航线）报2201.88点，与上期相比跌3.8%。",
+      "url": "https://www.cls.cn/detail/2541621",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T15:07:09+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d7aa659752aad78e",
+      "title": "股市资金流向图：今日沪深两市主力资金净流入269.63亿元，占比1.74%；大单资金净流入5.43亿元，占比0.03%；小单资金净流出47.61亿元，占比0.31%。",
+      "url": "https://flash.jin10.com/detail/20261123150702063800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:07:02+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "91d012a18f2bea45",
+      "title": "A股收评：大奇迹日！创业板指低开高走收涨3.08%，人形机器人板块大涨",
+      "url": "https://flash.jin10.com/detail/20261123150602482800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:06:02+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "67b88662b0ad0998",
+      "title": "财联社11月23日电，印度11月服务业PMI初值55.3，预期56，前值55.8。印度11月制造业PMI初值56，预期54.5，前值54.7。印度11月综合PMI初值56.3，预期56.3，前值56.2。",
+      "url": "https://www.cls.cn/detail/2541616",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:05:09+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "6694422cf7afa200",
+      "title": "中国台湾证券交易所：将最低保证金维持比例从130%调整至120%，该措施将于11月24日生效。将要证券商全力配合，以减轻投资者的缴款压力。相关措施旨在适度缓解市场剧烈波动期间的短期集中抛售压力。",
+      "url": "https://flash.jin10.com/detail/20261123150444382800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:04:44+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "248837736247bf13",
+      "title": "特变电工集团更名为中丝路能源装备集团",
+      "url": "https://www.cls.cn/detail/2541613",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:04:37+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "768223a9101e42ed",
+      "title": "挂单报告：国际金留意一处上行押注 欧美警惕下方空单埋伏",
+      "url": "https://flash.jin10.com/detail/20261123150419969800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:04:19+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "55a4d95f122fd3c0",
+      "title": "农发行发行3年期债券，规模80亿元，发行利率1.2355%，预期1.2100%，投标倍数2.36倍，边际倍数1.05倍； 农发行发行10年期债券，规模50亿元，发行利率1.6553%，预期1.6700%，投标倍数6.70倍，边际倍数1.24倍。",
+      "url": "https://wallstreetcn.com/livenews/3203999",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:04:00+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5a2b71feeccf4209",
+      "title": "金十图示：2026年11月23日（周一）富时中国A50指数成分股今日收盘行情一览：通信设备板块逆市大涨，半导体、保险及白酒板块表现疲弱。",
+      "url": "https://flash.jin10.com/detail/20261123150354566800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:03:54+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d0c0a7f7561540ed",
+      "title": "科技部原重大专项司司长刘敏接受纪律审查和监察调查",
+      "url": "https://www.cls.cn/detail/2541605",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:02:42+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "897e3a2798551894",
+      "title": "中国上证综指11月23日（周一）收盘上涨5.16点，涨幅：0.15%，报3538.95点；中国深证成指11月23日（周一）收盘上涨197.98点，涨幅：1.93%，报10454.37点；中国沪深300指数11月23日（周一）收盘上涨3.73点，涨幅：0.09%，报3958.29点；中国创业板指数11月23日（周一）收盘上涨68.08点，涨幅：3.08%，报2280.2点；中国科创50指数11月23日（周一）收盘下跌3.2点，跌幅：0.26%，报1227.89点。",
+      "url": "https://flash.jin10.com/detail/20261123150226779800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:02:26+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cf7b193fbacadd09",
+      "title": "收评：创业板指放量涨超3% 全市场超百股涨停",
+      "url": "https://www.cls.cn/detail/2541599",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:02:24+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7b4c648b9b5dfa1f",
+      "title": "股指期货午盘收盘",
+      "url": "https://flash.jin10.com/detail/20261123150221131800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:02:21+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "ffd02834d94e448f",
+      "title": "国内商品期货多数收跌 生猪涨停",
+      "url": "https://www.cls.cn/detail/2541603",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:02:13+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0eff1c73db2e422f",
+      "title": "沪深两市今日成交额合计15528.8亿元，中际旭创成交额居首",
+      "url": "https://flash.jin10.com/detail/20261123150150092800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:01:50+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "42756f149f18c4ec",
+      "title": "创业板指低开高走涨超3%，全市场上涨个股超4600只",
+      "url": "https://wallstreetcn.com/livenews/3203998",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:01:49+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "76dc4ef358138785",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T15:01:31+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\"."
+    },
+    {
+      "id": "29c5df3470ff8821",
+      "title": "首批主动ETF上市首日表现平稳 2只ETF收涨超1%",
+      "url": "https://www.cls.cn/detail/2541598",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:01:18+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0022d91f75fc4944",
+      "title": "上证指数收报3538.95点，涨0.15%。 深证成指收报10454.37点，涨1.93%。 创业板指收报2280.20点，涨3.08%。 沪深300收报3958.29点，涨0.09%。 科创50收报1227.89点，跌0.26%。 中证500收报6128.99点，涨2.05%。 中证1000收报5812.32点，涨2.90%。",
+      "url": "https://wallstreetcn.com/livenews/3203997",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:01:01+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c50def511c83935f",
+      "title": "商品期货收盘，生猪主力合约涨停，苹果涨超6%，红枣涨超3%，集运欧线、钯涨超2%。BR橡胶、工业硅跌超4%，液化气、聚丙烯、丙烯跌超3%。",
+      "url": "https://wallstreetcn.com/livenews/3203996",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:00:52+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1216de9ad92238ef",
+      "title": "韩国股市收跌逾3% 政府稳市承诺未能缓解科技股担忧",
+      "url": "https://flash.jin10.com/detail/20261123150038347800",
+      "source": "金十数据",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T15:00:38+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8d4c6938fad7e79c",
+      "title": "午盘收盘，国内期货主力合约跌多涨少，合成橡胶跌近5%，工业硅跌超4%，液化石油气（LPG）、聚丙烯月均、丙烯跌超3%，聚丙烯跌近3%，苯乙烯（EB）、玻璃跌超2%。涨幅方面，苹果涨超6%，生猪触及涨停，红枣涨近4%，集运欧线涨超2%，钯涨近2%，豆粕、菜籽涨超1%，沪铝涨近1%。",
+      "url": "https://flash.jin10.com/detail/20261123150009753800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T15:00:09+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "1e43496197ae4040",
+      "title": "中国台湾：将担保维持率最低标准从130%调降⾄120%。 新担保维持率标准自11月24日实施。",
+      "url": "https://wallstreetcn.com/livenews/3203993",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:59:49+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "542a9bd90b717fd1",
+      "title": "海关总署副署长吴海平会见坦桑尼亚税务总局局长姆文达",
+      "url": "https://flash.jin10.com/detail/20261123145941995800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:59:41+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5e07771eb0f0f58c",
+      "title": "法国财政部长：政府2027年经济增长1%的预测面临下调风险。",
+      "url": "https://flash.jin10.com/detail/20261123145908316800",
+      "source": "金十数据",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:59:08+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3ae72c054a28f3f7",
+      "title": "刘冬顺出席第二届澜湄水资源合作部长级会议并访问越南",
+      "url": "https://wallstreetcn.com/livenews/3203992",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:57:51+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e78acc76e19ce9e7",
+      "title": "宇树科技，涨停",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736429.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:54:22+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "23日午后，沪指一度翻红，深成指、创业板指持续上涨。盘面上，算力硬件、机器人、汽车零部件等板块涨幅居前。"
+    },
+    {
+      "id": "b9e07e9b87da294a",
+      "title": "财联社11月23日电，花旗研究将老铺黄金目标价从400港元下调至310港元。",
+      "url": "https://www.cls.cn/detail/2541580",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:54:18+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "8a3739a7c2c3a235",
+      "title": "以色列组阁谈判未取得突破 总理人选仍存分歧",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736389.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:54:12+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新社北京11月23日电 综合消息：以色列看守政府总理内塔尼亚胡领导的利库德集团与正直党当地时间22日继续组阁谈判。双方因总理人选、兵役政策、入阁党派等分歧仍未达成协议。"
+    },
+    {
+      "id": "19e85e91cfcdaedb",
+      "title": "摩根士丹利策略师称美股有望反弹 建议投资者增加风险敞口",
+      "url": "https://wallstreetcn.com/livenews/3203989",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:52:55+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "0c56934fbabe3e9a",
+      "title": "宁波发行15年期收费公路专项地方债，规模4.2500亿元，发行利率1.8800%，边际倍数1.25倍，倍数预期1.88； 宁波发行10年期其他专项地方债，规模2.3700亿元，发行利率1.6000%，边际倍数1.90倍，倍数预期1.60； 宁波发行20年期其他专项地方债，规模19.9700亿元，发行利率2.0900%，边际倍数2.23倍，倍数预期2.08； 宁波发行30年期其他专项地方债，规模13.4100亿元，发行利率2.1700%，边际倍数1.22倍，倍数预期2.15； ",
+      "url": "https://wallstreetcn.com/livenews/3203988",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:52:01+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "60e5a772ce967231",
+      "title": "60余部短片亮相“天才发现计划”短片展",
+      "url": "https://wallstreetcn.com/livenews/3203987",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:51:35+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "fc0d468ad0103c11",
+      "title": "摩根大通：亚洲股市投资者持仓降至历史低位 市场有望迎来大幅反弹",
+      "url": "https://www.cls.cn/detail/2541572",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:48:31+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "a8740df8c47a6f23",
+      "title": "技术系统故障频发 美国情报总监忙打“预防针”",
+      "url": "https://wallstreetcn.com/livenews/3203986",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:46:06+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "66f0bc871200664e",
+      "title": "摩根士丹利：市场“恐慌抛售”之后股市有望反弹",
+      "url": "https://www.cls.cn/detail/2541567",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:44:02+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "7f5c2dc1c37af6e1",
+      "title": "2026年我国冰雪装备规模有望突破千亿元",
+      "url": "https://www.cls.cn/detail/2541566",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:43:40+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c48a35962a61bc40",
+      "title": "世界无线局域网应用发展联盟获ISO/IEC认可 成为A类联络组织",
+      "url": "https://www.cls.cn/detail/2541565",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:43:16+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "edb0c595d5cdf309",
+      "title": "财联社11月23日电，生猪主力合约触及涨停，涨幅6%，报10060元/吨。",
+      "url": "https://www.cls.cn/detail/2541562",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:42:27+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4b2a5dfb7c38862d",
+      "title": "生猪主力合约触及涨停，涨幅6%，报10060元/吨。",
+      "url": "https://wallstreetcn.com/livenews/3203985",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:42:14+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "822c3df9175fd030",
+      "title": "【电报解读】蚂蚁百灵医疗健康大模型宣布开源，机构称医疗AI正迈向临床价值验证与规模化落地，这家公司与联合推出蚂蚁医疗大模型一体机",
+      "url": "https://www.cls.cn/detail/2541558",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:40:45+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "234311cf9befa67a",
+      "title": "信息窗口乱跳转、无法关闭 工信部通报23款APP及SDK",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736373.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:40:37+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新网11月23日电 据“工信微报”微信公众号消息，根据中央网信办、工业和信息化部、公安部联合发布的《关于开展2026年个人信息保护系列专项行动的公告》，依据《个人信息保护法》《网络安全法》《电信条例》《电信和互联网用户个人信息保护规定》等法律法规，工业和信息化部对APP、SDK商业信息弹窗问题开展专项治理。近期，经组织第三方检测机构进行抽查，共发现23款APP及SDK存在信息窗口乱跳转、信息窗口无法关闭等侵害用户权益行为，现予以通报。"
+    },
+    {
+      "id": "30031d04f9a881e7",
+      "title": "A股猪肉板块震荡拉升，金新农涨停，邦基科技涨超8%，大禹生物、罗牛山、天邦食品、新五丰、东瑞股份跟涨。",
+      "url": "https://wallstreetcn.com/livenews/3203984",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:39:03+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "5c11baf70d48f446",
+      "title": "猪肉概念异动拉升 金新农7天4板",
+      "url": "https://www.cls.cn/detail/2541560",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:38:41+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "21cbcb046e92a17e",
+      "title": "Var Energi以44.25亿美元收购ConocoPhillips的挪威资产。（彭博）",
+      "url": "https://wallstreetcn.com/livenews/3203982",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:38:22+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "e153d03a9ae12f9b",
+      "title": "辽宁省财政精准赋能 筑牢公共卫生应急屏障",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736418.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:37:07+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新网沈阳11月23日电 (记者 李晛)记者23日自辽宁省财政厅获悉，为落实《“健康中国2030”规划纲要》《突发事件紧急医学救援“十四五”规划》部署要求，辽宁省财政立足公共卫生安全保障职能，统筹资金、精准发力，全周期支持应急救援队伍建设运行，持续夯实辽宁省应急救援处置根基。"
+    },
+    {
+      "id": "1d6c0de06faa0211",
+      "title": "荣耀700系列正式发布",
+      "url": "https://wallstreetcn.com/livenews/3203981",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:35:52+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d7545ab3a7dd29ff",
+      "title": "财联社11月23日电，VAR ENERGI拟以44.25亿美元收购康菲公司挪威的资产。",
+      "url": "https://www.cls.cn/detail/2541559",
+      "source": "财联社",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:35:06+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "04389c2752a133f6",
+      "title": "也门胡塞武装称遭沙特空袭致2死11伤",
+      "url": "https://wallstreetcn.com/livenews/3203977",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:33:31+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "cab34efbdd5f43f1",
+      "title": "俄官员：下一轮俄美乌三方谈判日期尚未确定",
+      "url": "https://www.cls.cn/detail/2541557",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:32:26+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "dc2e5766f3ffe606",
+      "title": "韩国KOSPI指数收跌3.32%，三星电子跌超3%，SK海力士跌超2.5%。",
+      "url": "https://wallstreetcn.com/livenews/3203976",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:32:01+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "c4af939965ebdf3d",
+      "title": "11月23日全国农产品批发市场猪肉平均价格为14.84元/公斤 比上周五下降0.4%",
+      "url": "https://www.cls.cn/detail/2541556",
+      "source": "财联社",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:31:42+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b48de1e4fd18a69f",
+      "title": "湖南江永香柚迎丰收 智能分拣赋能优果优价",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736415.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:31:39+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新网永州11月23日电 (唐小晴 田海忠 谢文彬)初冬时节，湖南省江永县粗石江镇的香柚果园硕果盈枝、丰收在望。作为江永香柚核心产区，当地连片柚林长势喜人，饱满圆润的香柚挂满枝头。果农们趁着晴好天气穿梭林间，有序开展采摘、装筐、转运工作，一派繁忙丰收景象。"
+    },
+    {
+      "id": "08cea3dec3a103a0",
+      "title": "信息窗口乱跳转、无法关闭 多款App被通报",
+      "url": "https://wallstreetcn.com/livenews/3203974",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:30:37+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4d02d017752eef9a",
+      "title": "网传月风私募产品清盘，知情人士回应：消息不实，产品正常运作",
+      "url": "https://wallstreetcn.com/livenews/3203973",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:27:19+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "28c899ae4b1662cd",
+      "title": "中韩半导体ETF华泰柏瑞刷新历史成交次高记录",
+      "url": "https://wallstreetcn.com/livenews/3203972",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:26:01+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d86fbe9d0596e8fe",
+      "title": "日本报告本轮禽流感季第三起高致病性禽流感疫情",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736419.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:22:34+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新网11月23日电 据日本时事通讯社报道，日本爱知县政府23日通报，该县丰桥市一处养鸡场确认发生高致病性禽流感疫情，这是日本本轮禽流感流行季确认的第三起疫情。"
+    },
+    {
+      "id": "3ad3250124ca52ec",
+      "title": "创业板ETF易方达（159915）、科创50ETF华夏（58800）成交额双双突破100亿元，此外，中证2000ETF华泰柏瑞（563300）成交额12.5亿较上一交易日全天放量50%。",
+      "url": "https://wallstreetcn.com/livenews/3203971",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:21:43+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b2b33ea6e2b0738f",
+      "title": "SK集团会长崔泰源在离婚案中寻求法院建议的和解方案，在财产分割案中提出支付全额9440亿韩元。（韩联社）",
+      "url": "https://wallstreetcn.com/livenews/3203970",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:21:36+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "72561cc55cdecbe1",
+      "title": "美国达美航空超2000个航班因系统故障延误或取消",
+      "url": "https://wallstreetcn.com/livenews/3203969",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:19:01+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "3727452220171255",
+      "title": "美国天然气期货日内跌幅扩大至5%。",
+      "url": "https://wallstreetcn.com/livenews/3203968",
+      "source": "华尔街见闻",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T14:18:53+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "b8758f25ae97ff18",
+      "title": "日媒：中国新车份额在全球39个市场超越日本",
+      "url": "https://wallstreetcn.com/livenews/3203967",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:18:01+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4a9c03f2af5c1a65",
+      "title": "A股福建本地股异动拉升，海峡创新、路桥信息涨超10%，平潭发展、福建水泥、厦门信达等纷纷冲高。",
+      "url": "https://wallstreetcn.com/livenews/3203966",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:17:35+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "4349092ddcc95ce7",
+      "title": "我国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项",
+      "url": "https://wallstreetcn.com/livenews/3203964",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:16:53+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "2967dfa36c6fdf4b",
+      "title": "我国明确临床医师可附条件注册康复医学专业执业范围",
+      "url": "https://wallstreetcn.com/livenews/3203963",
+      "source": "华尔街见闻",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:15:54+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": ""
+    },
+    {
+      "id": "d79adedebd5b62ff",
+      "title": "呼伦贝尔推动冬季文旅与绿色农畜产品对接粤港澳大湾区市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736397.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T14:08:24+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新网广州11月23日电 (记者 程景伟)“粤过山海 呼约雪原”2026呼伦贝尔冬季文旅与绿色农畜产品粤港澳大湾区推介会22日在广州举办。"
+    },
+    {
+      "id": "6bc7b037eb59d40a",
+      "title": "史上“拖堂”最久COP31闭幕：共识难产，考题后移",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736366.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T13:43:34+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新社土耳其安塔利亚11月23日电 (记者 陈溯)当地时间22日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)在延时两天后落下帷幕，但未能就最终政治决定达成共识，即未能形成一份各缔约方共同认可的整体政治成果。反复修改的文本、一再推迟的闭幕全体会议，最终在各方此起彼伏的“失望”声中收场。"
+    },
+    {
+      "id": "e3b9459749a59386",
+      "title": "澳大利亚拟维持处方药最高自付额",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736371.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T13:43:22+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新社悉尼11月23日电 (记者 薄雯雯)澳大利亚总理阿尔巴尼斯23日宣布，政府拟将药品福利计划(PBS)所列药品的一般患者每张处方最高自付额维持在25澳元，直至2030年，以减轻民众购药负担。政府将推动立法落实这一措施。"
+    },
+    {
+      "id": "f27dcfea090881fe",
+      "title": "售价31.98万-42.98万元，家庭智慧旗舰MPV享界V8正式上市，为家而生",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736378.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T13:37:14+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "2026年11月20日，鸿蒙智行享界V8及星芒品牌发布会在北京举办，享界V8正式上市，上市售价31.98万-42.98万元，提供增程、纯电双动力多版本车型，即刻下定可享至高93000元购车权益，上市即开启交付。"
+    },
+    {
+      "id": "4d2dfd34c10fd72a",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T13:34:39+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+    },
+    {
+      "id": "88ba4b4797cf6601",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T13:33:17+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building."
+    },
+    {
+      "id": "d344bffbd8bb943b",
+      "title": "美国死刑执行再出意外：耗时超一小时，行刑人员费力找静脉，囚犯痛苦呻吟",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736382.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T13:27:03+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新网11月23日电 综合美媒近日报道，美国得克萨斯州19日对雷纳尔多·丹尼斯执行死刑，整个过程持续一个多小时。期间监狱工作人员费尽周折才找到合适的静脉，注射致命剂量的戊巴比妥。"
+    },
+    {
+      "id": "98d82019c9caa9d8",
+      "title": "“百害而无一利” 日本各界要求政府坚守“无核三原则”",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736377.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T13:23:05+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新网11月23日电 日本政府考虑修订《国家安保战略》时写入“无核三原则”例外情况，或允许在紧急情况下将核武器运进日本。此举持续引发日本各界强烈担忧和反对。不少评论直指高市政府这一动向 “荒谬至极”“有百害而无一利”，日本各界呼吁坚守“无核三原则”。"
+    },
+    {
+      "id": "7e2555acc90e02c2",
+      "title": "129万元一支的抗癌药进医保，怎么做到的？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736376.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T13:15:27+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "近日，2026年国家医保药品目录正式公布。一项备受关注的变化是，曾经定价129万元/支的一种抗癌药注射液，首次进入国家基本医保目录。"
+    },
+    {
+      "id": "e4dc3fa8f4ea0ce6",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T13:15:06+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
+    },
+    {
+      "id": "b49158ad40faa7a2",
+      "title": "金价十连跌 抢金潮再现",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736374.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T13:12:17+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "连续十个交易日价格回调，这一轮金价变动正在搅动2026年末的黄金消费市场。随着伦敦现货黄金失守3600美元/盎司，消费市场迎来小高潮。"
+    },
+    {
+      "id": "70c7da064d12eb78",
+      "title": "从“拉人来”到“接消费” 入境游迈向增量期",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736372.shtml",
+      "source": "中新网财经",
+      "category": "中国财经",
+      "published_at": "2026-11-23T13:10:16+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "入境游正在从“恢复性增长”走向“消费增量”。近日，在2026携程集团全球合作伙伴峰会上，携程集团CEO孙洁分享的一组数据勾勒出入境游市场新变化：2026年入境游客人均消费同比增长32%，入境酒店订单间夜均价约为国内订单的1.74倍。入境游的增长空间不仅在于“更多人来中国”，更在于“让更多地方参与国际旅游消费”。如今，入境游客已不再局限于高知名度城市，而是愿意向小众、具有鲜明旅游资源的目的地探索。免签红利之下，行业需要回答的问题已从“如何把人拉来”，转向“如何让人多停留、多消费，让更多城市和商家接得住”。尽管入境游市场仍面临一些信息获取、支付购票等痛点，但旅游商家正通过推出多语言商品信息、入境游"
+    },
+    {
+      "id": "9d17c2be5d3c0e5c",
+      "title": "黎巴嫩总理和教育部长谴责以军闯入黎学校拍摄军事宣传视频",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736364.shtml",
+      "source": "中新网国际",
+      "category": "世界要闻",
+      "published_at": "2026-11-23T12:19:22+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
+      "summary": "中新网11月23日电 综合外媒报道，黎巴嫩总理萨拉姆和黎巴嫩教育部长里玛·卡拉米22日分别发表声明，谴责以色列军队闯入黎南部村庄代贝尔的一所公立学校并拍摄宣传视频。"
+    },
     {
       "id": "fadf84221ddab8cd",
       "title": "江西赣南红土记：金融活水润出产业新芽",
@@ -10,7 +1030,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T11:52:18+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "中新网赣州11月23日电(付丽玲)初冬赣南，丘陵连绵，盆地河谷交错，晚稻收割完毕，脐橙进入采摘季，农户赶在寒潮来临前给大棚覆膜保温……在这片红色土地上，不同领域的创业者依托普惠金融托举，扎根乡土稳步发展。"
     },
     {
@@ -20,7 +1040,7 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-23T11:50:24+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "中新网11月23日电 据朝中社11月23日报道，朝鲜劳动党总书记、国务委员长金正恩当地时间22日上午在朝鲜劳动党中央委员会本部大楼接受印度尼西亚、瑞典、越南、俄罗斯、巴西、捷克、印度、菲律宾、泰国和孟加拉国驻朝新任大使呈递的国书。金正恩在接受各国大使的国书后，分别同他们合影。"
     },
     {
@@ -30,378 +1050,8 @@
       "source": "中新网国际",
       "category": "世界要闻",
       "published_at": "2026-11-23T11:42:28+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "中新社北京11月23日电 综合消息：乌克兰总统泽连斯基22日称，本周乌克兰多地遭到俄军袭击，美国在“爱国者”导弹项目上的拖延令人费解。同日，乌国防部称，乌军在一周内袭击了俄罗斯8处石油基础设施。"
-    },
-    {
-      "id": "e47945ab76dcb7f9",
-      "title": "蚂蚁集团CEO韩歆毅：AI促进健康蕴含巨大需求空间",
-      "url": "https://flash.jin10.com/detail/20261123114040258800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:40:40+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "27278c3ae05835be",
-      "title": "野村证券：将网易(NTES.O)目标价从155.00美元下调至140.00美元。",
-      "url": "https://flash.jin10.com/detail/20261123113633696800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T11:36:33+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7d062afd6feef756",
-      "title": "A股午评：创业板指收涨1.22%，人形机器人板块掀涨停潮",
-      "url": "https://flash.jin10.com/detail/20261123113632993800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:36:32+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "4a746bfc5ce99c1c",
-      "title": "地球系统智能科研平台“ZHU·GE”推出",
-      "url": "https://wallstreetcn.com/livenews/3203922",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:33:58+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f54eb094c3b8098c",
-      "title": "铜价多空争夺激烈，，欧洲交易时段恐再掀波澜",
-      "url": "https://flash.jin10.com/detail/20261123113357861800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T11:33:57+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f765a8e7765e4411",
-      "title": "金十图示：2026年11月23日（周一）富时中国A50指数成分股午盘收盘行情一览：各板块涨跌不一，通信设备板块表现强势，天孚通信、新易盛分别涨超9%和8%，半导体、保险及银行板块多数下跌。",
-      "url": "https://flash.jin10.com/detail/20261123113332056800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:33:32+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a092b47ece1ad98e",
-      "title": "重点省份养殖企业生猪计划出栏完成度合计为74.66%",
-      "url": "https://flash.jin10.com/detail/20261123113248608800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:32:48+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e8cd7cc79c953de9",
-      "title": "美元走强偏离利率优势框架，风险偏好与流动性需求权重上升",
-      "url": "https://flash.jin10.com/detail/20261123113135307800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T11:31:35+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a0b9e860e7ea2aa0",
-      "title": "股指期货早盘收盘",
-      "url": "https://flash.jin10.com/detail/20261123113113087800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:31:13+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e45b8f8540bdacbb",
-      "title": "国债期货早盘收盘",
-      "url": "https://flash.jin10.com/detail/20261123113107669800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:31:07+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3aa947716438a6a7",
-      "title": "上证指数早盘收报3499.91点，跌0.96%。 深证成指早盘收报10280.58点，涨0.24%。 创业板指早盘收报2239.11点，涨1.22%。 沪深300早盘收报3930.08点，跌0.62%。 科创50早盘收报1198.46点，跌2.65%。 中证500早盘收报5995.69点，跌0.17%。 中证1000早盘收报5656.39点，涨0.14%。",
-      "url": "https://wallstreetcn.com/livenews/3203919",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:31:00+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cb406e4d74cc5c20",
-      "title": "印度卢比兑美元升破92.50，为七个多月以来首次。",
-      "url": "https://flash.jin10.com/detail/20261123113058650800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T11:30:58+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "958c61502d8b1bb5",
-      "title": "11月23日午间收评：创业板指探底回升涨超1%，AI漫剧、机器人概念股集体走强",
-      "url": "https://wallstreetcn.com/livenews/3203918",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:30:44+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cefe275a4381f58a",
-      "title": "早盘收盘，国内期货主力合约跌多涨少，合成橡胶跌近6%，工业硅跌近4%，沪银、液化石油气（LPG）、20号胶跌超3%，聚丙烯月均、橡胶跌近3%，苯乙烯（EB）跌超2%。涨幅方面，苹果涨超5%，生猪、红枣涨超3%，菜籽涨超2%，集运欧线、沪铝涨超1%，豆粕涨近1%。",
-      "url": "https://flash.jin10.com/detail/20261123113040193800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:30:40+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b0daeed770ed54c8",
-      "title": "菲律宾股指上涨2%。",
-      "url": "https://wallstreetcn.com/livenews/3203916",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:30:36+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3d883c9160a6363b",
-      "title": "离岸人民币同业拆息利率多数下行，两周期拆息创近一周新低",
-      "url": "https://flash.jin10.com/detail/20261123113025723800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:30:25+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "bdce49c867e68d84",
-      "title": "国债期货早盘收盘，30年期主力合约跌0.14%，10年期主力合约跌0.02%，5年期主力合约涨0.01%，2年期主力合约涨0.00%。",
-      "url": "https://wallstreetcn.com/livenews/3203915",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:30:00+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "ae4b62f1c0c95c72",
-      "title": "包钢股份：暂无对钢铁资产进行剥离或分拆的计划",
-      "url": "https://flash.jin10.com/detail/20261123112824847800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:28:24+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cc7fc77259fa077a",
-      "title": "小摩：警惕AI板块重演2000年危机",
-      "url": "https://flash.jin10.com/detail/20261123112807921800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:28:07+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2c7d36750f1763c7",
-      "title": "财联社11月23日电，台湾证交所加权股价指数上涨2%至36,757.01点。",
-      "url": "https://www.cls.cn/detail/2541349",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:26:52+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "c17663f0b8aa5b92",
-      "title": "台湾证交所加权股价指数上涨2%至36,757.01点。",
-      "url": "https://wallstreetcn.com/livenews/3203914",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:26:36+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "38256a1d51bb25c2",
-      "title": "蚂蚁百灵开源医疗健康模型 LingSante-3.1-flash",
-      "url": "https://wallstreetcn.com/livenews/3203913",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:26:23+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "6a4ebe6e2849e2fd",
-      "title": "工信部发布关于侵害用户权益行为的APP（SDK）通报（2026年第7批，总第60批）。",
-      "url": "https://flash.jin10.com/detail/20261123112503592800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:25:03+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "24aa2b060a320875",
-      "title": "临近午盘2只主动ETF快速翻红",
-      "url": "https://www.cls.cn/detail/2541347",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:24:02+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f22ee53a7dbe58d9",
-      "title": "多只创业板ETF涨超1%",
-      "url": "https://flash.jin10.com/detail/20261123112330358800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:23:30+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "c0c44237638ed53c",
-      "title": "金价暴跌后撞上假期，本周行情更难看懂？",
-      "url": "https://flash.jin10.com/detail/20261123112317128800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:23:17+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "239257491b0f8538",
-      "title": "【风口研报·公司】黄鸡景气回升叠加生猪产能去化，这家公司鸡+猪双主业有望迎来周期共振、三季度净利润同比增长120%，成本与区位优势蓄势价格修复",
-      "url": "https://www.cls.cn/detail/2541336",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:23:15+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e4822247ffd6ec26",
-      "title": "证券业首个人工智能应用发展联盟成立",
-      "url": "https://www.cls.cn/detail/2541340",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:22:17+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "02b8f23cfa62eabf",
-      "title": "我国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项",
-      "url": "https://flash.jin10.com/detail/20261123112205033800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:22:05+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "dfe9a55f2cd97ed5",
-      "title": "国内首个！蚂蚁阿福上线实时视频功能，实现AI“望闻问切”",
-      "url": "https://wallstreetcn.com/livenews/3203910",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:21:47+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d6317932c36a9027",
-      "title": "永杰新材：铝价波动短期对经营业绩有一定影响 长期相对稳定",
-      "url": "https://flash.jin10.com/detail/20261123112144898800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:21:44+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e0ead8c7b717a338",
-      "title": "【电报解读】机器视觉正升级为智能机器人的“核心感知与决策大脑”，三条曲线共同推动机器视觉行业需求持续高增长，这家公司已推出面向3D机器人应用",
-      "url": "https://www.cls.cn/detail/2541317",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:20:35+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "28ba3e155b9dd761",
-      "title": "创业板指涨逾1% 算力硬件板块反弹",
-      "url": "https://www.cls.cn/detail/2541345",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:20:01+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "153d585401771f1b",
-      "title": "FBI数据库疑遭黑客入侵，特朗普称或有“积极一面”",
-      "url": "https://flash.jin10.com/detail/20261123111950992800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:19:50+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "c7bb4c61f9a17079",
-      "title": "PCB概念涨势扩大 世运电路、崇达技术双双涨停",
-      "url": "https://www.cls.cn/detail/2541344",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:18:54+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1df9ab8851ed7010",
-      "title": "创业板指涨超1%，此前一度跌超1%。",
-      "url": "https://wallstreetcn.com/livenews/3203909",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:18:54+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7946af35da12bf37",
-      "title": "创业板指涨超1%，人形机器人，元件、CRO等板块涨幅居前；沪深京三市超1800股上涨。",
-      "url": "https://flash.jin10.com/detail/20261123111848957800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:18:48+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "a98a59db873b0145",
@@ -410,88 +1060,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T11:18:20+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "每经记者｜程晓玲"
-    },
-    {
-      "id": "599849a9dd25d28a",
-      "title": "国内多家品牌金饰克价上涨",
-      "url": "https://www.cls.cn/detail/2541339",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:16:22+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "89136f97c05ccf36",
-      "title": "亚洲信用利差升至三周高位，信贷市场恐惧情绪升温",
-      "url": "https://flash.jin10.com/detail/20261123111528520800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:15:28+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0e1da95ba9b058d7",
-      "title": "寒潮预期叠加供应紧张 欧洲天然气价格大涨",
-      "url": "https://flash.jin10.com/detail/20261123111340499800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T11:13:40+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "75fbb4687773403a",
-      "title": "A股人形机器人板块震荡走高，安培龙、恒工精密、维宏股份等多股20cm涨停，宇树科技涨超10%，上纬新材、豪恩汽电、恒辉安防等个股跟涨。",
-      "url": "https://flash.jin10.com/detail/20261123111323596800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:13:23+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "cd9bb3614de94b2a",
-      "title": "3D打印概念震荡回升 海正生材20cm涨停",
-      "url": "https://www.cls.cn/detail/2541337",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:13:21+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e4b862eb2417b80f",
-      "title": "财联社11月23日电，越南股指VN指数下跌1%至1671.89点。",
-      "url": "https://www.cls.cn/detail/2541335",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:12:47+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "e893f9b338ef9c5e",
-      "title": "金十数据整理：每日存储市场要闻速递（2026-11-23）",
-      "url": "https://flash.jin10.com/detail/20261123111247874800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:12:47+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "a5e50576cec5133c",
-      "title": "国内金饰克价上涨逾20元/克",
-      "url": "https://flash.jin10.com/detail/20261123111220642800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:12:20+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "86c8d872e9dd5b5a",
@@ -500,158 +1070,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T11:12:06+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "每经记者｜刘旭强"
-    },
-    {
-      "id": "e7e827eec3153cfb",
-      "title": "隔夜shibor报1.2620%，上涨0.08个基点；7天shibor报1.3730%，上涨1.1个基点；3个月shibor报1.4000%，与上日持平。点击查看>>",
-      "url": "https://flash.jin10.com/detail/20261123111156183800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:11:56+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "bcbd9270b6ed15fb",
-      "title": "越南股指VN指数下跌1%。",
-      "url": "https://wallstreetcn.com/livenews/3203905",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:11:47+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "5c258ed199675868",
-      "title": "瓦努阿图群岛地区发生6.5级地震 震源深度600千米",
-      "url": "https://www.cls.cn/detail/2541334",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:11:44+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "3fea870abb66f5f6",
-      "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康",
-      "url": "https://wallstreetcn.com/livenews/3203904",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:11:07+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "859f4a067f33dadc",
-      "title": "“固态锂电池标准项目组”将成立 正式编制《固态锂离子电池和电池组安全技术规范》",
-      "url": "https://wallstreetcn.com/livenews/3203902",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:10:23+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "36c60c51d52b1933",
-      "title": "A股半导体板块回升，炬芯科技涨超14%，恒玄科技涨超13%，瑞芯微、富瀚微、乐鑫科技、先导基电等个股跟涨。",
-      "url": "https://flash.jin10.com/detail/20261123110940655800",
-      "source": "金十数据",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:09:40+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0e49aadc1c2dfa4f",
-      "title": "特朗普：希望英伟达董事会重新聘用黄仁勋",
-      "url": "https://www.cls.cn/detail/2541331",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:09:30+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "44bd1cc4f81a27e5",
-      "title": "市场监管总局发布一批移动实验室领域国家标准",
-      "url": "https://www.cls.cn/detail/2541330",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:09:10+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "48512d854a623907",
-      "title": "Bernstein：未来三年石油市场将转为供应过剩",
-      "url": "https://wallstreetcn.com/livenews/3203901",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:06:26+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "bf1fe74a5b3cbadd",
-      "title": "贝森特警告美联储过度紧缩恐犯错！但抗通胀优先，股市恐等不到救援",
-      "url": "https://flash.jin10.com/detail/20261123110537531800",
-      "source": "金十数据",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T11:05:37+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "7f38319883a84485",
-      "title": "财联社11月23日电，韩国财政部长称，2026年设施投资预计增长约8%，为五年来最高水平。",
-      "url": "https://www.cls.cn/detail/2541326",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T11:05:04+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1ace1e1796f0a74d",
-      "title": "台股融资余额大减 退潮规模至少30年来最大",
-      "url": "https://wallstreetcn.com/livenews/3203900",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:04:40+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "809e2aede1bd36c0",
-      "title": "物理AI概念持续走强 凡拓数创20cm2连板",
-      "url": "https://www.cls.cn/detail/2541324",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:04:25+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b4a372c1d66f8790",
-      "title": "财联社11月23日电，印度尼西亚10月货币供应量（M2）同比增长9.3%，而9月为增长8.5%。",
-      "url": "https://www.cls.cn/detail/2541325",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:04:22+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2a7acdd0da56e110",
-      "title": "【盘中宝】头部玩家商业化数据持续爬坡，该行业距离商业闭环再进一步，这家公司是国内领先的细分领域系统供应商",
-      "url": "https://www.cls.cn/detail/2541318",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:02:58+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "95e53689b3af82ce",
@@ -660,28 +1080,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T11:02:10+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "未来产业是先进制造业的战略储备，也是培育新质生产力的重要方向。可是再前沿的产业也要靠一枚枚过硬的底层零件撑住。有一枚橡皮大小的零件，全球曾经只有一家企业能批量生产。在安徽安庆，这枚零件到底是怎么被啃下来的？"
-    },
-    {
-      "id": "603c7116cba0b32b",
-      "title": "隔夜SHIBOR报1.2620%，上涨0.08个基点。 7天SHIBOR报1.3730%，上涨1.10个基点。 3个月SHIBOR报1.4000%，上涨0.00个基点。",
-      "url": "https://wallstreetcn.com/livenews/3203899",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:01:00+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "930308b08cb4197c",
-      "title": "实验性鼻滴剂有望提供阿尔茨海默病治疗新思路",
-      "url": "https://wallstreetcn.com/livenews/3203897",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T11:00:02+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "e9e010d4ce7b4b18",
@@ -690,7 +1090,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:59:45+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "近一个月以来，崇礼、阿勒泰、北大湖等地雪场陆续开板，“开板即火”，商旅平台上，“滑雪”搜索量同比增长125%；崇礼一家雪场开板首个周末，客流比上一雪季同期增长近两成。"
     },
     {
@@ -700,7 +1100,7 @@
       "source": "BBC World",
       "category": "世界要闻",
       "published_at": "2026-11-23T10:59:35+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
     },
     {
@@ -710,48 +1110,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:57:03+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "11月23日，18只主动ETF在沪深交易所上市，沪市、深市各9只，合计募集360亿元。这批产品全部触及20亿元募集规模上限并提前结束募集，其中17只因超募启动比例配售，有效认购户数超过30万户。"
-    },
-    {
-      "id": "10f28050d246b921",
-      "title": "A股AI漫剧、影视股持续活跃，上海电影涨停，横店影视此前封板，幸福蓝海、海看股份、果麦文化、芒果超媒涨超5%。",
-      "url": "https://wallstreetcn.com/livenews/3203896",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:56:39+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "6f7b93703755b768",
-      "title": "美国总统特朗普：我希望英伟达董事会重新聘用黄仁勋。 重新聘用黄仁勋对英伟达和美国来说都是最好的选择。",
-      "url": "https://wallstreetcn.com/livenews/3203894",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:56:14+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "43d6bb862c55b21e",
-      "title": "主力资金监控：长鑫科技净卖出超6亿",
-      "url": "https://www.cls.cn/detail/2541314",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:54:54+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d2f15599dd7efb06",
-      "title": "AI漫剧概念持续走高 上海电影等多股涨停",
-      "url": "https://www.cls.cn/detail/2541315",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:54:31+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "e09bb3befbbb0176",
@@ -760,7 +1120,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:54:23+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "金价震荡回调，黄金挂钩理财“退烧”？新发节奏放缓，部分产品净值承压"
     },
     {
@@ -770,78 +1130,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:51:29+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "记者 王军伟 颜之宏 孟盈如"
-    },
-    {
-      "id": "a2dc2786574e8e31",
-      "title": "财联社11月23日电，伦敦金属交易所（LME）三个月期铜延续跌势，下跌1.74%，报每吨11948美元。",
-      "url": "https://www.cls.cn/detail/2541313",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:50:56+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f5073f32161072f3",
-      "title": "半导体设备板块震荡回落 中科飞测跌超10%",
-      "url": "https://www.cls.cn/detail/2541311",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:50:06+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "b8215290da9ac8df",
-      "title": "18只主动ETF申赎清单发布 茅台、美的、宁德位居重仓股前三",
-      "url": "https://www.cls.cn/detail/2541310",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:46:01+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0e0465b3e9c2ef0e",
-      "title": "香港恒生指数盘中跌破22,000点关口，创2025年4月30日以来新低。",
-      "url": "https://wallstreetcn.com/livenews/3203892",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:45:42+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d634daf648bb628b",
-      "title": "韩国企划财政部长官Lee Hyoung Il：无法就汇率水平置评，但如果经常账户顺差持续，汇率走势可能会更紧密地反映基本面。 预计今年GDP增速将在3%区间的较高水平；从技术层面看，4%的增长也在可能范围内。 稳健的增长势头将在2027年延续；在国际油价预计保持稳定的背景下，通胀将有所缓解。 包括AI行业监管、地缘政治问题以及全球高利率在内的外部风险非常高；芯片行业的波动可能会向宏观经济传导。 本周将宣布加强电动汽车行业的举措。 从明年起，将经济增长预测的发布频次从两次增加至",
-      "url": "https://wallstreetcn.com/livenews/3203891",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:44:46+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "2588d9b311bed05d",
-      "title": "韩国预计稳市举措将提振市场情绪",
-      "url": "https://wallstreetcn.com/livenews/3203890",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:42:27+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f6951cd17a82f28a",
-      "title": "韩国财长：政府稳定股市举措有望提振投资者信心 拟研究启动稳定基金",
-      "url": "https://www.cls.cn/detail/2541309",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:41:53+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "14ab3542e7f45feb",
@@ -850,28 +1140,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:41:12+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "光明日报北京11月22日电 记者张翼从商务部获悉，今年1至10月，我国电子商务平稳发展，线上线下融合持续增强消费市场韧性，数字技术赋能产业转型升级，“丝路电商”拓展国际经贸合作，商务领域新质生产力不断培育壮大，助力我国经济向新向优。"
-    },
-    {
-      "id": "12c3c560bb89c5af",
-      "title": "证券业人工智能应用发展联盟正式成立",
-      "url": "https://wallstreetcn.com/livenews/3203889",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:40:23+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "d1020424ad8be3be",
-      "title": "三大指数均跌逾1%",
-      "url": "https://www.cls.cn/detail/2541306",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:39:51+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "76168c816e5093c0",
@@ -880,118 +1150,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:39:38+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "央视网消息(新闻联播)：财政部数据显示，今年1—10月，全国一般公共预算收入19.57万亿元，同比增长4.9%，实现平稳增长。"
-    },
-    {
-      "id": "eeee2b8a66153d02",
-      "title": "A股三大指数均跌超1%，科创50跌超4%，房地产、半导体、军工、家电等方向跌幅居前，沪深京三市下跌个股超4800只。",
-      "url": "https://wallstreetcn.com/livenews/3203886",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:37:44+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "f84ab8c9310a6ea4",
-      "title": "恒生科技指数跌超3%，零跑汽车跌超14%。",
-      "url": "https://wallstreetcn.com/livenews/3203884",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:37:03+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "88ba4b4797cf6601",
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:37:02+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building."
-    },
-    {
-      "id": "e5110b6d2b1a422b",
-      "title": "恒生科技指数下跌3%",
-      "url": "https://www.cls.cn/detail/2541303",
-      "source": "财联社",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:36:31+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "63d857186815dd91",
-      "title": "韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘。",
-      "url": "https://wallstreetcn.com/livenews/3203883",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:36:20+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "14fd6f13eb46ae0a",
-      "title": "财联社11月23日电，韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖出。",
-      "url": "https://www.cls.cn/detail/2541302",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:34:20+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "0c4f4fbbc40496af",
-      "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报89850元/吨，较上日16:30价格下跌1750元/吨。",
-      "url": "https://wallstreetcn.com/livenews/3203882",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:33:30+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "34057b9f8c2abf23",
-      "title": "科创50指数跌超4%。",
-      "url": "https://wallstreetcn.com/livenews/3203881",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:33:13+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "69678857a20d4ab0",
-      "title": "韩国首尔综指跌幅扩大至5%。",
-      "url": "https://wallstreetcn.com/livenews/3203879",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:32:54+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "1ac61bced40ab05a",
-      "title": "伦铜跌破12000美元/吨",
-      "url": "https://www.cls.cn/detail/2541299",
-      "source": "财联社",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:32:51+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
-    },
-    {
-      "id": "84520ec7da345391",
-      "title": "伦敦铜价跌破每吨12,000美元，市场抛售加剧。",
-      "url": "https://wallstreetcn.com/livenews/3203878",
-      "source": "华尔街见闻",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T10:32:32+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "13221a00cd1efee3",
@@ -1000,18 +1160,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:30:04+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "继秋假之后，“雪假”也来了。随着2026年新雪季开启，吉林、新疆阿勒泰、内蒙古呼伦贝尔、河北张家口等地中小学生迎来特色“雪假”。雪假的意义远不止于多放几天假，它既是对青少年冰雪运动普及的有益探索，也是以“小手拉大手”方式激活家庭冰雪消费、撬动冰雪经济的重要引擎。"
-    },
-    {
-      "id": "36316bc79d408bd4",
-      "title": "中证半导体产业指数盘中跌幅扩至6%。",
-      "url": "https://wallstreetcn.com/livenews/3203877",
-      "source": "华尔街见闻",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:29:20+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": ""
     },
     {
       "id": "9b6f4035fc6aff59",
@@ -1020,7 +1170,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:27:04+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "深圳之于APEC，是一个新的起点。"
     },
     {
@@ -1030,7 +1180,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:23:41+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "央视网消息(新闻联播)：我国北方地区已经全面开启冬季供暖，煤炭、天然气以及清洁电能等能源供应协同发力，全力保障群众温暖过冬。"
     },
     {
@@ -1040,7 +1190,7 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:21:09+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "8000亿元“金融活水”投向了哪些项目(财经深一度)"
     },
     {
@@ -1050,158 +1200,8 @@
       "source": "中新网财经",
       "category": "中国财经",
       "published_at": "2026-11-23T10:15:39+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
+      "fetched_at": "2026-11-23T15:25:40+08:00",
       "summary": "沪深北交易所降低融资保证金比例下限至80%"
-    },
-    {
-      "id": "79238ae242c669aa",
-      "title": "21世纪金融年会启幕 爱康集团发布《2026 版银行及保险高净值客户健康绿皮书》",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736276.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:11:47+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "爱康集团《2026版银行及保险高净值客户健康绿皮书》 11月21日，由南方财经全媒体集团指导、《21世纪经济报道》主办的“第二十一届21世纪金融年会”在北京启幕，本届年会以“破局与笃行：金融锚定新质增长”为主题。自2006年首届举办至今，21世纪金融年会已走过二十载，持续见证并赋能中国金融业高质量发展。"
-    },
-    {
-      "id": "7e568df761429dba",
-      "title": "经济保持增长 为什么有些人的感受不一样？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736305.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:10:59+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "不久前，国家统计局公布了前三季度成绩单，中国经济保持增长，大盘子稳住了。可有些朋友会问：“数据是不错，可我怎么没觉得松快呢？”经济在增长，为什么有些人的感受不一样？"
-    },
-    {
-      "id": "73d2bf24f525d9aa",
-      "title": "从车厘子的“鲜”，品出亚太共同体的“甜”（财经观）",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736296.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T10:06:49+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "王东辉"
-    },
-    {
-      "id": "59817429991c87fc",
-      "title": "A股创业板指火速翻红",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736281.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T09:55:04+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "23日，A股开盘后，创业板指火速翻红，截至发稿涨0.08%。成分股中，新易盛、中际旭创、天孚通信集体上涨，其中，新易盛涨超5%。"
-    },
-    {
-      "id": "2661462062cb7455",
-      "title": "上海黄金交易所：近期贵金属价格波动显著加剧 做好市场风险控制工作",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736266.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T09:52:00+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "中新网11月23日电 据上海黄金交易所官网消息，11月23日，上海黄金交易所发布关于做好近期市场风险控制工作的通知：近期影响市场不稳定的因素较多，不确定性持续上升，贵金属价格波动显著加剧，请密切关注市场行情变化，做细做好风险应急预案，维护市场平稳运行。同时，提示投资者做好风险防范工作，合理控制仓位，理性投资。"
-    },
-    {
-      "id": "a9b04c5bb5784ff1",
-      "title": "美伊谈判僵持冲突外溢 内塔尼亚胡被曝欲单独对伊动武",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736273.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T09:47:06+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "当地时间22日，美国与伊朗之间军事冲突不断。伊朗宣布24小时内击落4架美军无人机，当天霍尔木兹海峡又有油轮触雷起火。与此同时，美伊冲突外溢持续，巴林称伊朗对该国的袭击造成人员受伤。美国提醒在巴林公民提高警惕，称敌对行动可能升级。"
-    },
-    {
-      "id": "17fe6c873f910505",
-      "title": "韩国各地手机一天内三次警报大作，三天后韩国教育部长辞职",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736272.shtml",
-      "source": "中新网国际",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T09:43:57+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "原标题：韩国各地手机一天内三次警报大作，有人被惊醒，有人误以为战争爆发，三天后韩国教育部长辞职 | 国际早察"
-    },
-    {
-      "id": "173cefebac65cd31",
-      "title": "A股周一开盘：超5000只个股飘绿，三大指数集体低开",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736270.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T09:38:21+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "原标题：A股周一开盘：超5000只个股飘绿，三大指数集体低开；黄金股领涨；半导体、传媒、通信设备下跌"
-    },
-    {
-      "id": "bc2350ff4ca3ca47",
-      "title": "11月23日央行开展4995亿元隔夜逆回购操作",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736260.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T09:29:45+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "中新网11月23日电 2026年11月23日中国人民银行以固定利率、数量招标方式开展了4995亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下："
-    },
-    {
-      "id": "f9909bf3c44a6699",
-      "title": "11月23日人民币对美元中间价报6.7120 上调11个基点",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736257.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T09:28:05+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "中新网11月23日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月23日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7120元，上调11个基点。"
-    },
-    {
-      "id": "7e5383763bcf3b01",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T09:23:43+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
-    },
-    {
-      "id": "5ed34458ebbaa615",
-      "title": "黄金跌跌不休，何时反弹？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736253.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T09:12:18+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "中新网11月23日电(记者 左雨晴) 最近一周，国际金价接连失守3900美元、3800美元、3700美元、3600美元关口，创下近14个月新低。"
-    },
-    {
-      "id": "e4dc3fa8f4ea0ce6",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T08:50:35+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
-    },
-    {
-      "id": "f52c822b3d4b2383",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "世界要闻",
-      "published_at": "2026-11-23T08:33:36+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
-    },
-    {
-      "id": "2fdbae583c3fd073",
-      "title": "把机器人“教”进真实世界",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736244.shtml",
-      "source": "中新网财经",
-      "category": "中国财经",
-      "published_at": "2026-11-23T08:30:37+08:00",
-      "fetched_at": "2026-11-23T11:58:48+08:00",
-      "summary": "具身智能机器人应用技术员："
     }
   ],
   "sources": [
@@ -1209,7 +1209,7 @@
       "name": "财联社",
       "url": "https://newsnow.busiyi.world/api/s?id=cls-telegraph",
       "via": "NewsNow",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1218,7 +1218,7 @@
       "name": "华尔街见闻",
       "url": "https://newsnow.busiyi.world/api/s?id=wallstreetcn-quick",
       "via": "NewsNow",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1227,16 +1227,16 @@
       "name": "金十数据",
       "url": "https://newsnow.busiyi.world/api/s?id=jin10",
       "via": "NewsNow",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
-      "count": 30,
+      "count": 28,
       "excluded_unknown_time": 0
     },
     {
       "name": "中新网财经",
       "url": "https://www.chinanews.com.cn/rss/finance.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
       "count": 30,
       "excluded_unknown_time": 0
@@ -1245,16 +1245,16 @@
       "name": "中新网国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
-      "count": 26,
+      "count": 30,
       "excluded_unknown_time": 0
     },
     {
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "via": "官方 RSS",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
       "count": 16,
       "excluded_unknown_time": 0
@@ -1267,12 +1267,12 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/000001.SS/",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
-      "price": 3499.912,
-      "change_pct": -0.958770619830196,
+      "price": 3538.948,
+      "change_pct": 0.1458781342197124,
       "currency": "CNY",
-      "quoted_at": "2026-11-23T11:30:20+08:00",
+      "quoted_at": "2026-11-23T15:00:35+08:00",
       "history": [
         {
           "time": "2026-10-23T09:30:00+08:00",
@@ -1360,10 +1360,10 @@
         },
         {
           "time": "2026-11-23T09:30:00+08:00",
-          "close": 3499.911865234375
+          "close": 3538.947998046875
         }
       ],
-      "five_day_pct": -2.849578673319908,
+      "five_day_pct": -1.7660189018432804,
       "note": "延迟报价；非交易时段为最近报价。"
     },
     {
@@ -1372,12 +1372,12 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EHSI/",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
-      "price": 22287.56,
-      "change_pct": -0.5499169014661409,
+      "price": 22385.99,
+      "change_pct": -0.11070903486303241,
       "currency": "HKD",
-      "quoted_at": "2026-11-23T11:43:48+08:00",
+      "quoted_at": "2026-11-23T15:10:38+08:00",
       "history": [
         {
           "time": "2026-10-23T09:30:00+08:00",
@@ -1465,10 +1465,10 @@
         },
         {
           "time": "2026-11-23T09:30:00+08:00",
-          "close": 22287.560546875
+          "close": 22385.990234375
         }
       ],
-      "five_day_pct": -6.172811862818883,
+      "five_day_pct": -5.758436752742102,
       "note": "延迟报价；非交易时段为最近报价。"
     },
     {
@@ -1477,7 +1477,7 @@
       "unit": "点",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
       "price": 22617.732,
       "change_pct": -5.282703189475024,
@@ -1586,17 +1586,13 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/GC%3DF/",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
-      "price": 3604.7,
-      "change_pct": 2.5402543135053524,
+      "price": 3632.5,
+      "change_pct": 3.3310605026238393,
       "currency": "USD",
-      "quoted_at": "2026-11-23T11:48:41+08:00",
+      "quoted_at": "2026-11-23T15:15:39+08:00",
       "history": [
-        {
-          "time": "2026-10-22T12:00:00+08:00",
-          "close": 4060.39990234375
-        },
         {
           "time": "2026-10-23T12:00:00+08:00",
           "close": 4007.89990234375
@@ -1682,11 +1678,11 @@
           "close": 3515.39990234375
         },
         {
-          "time": "2026-11-23T11:48:41+08:00",
-          "close": 3604.699951171875
+          "time": "2026-11-23T13:00:00+08:00",
+          "close": 3632.5
         }
       ],
-      "five_day_pct": -6.444329094212309,
+      "five_day_pct": -5.722813392161951,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     },
     {
@@ -1695,17 +1691,13 @@
       "unit": "美元/盎司",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/SI%3DF/",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
-      "price": 42.07,
-      "change_pct": 2.522237495885271,
+      "price": 42.695,
+      "change_pct": 4.045327546632316,
       "currency": "USD",
-      "quoted_at": "2026-11-23T11:48:46+08:00",
+      "quoted_at": "2026-11-23T15:15:33+08:00",
       "history": [
-        {
-          "time": "2026-10-22T12:00:00+08:00",
-          "close": 54.763999938964844
-        },
         {
           "time": "2026-10-23T12:00:00+08:00",
           "close": 53.71099853515625
@@ -1791,11 +1783,11 @@
           "close": 41.03499984741211
         },
         {
-          "time": "2026-11-23T11:48:46+08:00",
-          "close": 42.06999969482422
+          "time": "2026-11-23T13:00:00+08:00",
+          "close": 42.69499969482422
         }
       ],
-      "five_day_pct": -10.078016164988657,
+      "five_day_pct": -8.742117902642988,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     },
     {
@@ -1804,17 +1796,13 @@
       "unit": "美元/桶",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CL%3DF/",
-      "checked_at": "2026-11-23T11:58:48+08:00",
+      "checked_at": "2026-11-23T15:25:40+08:00",
       "status": "ok",
-      "price": 83.25,
-      "change_pct": -0.8692585469792347,
+      "price": 83.07,
+      "change_pct": -1.0835952852560449,
       "currency": "USD",
-      "quoted_at": "2026-11-23T11:48:33+08:00",
+      "quoted_at": "2026-11-23T15:15:32+08:00",
       "history": [
-        {
-          "time": "2026-10-22T12:00:00+08:00",
-          "close": 99.47000122070312
-        },
         {
           "time": "2026-10-23T12:00:00+08:00",
           "close": 103.2699966430664
@@ -1900,11 +1888,11 @@
           "close": 83.9800033569336
         },
         {
-          "time": "2026-11-23T11:48:33+08:00",
-          "close": 83.25
+          "time": "2026-11-23T13:00:00+08:00",
+          "close": 83.06999969482422
         }
       ],
-      "five_day_pct": -2.8814759513869137,
+      "five_day_pct": -3.0914619493298656,
       "note": "延迟报价；非交易时段为最近报价。期货为供应商连续近月口径，换月可能影响走势。"
     }
   ],
