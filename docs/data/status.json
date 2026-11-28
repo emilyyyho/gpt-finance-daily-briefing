@@ -504,5 +504,15 @@
     "report": "reports/2026-11-28-am.md",
     "ai": false,
     "sent_at": "2026-11-28T12:13:32+08:00"
+  },
+  "2026-11-28-pm": {
+    "status": "sending",
+    "label": "晚报",
+    "planned_at": "2026-11-28T20:00:00+08:00",
+    "generated_at": "2026-11-28T21:33:36+08:00",
+    "news_count": 20,
+    "kind": "news",
+    "report": "reports/2026-11-28-pm.md",
+    "ai": false
   }
 }
